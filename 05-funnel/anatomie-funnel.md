@@ -147,6 +147,24 @@ Vrai pour : e-commerce, SaaS, infoproduit, appels de vente.
 
 ---
 
+## Le concept FUNNEL DE FUNNEL
+
+```
+FUNNEL 1  →  break-even. 1 € entre, 1 € sort. Zéro profit assumé.
+              Son seul job : acquérir des leads qualifiés (des ACHETEURS).
+                  │
+                  ↓
+FUNNEL 2  →  c'est ICI que tu fais du profit.
+```
+
+C'est la structure qui permet de scaler un low ticket. Si tu es break-even avec
+ton seul produit d'appel, **tu iras très loin.**
+
+⚠️ Corollaire : tu ne peux pas scaler un low ticket **sans upsells ni bumps**.
+Ce n'est pas "quasiment obligatoire", c'est obligatoire.
+
+---
+
 ## Thank you page
 
 **Vends aussi sur la thank you page.** Il y a du trafic, donc il y a de la vente.

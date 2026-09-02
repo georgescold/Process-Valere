@@ -17,6 +17,8 @@ Source : formation Business OS (modules "Les bases" + lives). Un praticien qui a
 4. Si la question porte sur **du copy à écrire** → `03-marketing-copy/` + `07-templates/`
 5. Si la question porte sur **de la pub** → `02-acquisition/`
 6. Si on demande **"optimise mon funnel"** → `05-funnel/optimisation-checklist.md`
+7. Si la question porte sur **le scaling / l'équipe / la structure** → `08-scaling/`
+8. **Avant de répondre à toute question fermée** ("est-ce que je dois…", "low ou high ticket", "quel budget") → vérifier `09-faq/arbitrages.md`, la réponse y est peut-être déjà tranchée
 
 ## Les 4 lois non négociables
 
@@ -42,6 +44,8 @@ Ces règles écrasent toute autre considération. Si une réponse les viole, ell
 | `05-funnel/` | Anatomie du funnel, checklist d'optimisation (11 métriques) |
 | `06-process/` | **PROCESS-MAITRE.md** — le pipeline complet de création de funnel |
 | `07-templates/` | Scripts ads, 10 types de leads, objets email, prompts IA, docs de travail |
+| `08-scaling/` | Passer de 100k à 300k, équipe, rémunération, structure, expatriation |
+| `09-faq/` | Arbitrages tranchés — les questions récurrentes, déjà décidées |
 
 Point d'entrée narratif : `00-INDEX.md`
 

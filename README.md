@@ -32,8 +32,10 @@ infoproduit — de l'ad copy jusqu'à l'offre.
 ├── 04-produit/                   Philosophie MVP · formats DFY / DWY / DIY
 ├── 05-funnel/                    Anatomie · checklist des 11 métriques
 ├── 06-process/                   ⭐ PROCESS-MAITRE.md
-└── 07-templates/                 Scripts ads · 10 leads · objets email
-                                  prompts IA · doc de travail
+├── 07-templates/                 Scripts ads · 10 leads · objets email
+│                                 prompts IA · doc de travail
+├── 08-scaling/                   100k → 300k · équipe · structure · expatriation
+└── 09-faq/                       Arbitrages tranchés
 ```
 
 ---
@@ -68,3 +70,5 @@ PHASE 6  OPTIMISATION   LTV ↑ , CPA ↓ — pour toujours
 | [`03-marketing-copy/structure-ceo.md`](03-marketing-copy/structure-ceo.md) | La phrase de Blair Warren décomposée en 11 blocs opérationnels. Tout en découle. |
 | [`03-marketing-copy/creatives-ads.md`](03-marketing-copy/creatives-ads.md) | La méthode 10×10×10 : 10 scripts écrits → 1 000 créatives. |
 | [`07-templates/doc-travail-avatar-offre.md`](07-templates/doc-travail-avatar-offre.md) | Le template à dupliquer avant chaque lancement. |
+| [`08-scaling/100k-vers-300k.md`](08-scaling/100k-vers-300k.md) | Les 20 erreurs qui bloquent au palier 100k, et les 7 leviers qui débloquent. |
+| [`09-faq/arbitrages.md`](09-faq/arbitrages.md) | Les questions récurrentes, déjà tranchées. |

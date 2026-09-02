@@ -43,6 +43,19 @@
 | Quelles sont les métriques à suivre ? | `05-funnel/optimisation-checklist.md` |
 | Quelle est l'anatomie standard d'un funnel ? | `05-funnel/anatomie-funnel.md` |
 
+## Je suis à 100k+/mois, je veux scaler
+| Question | Fichier |
+|---|---|
+| Comment passer de 100k à 300k/mois ? | `08-scaling/100k-vers-300k.md` |
+| Quelles erreurs vont me bloquer à ce palier ? | `08-scaling/100k-vers-300k.md` § Les 20 choses à ne pas faire |
+| Comment recruter, payer et motiver une équipe ? | `08-scaling/equipe-et-structure.md` |
+| Comment m'associer ? Quelle répartition ? | `08-scaling/equipe-et-structure.md` § S'associer |
+| Structure juridique, banques, expatriation ? | `08-scaling/equipe-et-structure.md` |
+
+## J'ai une question précise, je veux une réponse directe
+→ **`09-faq/arbitrages.md`** — abonnement ou pas, quel budget de test, low/mid/high
+ticket, LP ou pas, copier un concurrent, native ads, lancer un SaaS, choix de niche…
+
 ## Je veux des templates prêts à l'emploi
 | Besoin | Fichier |
 |---|---|
@@ -61,4 +74,5 @@
 2. `03-marketing-copy/structure-ceo.md` ← **le plus important de tout le dossier**
 3. `03-marketing-copy/avatar-et-offre.md`
 4. `06-process/PROCESS-MAITRE.md`
-5. Le reste au besoin
+5. `09-faq/arbitrages.md` — pour éviter de reposer des questions déjà tranchées
+6. Le reste au besoin

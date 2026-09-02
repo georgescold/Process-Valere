@@ -106,9 +106,40 @@ ACCOMPAGNEMENT PREMIUM (50 000 €+)
 C'est la stratégie de référence de l'atelier ADS : challenge à 7 €, 7 jours,
 puis tout le monde en call pour du high ticket.
 
+---
+
+## Les 3 paliers de prix
+
+```
+LOW TICKET     <  100 €
+MID TICKET     100 € – 1 000 €     ⚠️ le piège
+HIGH TICKET    >  1 000 €
+```
+
 ⚠️ **Le mid ticket (~300 €) est le format le plus difficile.**
 Trop cher pour être un achat impulsif, pas assez cher pour justifier un appel.
 Si tu débutes, évite.
+
+> On vit dans un monde d'extrêmes. C'est du 95/5, plus du 20/80.
+
+**Si tu es coincé à 297 € :** tu t'adresses à quelqu'un prêt à payer 300 € — donc
+prêt à payer 500 ou 800. La bonne structure est :
+```
+Produit d'appel low ticket (7-27 €)  →  le 297 € en UPSELL 1
+```
+
+---
+
+## ⭐ Le test du pricing
+
+> **Si je double le prix, est-ce que j'ai deux fois moins de conversions ?**
+
+- **Oui** → neutre, ne change rien
+- **Non** → augmente. Et bonus : tu as moins de clients à gérer, donc tu peux te
+  concentrer sur la délivrabilité
+
+**La métrique de décision : l'EPC (earning per click).** Jamais le taux de
+conversion seul — sinon on mettrait tout à 1 €.
 
 ---
 
