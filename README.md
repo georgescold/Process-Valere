@@ -26,11 +26,13 @@ infoproduit — de l'ad copy jusqu'à l'offre.
 ├── 00-INDEX.md                   Carte de navigation
 │
 ├── 01-principes/                 Principes premiers · équation LTV↑ / CPA↓
-├── 02-acquisition/               Facebook Ads · anti-ban · organique · fournisseurs
-├── 03-marketing-copy/            Structure CEO · biais cognitifs · VSL · leads
-│                                 body · créatives · emailing · avatar & offre
+├── 02-acquisition/               Facebook Ads · FB vs YouTube · anti-ban
+│                                 organique · affiliation · fournisseurs
+├── 03-marketing-copy/            Structure CEO · headline/hook/big idea · biais
+│                                 VSL · leads · body · créatives · emailing · offre
 ├── 04-produit/                   Philosophie MVP · formats DFY / DWY / DIY
-├── 05-funnel/                    Anatomie · checklist des 11 métriques
+├── 05-funnel/                    Anatomie · 6 structures de landing page
+│                                 checklist des 11 métriques · portefeuille
 ├── 06-process/                   ⭐ PROCESS-MAITRE.md
 ├── 07-templates/                 Scripts ads · 10 leads · objets email
 │                                 prompts IA · doc de travail
@@ -68,6 +70,8 @@ PHASE 6  OPTIMISATION   LTV ↑ , CPA ↓ — pour toujours
 | Fichier | Pourquoi |
 |---|---|
 | [`03-marketing-copy/structure-ceo.md`](03-marketing-copy/structure-ceo.md) | La phrase de Blair Warren décomposée en 11 blocs opérationnels. Tout en découle. |
+| [`03-marketing-copy/headline-hook-bigidea.md`](03-marketing-copy/headline-hook-bigidea.md) | Headline + hook + big idea = 75 % de ta conversion. Le reste est du packaging. |
+| [`05-funnel/landing-pages.md`](05-funnel/landing-pages.md) | Les 6 structures de LP prêtes à copier (3 low ticket, 3 high ticket). |
 | [`03-marketing-copy/creatives-ads.md`](03-marketing-copy/creatives-ads.md) | La méthode 10×10×10 : 10 scripts écrits → 1 000 créatives. |
 | [`07-templates/doc-travail-avatar-offre.md`](07-templates/doc-travail-avatar-offre.md) | Le template à dupliquer avant chaque lancement. |
 | [`08-scaling/100k-vers-300k.md`](08-scaling/100k-vers-300k.md) | Les 20 erreurs qui bloquent au palier 100k, et les 7 leviers qui débloquent. |

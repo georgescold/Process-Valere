@@ -38,10 +38,10 @@ Ces règles écrasent toute autre considération. Si une réponse les viole, ell
 | Dossier | Contenu |
 |---|---|
 | `01-principes/` | Principes premiers, équation du business |
-| `02-acquisition/` | Facebook Ads, setup anti-ban, organique, fournisseurs |
-| `03-marketing-copy/` | Biais cognitifs, structure CEO, VSL, leads/hooks, créatives, emailing, avatar & offre |
+| `02-acquisition/` | Facebook Ads, Facebook vs YouTube, setup anti-ban, organique, affiliation, fournisseurs |
+| `03-marketing-copy/` | Biais cognitifs, structure CEO, **headline/hook/big idea**, VSL, leads, body, créatives, emailing, avatar & offre |
 | `04-produit/` | Philosophie produit, MVP, formats DFY/DWY/DIY, pricing |
-| `05-funnel/` | Anatomie du funnel, checklist d'optimisation (11 métriques) |
+| `05-funnel/` | Anatomie du funnel, **6 structures de landing page**, checklist d'optimisation, stratégie de portefeuille |
 | `06-process/` | **PROCESS-MAITRE.md** — le pipeline complet de création de funnel |
 | `07-templates/` | Scripts ads, 10 types de leads, objets email, prompts IA, docs de travail |
 | `08-scaling/` | Passer de 100k à 300k, équipe, rémunération, structure, expatriation |

@@ -185,6 +185,60 @@ C'est tout. C'est compliqué à exécuter, mais c'est simple à définir.
 
 ---
 
+## L'effet pyramidal d'un bon produit
+
+C'est le mécanisme qui rend un bon produit exponentiellement rentable :
+
+```
+Ton produit change la vie de Virginie
+        ↓
+L'entourage de Virginie VOIT le changement (elle a perdu du poids)
+        ↓
+"Mais comment tu as fait, Virginie ?"
+        ↓
+Sa copine achète ton programme
+        ↓
+Sa copine change de vie → son entourage le voit
+        ↓
+…et ainsi de suite
+```
+
+> Tout ça parce que tu as claqué 2 000 € dans l'amélioration d'un produit.
+
+**Le calcul :** un produit peut coûter ~2 000 € à améliorer (faire venir les
+meilleurs experts, des diplômés — ce qui donne en plus des **preuves d'autorité**
+pour tes pages de vente : *"avec le Docteur X"*). Ce que ça rapporte via cet
+effet est sans commune mesure.
+
+> **Il n'y a pas de meilleur ROI que de faire un bon produit.**
+> Et si tu as un bon produit, le marketing se fera tout seul.
+
+---
+
+## Le 20/80 des acheteurs
+
+> **20 % de tes clients rapportent 80 % de ton chiffre d'affaires.**
+
+Corollaire : prends un soin particulier de ta **liste acheteurs** — et surtout des
+gros dépensiers.
+
+**Le phénomène observé (marché US) :** certains clients achètent le même produit
+**en boucle**, jour après jour. Tu envoies un mail sur le funnel 1, ça convertit.
+Le lendemain tu renvoies sur le même funnel, ça convertit encore — la même
+personne. Certains prennent le **panier max** (les 5 upsells + le produit
+d'appel) tous les jours.
+
+**Ce qu'il faut en faire :**
+- Quand un de ces clients se désabonne, **ça coûte cher à ta boîte**
+- Traite-les à part : cadeaux, formations supplémentaires, attention personnelle
+- **Prends-les en appel pour leur vendre du high ticket** — ça marche très bien
+
+*Stratégie historique (moins efficace aujourd'hui) : proposer sur le bon de
+commande un "appel gratuit avec quelqu'un de mon équipe" — l'appel étant en
+réalité un closing pour un Mastermind à 25 000 $.*
+
+---
+
 ## L'obsession produit
 
 C'est ce qui fait la différence entre 200k/mois et au-delà.

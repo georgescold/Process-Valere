@@ -145,6 +145,28 @@ l'achat, à ~10 % du prix principal (50 €, 100 €…). Revenu incrémental im
 
 Vrai pour : e-commerce, SaaS, infoproduit, appels de vente.
 
+### Les 3 règles des upsells
+
+```
+1. Il n'y a JAMAIS assez d'upsells        (1 upsell = de l'argent)
+2. Les BÉNÉFICES sont dans les upsells
+3. ~50 % du CA est dans l'UPSELL 1        (surtout en low ticket)
+```
+
+### Les 2 grands types d'upsell
+
+| Type | Angle | Exemple (formation dropshipping) |
+|---|---|---|
+| **Plus de résultat, moins de temps** | Tu accélères la promesse | Promesse de base : 10 000 €/mois en 90 jours → Upsell : **20 000 €/mois en 30 jours** |
+| **Sans ça, tu n'as pas de résultat** ⭐ | Tu supprimes le point de friction fatal | *"La plupart des gens échouent parce qu'ils ne savent pas trouver de produit. J'ai testé plus de 100 produits avant de trouver le mien. Aujourd'hui je te propose que mes équipes fassent la recherche produit pour toi et te livrent 10 produits gagnants. Sinon, tu vas chercher sans méthode et tu n'auras jamais de résultat."* |
+
+Le type 2 est le plus puissant — c'est le même mécanisme que les **bonus qui
+lèvent les objections** (`03-marketing-copy/avatar-et-offre.md`), appliqué au
+moment du paiement.
+
+**Ordre des prix : décroissant.** Commence par le plus cher (197 €), puis descends.
+Tu veux marger à fond sur le premier.
+
 ---
 
 ## Le concept FUNNEL DE FUNNEL

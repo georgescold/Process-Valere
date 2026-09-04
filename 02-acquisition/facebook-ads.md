@@ -280,7 +280,7 @@ Cut seulement celles vraiment rincées.
 | **Facebook / Meta** | ⭐ La référence |
 | **TikTok Ads** | Très bon en ce moment, surtout e-commerce. "Tout passe" |
 | **Google Ads** | Excellent si intention de recherche (ex : SaaS pour avocats) |
-| **YouTube Ads** | ❌ Déconseillé : pas assez de data, ciblage imprécis, compliance infernale, résultats peu scalables |
+| **YouTube Ads** | ⚠️ Nuancé : **bon pour débuter** (tu payes à la vue, donc un mauvais hook ne coûte rien ; compliance souple, peu de bans). **Mauvais pour scaler** (ciblage imprécis, lead 2-3× moins rentable, ROAS qui s'effondre à budget élevé). → `02-acquisition/facebook-vs-youtube.md` |
 | **Pinterest** | Existe |
 | **PropellerAds** | Notifications push. Ultra direct response. Testé avec de bons résultats |
 | **Telegram Ads** | Peu de méta claire, personne n'est vraiment bon. Bon pour les bots Telegram |

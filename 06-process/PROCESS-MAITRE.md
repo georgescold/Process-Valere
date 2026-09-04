@@ -172,7 +172,7 @@ CLOSING (10-20 %) → 3 outils max + Always Be Leaving
 - [ ] 11. CTA
 
 > 📖 `03-marketing-copy/structure-ceo.md` · `03-marketing-copy/body-detaille.md`
-> 📖 `03-marketing-copy/vsl.md`
+> 📖 `03-marketing-copy/vsl.md` · ⭐ `03-marketing-copy/headline-hook-bigidea.md`
 
 ## 2.4 — Audit du texte (biais cognitifs)
 
@@ -193,7 +193,8 @@ CLOSING (10-20 %) → 3 outils max + Always Be Leaving
 
 ## 2.6 — Écrire les autres pages
 
-- [ ] **Landing page** (si applicable) : headline + email + CTA. Simple.
+- [ ] **Landing page** (si applicable) → choisir parmi les **6 structures** :
+      `05-funnel/landing-pages.md`
 - [ ] **Bon de commande** : bénéfices, preuves, urgence, sécurité, bonus,
       remboursement, résumé, Q&A, témoignages
 - [ ] **Le BUMP** : "décision facile, no-brainer" — **pré-coché**

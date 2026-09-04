@@ -15,6 +15,7 @@
 |---|---|
 | Quels leviers psychologiques j'utilise ? | `03-marketing-copy/biais-cognitifs.md` |
 | Quelle structure pour un texte de vente ? | `03-marketing-copy/structure-ceo.md` |
+| ⭐ Headline, hook, big idea — le 20/80 ? | `03-marketing-copy/headline-hook-bigidea.md` |
 | Comment j'écris une VSL complète ? | `03-marketing-copy/vsl.md` |
 | Comment je démarre un texte (hook / lead) ? | `03-marketing-copy/leads-et-hooks.md` |
 | Comment je développe le corps du texte ? | `03-marketing-copy/body-detaille.md` |
@@ -26,6 +27,8 @@
 | Question | Fichier |
 |---|---|
 | Comment je structure une campagne Facebook ? | `02-acquisition/facebook-ads.md` |
+| Facebook ou YouTube Ads ? | `02-acquisition/facebook-vs-youtube.md` |
+| Comment je gère mes affiliés ? | `02-acquisition/affiliation.md` |
 | Quel budget, quel pixel, quel ciblage ? | `02-acquisition/facebook-ads.md` § Budget & Pixel |
 | Comment j'évite les bans / je setup mes comptes ? | `02-acquisition/setup-anti-ban.md` |
 | Comment je perce en organique ? | `02-acquisition/organique.md` |
@@ -42,6 +45,8 @@
 |---|---|
 | Quelles sont les métriques à suivre ? | `05-funnel/optimisation-checklist.md` |
 | Quelle est l'anatomie standard d'un funnel ? | `05-funnel/anatomie-funnel.md` |
+| ⭐ Quelle structure de landing page choisir ? | `05-funnel/landing-pages.md` |
+| Un seul funnel ou beaucoup de funnels ? | `05-funnel/strategie-portefeuille.md` |
 
 ## Je suis à 100k+/mois, je veux scaler
 | Question | Fichier |

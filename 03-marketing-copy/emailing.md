@@ -84,13 +84,48 @@ Automatisation déclenchée après un opt-in.
 
 Durée : 7 à 14 jours. Fréquence : 1 à 2 emails/jour.
 
-### 3. SPAM (3 mails/jour) ⭐ 3/10 — à éviter
+### 3. EMAIL PAGE DE VENTE ⭐ 7/10 — le format Agora
+
+Un email **très long** — l'équivalent de 5-6 pages Google Doc — qui est en réalité
+une page de vente complète. Le lien renvoie **directement sur le bon de commande**.
+
+```
+HOOK → structure complète de vente → PRIX ANNONCÉ → lien = BON DE COMMANDE
+```
+
+Le but : **closer le prospect directement dans l'email**, sans page intermédiaire.
+C'est ce que fait Agora, et ça marche très bien.
+
+⚠️ Demande un excellent niveau de copywriting. Ce n'est pas un format de débutant.
+
+### 4. SPAM (3 mails/jour) ⭐ 3/10 — à éviter
 
 Argent court terme, mails très courts et simples.
 Désavantages : pas de relation, désabonnements massifs, LTV faible, image scam,
 délivrabilité qui s'effondre.
 
 > "Ça a peut-être marché un moment. Ça ne marche plus aujourd'hui."
+
+---
+
+> **La meilleure approche : un mélange des trois** (relation + page de vente,
+> et le spam jamais). Une séquence dure typiquement 7 à 10 jours, à raison de
+> 1 à 3 mails par jour sur la même offre.
+
+---
+
+## Pourquoi le spam ne vaut pas le coup — le raisonnement
+
+Ce n'est pas une question d'éthique, c'est une question de rationalité :
+
+> Ton job, c'est de faire rentrer de l'argent. Alors : qu'est-ce qui rapporte le
+> plus — envoyer 3 mails de 3 lignes par jour, ou bâtir une relation qui dure et
+> gagner plus longtemps ?
+>
+> **Si le spam rapportait plus, on ferait du spam.** Ce n'est pas le cas.
+
+Le corollaire : l'argent d'aujourd'hui vaut moins que plus d'argent dans un mois.
+Ce n'est pas de l'abondance, c'est du calcul.
 
 ---
 

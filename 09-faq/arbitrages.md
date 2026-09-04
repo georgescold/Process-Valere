@@ -165,6 +165,26 @@ Ajoute aussi un **sélecteur de quantité**.
 
 ## ═══ ACQUISITION ═══
 
+### Facebook Ads ou YouTube Ads ?
+
+```
+Tu débutes                → YouTube (tu payes à la vue : un mauvais hook
+                            ne coûte rien ; compliance souple, peu de bans)
+Tu veux scaler            → Facebook (lead 2-3× plus rentable, ciblage
+                            précis, ROAS qui tient à budget élevé)
+```
+
+⚠️ Sur YouTube, si tu passes de 1 000 à 10 000 €/jour, le ROAS s'effondre.
+→ Détail complet : `02-acquisition/facebook-vs-youtube.md`
+
+### VSL (vidéo) ou page de vente écrite ?
+
+**VSL dans 90 % des cas.** On vit à l'ère de TikTok, les gens ne lisent plus.
+
+L'exception : si tu fais partie des **0,01 % des meilleurs textes**, l'écrit peut
+mieux convertir. Sinon, fais une VSL — et **sous-titre-la**, tout le monde n'a pas
+le son.
+
 ### Native Ads, bonne idée ?
 
 **Non.** Tu vas te casser les dents. Va sur Facebook Ads ou Google Ads.
@@ -172,6 +192,11 @@ Ajoute aussi un **sélecteur de quantité**.
 **Pourquoi :** en native, ta pub s'affiche aussi bien sur Candy Crush que sur un
 site d'avocats. Pas de ciblage précis. Aujourd'hui, la native c'est le terrain des
 scams, du dating, des compléments alimentaires et de l'assurance.
+
+⚠️ **MAIS — l'exception qui vaut de l'or : la native ads en RETARGETING.**
+Ça coûte très peu. Mets le pixel Google sur tes pages, et retarget en native
+(Taboola, Outbrain) les gens qui ont cliqué sur ta pub Facebook. Coût de
+retargeting très bas. → `02-acquisition/facebook-vs-youtube.md`
 
 ### Faut-il faire du contenu mainstream ou niché ?
 
