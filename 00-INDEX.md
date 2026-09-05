@@ -21,7 +21,9 @@
 | Comment je développe le corps du texte ? | `03-marketing-copy/body-detaille.md` |
 | Comment j'écris une pub vidéo ? | `03-marketing-copy/creatives-ads.md` |
 | Comment j'écris mes emails ? | `03-marketing-copy/emailing.md` |
-| Comment je définis mon avatar et mon offre ? | `03-marketing-copy/avatar-et-offre.md` |
+| Comment je définis mon avatar ? | `03-marketing-copy/avatar-et-offre.md` § Partie 1 |
+| ⭐ Comment je bâtis une offre irrésistible (8 composantes) ? | `03-marketing-copy/avatar-et-offre.md` § Partie 2 |
+| Quelle garantie ? Quelle rareté ? | `09-faq/arbitrages.md` § Offre & Pricing |
 
 ## Je veux acquérir du trafic
 | Question | Fichier |

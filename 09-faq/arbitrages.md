@@ -76,6 +76,46 @@ FUNNEL 2  →  c'est ici que tu fais l'argent.
 
 Si tu es break-even avec juste ton produit d'appel, **tu iras très loin.**
 
+### Faut-il une garantie ? Laquelle ?
+
+**Oui, toujours.** Sans garantie, les gens n'achètent pas — le rôle d'une offre est
+de *diminuer le risque*, et la garantie est l'outil le plus direct pour ça.
+
+Échelle, du plus faible au plus fort :
+```
+1. Satisfait ou remboursé                     ← le minimum syndical
+2. Résultat garanti ou remboursé
+3. Tu ne payes pas tant que tu n'as pas de résultat
+4. Pas de résultat → ON TE PAYE                ← la méta actuelle
+```
+
+⚠️ **Toujours la conditionner** à ce que le client ait fait le travail demandé,
+et l'écrire dans les CGV. Sinon elle te coûte réellement de l'argent.
+
+→ Détail et exemple : `03-marketing-copy/avatar-et-offre.md` § 3. Garantie
+
+### Une rareté "il ne reste que X places", ça marche encore ?
+
+**Seulement si elle est justifiée.** Une rareté sans raison sonne faux et abaisse
+la confiance au lieu de la créer. Il faut dire **pourquoi** il n'y a que 10 places —
+et la meilleure raison est la **qualité de la délivrance** ("on ne prend que 10
+clients parce qu'on ne trouve pas de 11ᵉ ghostwriter au niveau").
+
+La rareté justifiée devient une **preuve de sérieux**, pas une pression commerciale.
+
+⚠️ Une rareté ou une urgence **factuellement fausse** (compte à rebours qui se
+réinitialise, places qui ne s'épuisent jamais) est une pratique commerciale
+trompeuse au sens du droit français. Le fond est le même que la garantie : il faut
+que ce soit vrai, et bordé.
+
+### Faut-il de l'urgence sur du closing par appel ?
+
+**Beaucoup moins.** L'urgence est indispensable en **direct response** (VSL, page de
+vente, trafic froid) où le prospect n'a aucune raison d'agir maintenant.
+
+En **closing téléphonique**, le prospect est déjà conscient de son problème et
+travaillé au corps — forcer l'urgence sonne comme du vendeur de tapis.
+
 ---
 
 ## ═══ BUDGET & TEST ═══

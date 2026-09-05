@@ -143,6 +143,15 @@ Une femme qui s'adresse à des hommes → beaucoup plus compliqué.
 - ❌ Un produit
 - ❌ Un produit + une garantie
 
+*(La garantie **fait partie** de l'offre — c'est une composante, pas l'offre.)*
+
+**Le test de l'iPhone :** personne n'achète "un téléphone". On achète les
+applications, l'écosystème, l'appareil photo, la connexion avec ses proches.
+**Ce qui se vend, c'est l'ensemble.** Tu vends toujours une offre — la seule
+question est de savoir si tu l'as construite ou si tu la subis.
+
+> **Si tu ne fais pas d'offre, tu perds de l'argent.**
+
 ## Le principe du "no-brainer"
 
 > Si tu proposais une Lamborghini pour 10 000 €, la personne accepterait —
@@ -177,6 +186,10 @@ Tout ce que le client reçoit. Exemple agence LinkedIn :
 > On fait ton ghostwriting **+** ton setting **+** on gère ton calendrier **+**
 > on répond aux DM **+** on optimise ton profil.
 
+**La structure standard :** dans le packaging, **un seul élément est payant** —
+tout le reste est présenté comme offert. C'est ce qui alimente directement la
+composante 2 (valeur perçue) et la composante 8 (réduction).
+
 ⚠️ **Ne pas confondre packaging et bonus.**
 - **Packaging** : en payant la salle de sport, tu as accès au cours de yoga
 - **Bonus** : en t'inscrivant, tu reçois une gourde et un sac ; tu as un personal
@@ -185,6 +198,15 @@ Tout ce que le client reçoit. Exemple agence LinkedIn :
 ---
 
 ### 2. VALEUR PERÇUE
+
+> **En infoproduit et en service, tu n'as aucune marge à défendre.**
+> Que tu vendes 1 € ou 10 000 €, ton coût ne bouge pas. Le prix n'est donc pas
+> une contrainte comptable — **c'est un curseur de perception.**
+> Seule règle : la valeur *perçue* doit dépasser la valeur *réelle*.
+
+L'illustration la plus simple : *"3 Coca achetés, le 4ᵉ offert."* Le client ne
+calcule jamais ton coût de production — il calcule **ce qu'il économise**.
+Version extrême du même ressort : *"une Lamborghini achetée, une offerte."*
 
 La mécanique du "value stacking" :
 
@@ -224,8 +246,15 @@ Exemple d'offre construite là-dessus :
 > m'excuser."
 > → Soit je perds 10 kg, soit je gagne 2 000 €. Je ne peux pas perdre.
 
-⚠️ Toujours conditionner : le client doit avoir fait ce qui était demandé.
-À écrire dans les CGV et les conditions de remboursement.
+⚠️ **Toujours conditionner.** La garantie est en grande partie là pour *rassurer* —
+mais si elle n'est pas bornée, elle te coûte réellement.
+
+Le client doit avoir fait ce qui était demandé. Exemple concret : tu accompagnes
+quelqu'un sur Facebook Ads, tu lui écris ses scripts — mais **personne ne peut
+tourner à sa place**. S'il met un mois à enregistrer une seule créative, il n'est
+pas remboursé.
+
+→ À écrire noir sur blanc dans les **CGV** et les **conditions de remboursement**.
 
 ---
 
@@ -247,7 +276,26 @@ Méthodes :
 
 ### 5. URGENCE / RARETÉ
 
-→ voir `03-marketing-copy/structure-ceo.md` § Bloc 9
+Sans urgence, le prospect n'achète **jamais maintenant**.
+Rappel : on vend un résultat **et** de l'urgence.
+
+⚠️ **Une rareté sans raison sonne faux.** Il ne suffit pas de dire "il ne reste
+que 10 places" — il faut dire **pourquoi**. Le script :
+
+> "On ne prend que 10 clients. Pas 11. Pourquoi ? Parce qu'on travaille avec les
+> meilleurs ghostwriters, et tu sais à quel point c'est difficile de recruter des
+> gens de qualité. On est en train d'en recruter un 11ᵉ, mais ça prend du temps —
+> c'est important pour nous que nos clients obtiennent le résultat. Donc tant que
+> les 10 en cours n'ont pas de résultats, on n'ouvre pas nos portes."
+
+La rareté est justifiée **par la qualité de la délivrance** → elle devient une
+preuve de sérieux au lieu d'une pression commerciale.
+
+**Nuance canal :** l'urgence est indispensable en **direct response** (VSL, page de
+vente, trafic froid). Elle pèse beaucoup moins en **closing par appel** — le
+prospect est déjà conscient de son problème et travaillé au corps.
+
+→ voir aussi `03-marketing-copy/structure-ceo.md` § Bloc 9
 
 ---
 
@@ -259,6 +307,15 @@ Simple, rapide, **clair**. En 3 étapes.
 > (2 semaines). Étape 3 : tu reçois l'argent. Dans 3 semaines, tu rentabilises."
 
 C'est clair. Tu n'as rien à faire. C'est rapide. **Que demande le peuple.**
+
+> **Plus le mécanisme est rapide et facile, plus tu fais d'argent.**
+> Relation directe, pas une nuance.
+
+Les 3 critères, **par ordre d'importance** : `CLAIR > RAPIDE > FACILE`.
+Un mécanisme flou tue la vente même quand il est excellent.
+
+Et chaque étape doit porter **une durée chiffrée** — c'est la durée qui crée la
+projection ("dans 3 semaines je rentabilise"), pas la description.
 
 ---
 
@@ -325,6 +382,33 @@ Le cerveau rationnel du prospect cherche des raisons de ne pas acheter :
 | "Je vais réfléchir" | Urgence |
 
 Quand toutes les cases sont cochées → carte bancaire.
+
+---
+
+## L'offre, c'est ce qui te sort du lot
+
+**Ta promesse seule ne te différencie pas.** *"3 clients en 60 jours"* — tout le
+monde dit ça. Le prospect a déjà entendu la promesse dix fois cette semaine.
+
+```
+PROMESSE  →  ce que TOUT LE MONDE vend    →  zéro différenciation
+OFFRE     →  comment TOI tu la tiens       →  LA différenciation
+```
+
+Ce n'est plus "3 clients en 60 jours". C'est :
+
+| Objection silencieuse | Ce que l'offre répond | Composante |
+|---|---|---|
+| *"je vais devoir bosser"* | 3 clients en 60 jours **dans lequel tu ne fais rien** | packaging + bonus DFY |
+| *"c'est cher"* | **20 000 € de valeur pour 9 000 €** | valeur perçue + réduction |
+| *"et si ça rate ?"* | **on te paye si ça échoue** | garantie |
+| *"j'ai pas compris comment"* | **3 étapes chiffrées** | mécanisme |
+| *"je vais réfléchir"* | **il reste 2 places** | rareté justifiée |
+
+Même promesse. Offre incomparable.
+
+> Une objection = **une peur de l'échec**, et cette peur est presque toujours
+> rationnelle. On ne la contredit pas, on la **désarme** avec une composante.
 
 ---
 
