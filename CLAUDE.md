@@ -34,6 +34,7 @@ Ces règles écrasent toute autre considération. Si une réponse les viole, ell
    Message = marketing. Personne = acquisition. Moment = timing marché.
 2. **Objectif unique : LTV ↑ , CPA ↓.** Toute tâche qui ne sert ni l'un ni l'autre
    n'a rien à faire dans la journée.
+   → Les leviers : `01-principes/strategie-unique.md`
 3. **La structure CEO (Blair Warren) est dans TOUT** : VSL, ads, emails, closing,
    séquences. Voir `03-marketing-copy/structure-ceo.md`.
 4. **On vend un résultat + de l'urgence. Jamais un produit.**
@@ -43,7 +44,7 @@ Ces règles écrasent toute autre considération. Si une réponse les viole, ell
 
 | Dossier | Contenu |
 |---|---|
-| `01-principes/` | Principes premiers, équation du business |
+| `01-principes/` | Principes premiers, équation du business, **stratégie unique & leviers LTV/CAC** |
 | `02-acquisition/` | Facebook Ads, Facebook vs YouTube, setup anti-ban, organique, affiliation, fournisseurs |
 | `03-marketing-copy/` | Biais cognitifs, structure CEO, **headline/hook/big idea**, VSL, leads, body, **10 questions & One Belief**, **27 outils de closing**, créatives, emailing, avatar & offre |
 | `04-produit/` | Philosophie produit, MVP, formats DFY/DWY/DIY, pricing |
@@ -60,7 +61,9 @@ Point d'entrée narratif : `00-INDEX.md`
 
 | Terme | Sens |
 |---|---|
-| **CPA** | Coût par achat |
+| **CPA** | Coût par achat *(= CAC, Cost of Acquisition of a Customer)* |
+| **Unfair advantage** | L'assemblage de leviers LTV/CAC que personne d'autre ne fait dans ta niche |
+| **Scaling à BE** | Scaler à break-even voire en perte sur J+1, en pariant sur la LTV à 30-60 jours |
 | **LTV** | Lifetime value (revenu total par client) |
 | **EPC** | Earning per click |
 | **EPL** | Earning per lead |

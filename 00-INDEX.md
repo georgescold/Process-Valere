@@ -8,6 +8,10 @@
 |---|---|
 | C'est quoi le business, fondamentalement ? | `01-principes/principes-premiers.md` |
 | Sur quoi je dois passer mes journées ? | `01-principes/equation-business.md` |
+| ⭐ Comment je construis MA stratégie (unfair advantage) ? | `01-principes/strategie-unique.md` |
+| Comment j'augmente ma LTV ? (11 leviers) | `01-principes/strategie-unique.md` |
+| Comment je diminue mon CAC ? (12 leviers) | `01-principes/strategie-unique.md` |
+| Pourquoi scaler à perte peut être la bonne décision ? | `01-principes/strategie-unique.md` § Accepter de perdre |
 | Comment je choisis ma niche ? | `01-principes/principes-premiers.md` § Niche |
 
 ## Je veux écrire du copy

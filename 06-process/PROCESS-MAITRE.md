@@ -428,6 +428,11 @@ Sur l'ADS bestseller · CTA "like / commente" · aucun lien externe
 
 > **LTV ↑ , CPA ↓.** C'est le vrai métier. Tout le reste était du setup.
 
+**Choisis ton assemblage de leviers** — 3 ou 4, pas plus — et processise-le.
+C'est lui qui fait l'écart entre 100k et 1M, pas le funnel.
+
+> 📖 `01-principes/strategie-unique.md`
+
 ## 6.1 — Le rituel quotidien
 
 ```

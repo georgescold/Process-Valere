@@ -9,6 +9,11 @@
 
 - **LTV** = Lifetime Value = revenu total généré par un client sur sa durée de vie
 - **CPA** = Cost Per Acquisition = coût pour acquérir un achat
+  *(aussi appelé **CAC** — Cost of Acquisition of a Customer. Même chose ici.)*
+
+> **Rentable ⟺ LTV > CAC.** L'équation dit quoi optimiser.
+> **Les leviers concrets pour le faire — 11 côté LTV, 12 côté CAC — et comment en
+> tirer un avantage que personne n'a : `01-principes/strategie-unique.md`**
 
 > Toute tâche qui n'augmente pas la LTV ou ne diminue pas le CPA n'a rien à faire
 > dans ta journée.
@@ -133,6 +138,22 @@ Exemples :
 
 Une fois le premier problème résolu, le client a un **nouveau problème**. Résous-le
 et facture-le.
+
+---
+
+## Le seuil que la plupart ne franchissent pas
+
+Sur le front-end, la plupart des opérateurs **s'obligent à un ROAS ×2 dès J+1**.
+C'est ce qui les plafonne : ils ne peuvent pas acheter le trafic que peut acheter
+quelqu'un qui sait ce que vaut un client sur 60 jours.
+
+```
+Scaler à break-even, voire en perte sur J+1
+  → n'est possible QUE si le back-end est déjà optimisé
+  → et exige un tracking en daily
+```
+
+→ `01-principes/strategie-unique.md` § Accepter de perdre aujourd'hui
 
 ---
 

@@ -26,6 +26,7 @@ infoproduit — de l'ad copy jusqu'à l'offre.
 ├── 00-INDEX.md                   Carte de navigation
 │
 ├── 01-principes/                 Principes premiers · équation LTV↑ / CPA↓
+│                                 stratégie unique · leviers LTV & CAC
 ├── 02-acquisition/               Facebook Ads · FB vs YouTube · anti-ban
 │                                 organique · affiliation · fournisseurs
 ├── 03-marketing-copy/            Structure CEO · headline/hook/big idea · biais
@@ -70,6 +71,7 @@ PHASE 6  OPTIMISATION   LTV ↑ , CPA ↓ — pour toujours
 
 | Fichier | Pourquoi |
 |---|---|
+| [`01-principes/strategie-unique.md`](01-principes/strategie-unique.md) | Les 11 leviers de LTV et 12 leviers de CAC. L'assemblage est ce qui fait l'écart entre 100k et 1M. |
 | [`03-marketing-copy/structure-ceo.md`](03-marketing-copy/structure-ceo.md) | La phrase de Blair Warren décomposée en 11 blocs opérationnels. Tout en découle. |
 | [`03-marketing-copy/headline-hook-bigidea.md`](03-marketing-copy/headline-hook-bigidea.md) | Headline + hook + big idea = 75 % de ta conversion. Le reste est du packaging. |
 | [`03-marketing-copy/closing-copy.md`](03-marketing-copy/closing-copy.md) | Les 27 outils de closing classés par famille — et pourquoi on n'en utilise que 3. |
