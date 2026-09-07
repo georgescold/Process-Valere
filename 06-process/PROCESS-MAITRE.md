@@ -50,6 +50,9 @@ PHASE 6  ─ OPTIMISATION       ─ ∞
 
 Ou **architecture recommandée** : entrée 7 € (ou gratuit) → high ticket au call.
 
+⚠️ Si tu finis par un call, le script d'appel est un livrable au même titre que la
+VSL. → `10-closing/`
+
 > 📖 `04-produit/formats-offre.md`
 
 **✅ Livrable Phase 0 :** niche + canal + awareness + format, écrits noir sur blanc.
@@ -91,6 +94,8 @@ Utiliser le prompt IA en 4 étapes (`07-templates/prompts-ia.md` § 1)
 
 ## 1.3 — BIG IDEA + MÉCANISME
 
+- [ ] **One Belief** = « cette nouvelle opportunité est la clé de [DÉSIR],
+      accessible **uniquement** via [MÉCANISME] »
 - [ ] **Big Idea** = l'hypothèse narrative qui porte le mécanisme
 - [ ] **Mécanisme** = le pont A → B, en **3 étapes maximum**
 - [ ] Test : le mécanisme tient-il en une phrase ? Est-il simple ? rapide ? clair ?
@@ -131,6 +136,11 @@ Parmi les 10 (`07-templates/leads-10-types.md`), selon :
 - ton style
 - ta Big Idea
 - l'awareness (Phase 0.3)
+- ⭐ **la 2e question que tu veux attaquer** après Q1
+  *(unaware → Q4 · problem aware → Q5 · solution aware → Q1+Q8 ·
+  product aware → Q3+Q7 · most aware → Q6+Q9)*
+
+> 📖 `03-marketing-copy/10-questions.md` § Articulation avec le lead
 
 Si tu débutes : **Problem-Solution** ou **Testimonial**.
 
@@ -158,6 +168,16 @@ BODY (60-70 %)   → structure CEO en 11 blocs
 CLOSING (10-20 %) → 3 outils max + Always Be Leaving
 ```
 
+**Le closing, outil par outil :**
+- [ ] Identifier le **Big Domino** — la croyance unique qui fait tomber le reste
+- [ ] Choisir **3 outils maximum**, idéalement un par famille
+      *(valeur · projection · décision)*
+- [ ] Un **CTA entre chaque outil**
+- [ ] Vérifier les contraintes de support *(la FAQ ne va que sur page écrite ;
+      les excuses persistantes ne passent qu'à l'oral)*
+
+> 📖 `03-marketing-copy/closing-copy.md`
+
 **Le body, bloc par bloc :**
 - [ ] 1. Rêves *(visualisation, émotion, possibilité, amplification)*
 - [ ] 2. Échecs *("ce n'est pas ta faute")*
@@ -173,6 +193,15 @@ CLOSING (10-20 %) → 3 outils max + Always Be Leaving
 
 > 📖 `03-marketing-copy/structure-ceo.md` · `03-marketing-copy/body-detaille.md`
 > 📖 `03-marketing-copy/vsl.md` · ⭐ `03-marketing-copy/headline-hook-bigidea.md`
+
+**Audit de couverture — les 10 questions du prospect :**
+- [ ] **Q1** différence · [ ] **Q2** bénéfice · [ ] **Q3** preuve · [ ] **Q4** vrai problème
+- [ ] **Q5** ennemi · [ ] **Q6** urgence · [ ] **Q7** pourquoi TOI · [ ] **Q8** mécanisme
+- [ ] **Q9** comment commencer · [ ] **Q10** coût de l'inaction
+
+Toute case non cochée = un point de fuite, et une hypothèse d'A/B test.
+
+> 📖 `03-marketing-copy/10-questions.md`
 
 ## 2.4 — Audit du texte (biais cognitifs)
 
@@ -203,7 +232,24 @@ CLOSING (10-20 %) → 3 outils max + Always Be Leaving
 
 > 📖 `05-funnel/anatomie-funnel.md`
 
-**✅ Livrable Phase 2 :** VSL complète + toutes les pages écrites.
+## 2.7 — Écrire le SCRIPT D'APPEL *(si le funnel finit par un call)*
+
+Obligatoire dès que tu vends du high ticket, du DFY ou du DWY.
+
+- [ ] **Le pitch** (2-3 min, à coller en Partie 10 du script)
+- [ ] **Le résultat spécifique** de l'offre — celui qui remplit l'échelle 1-10
+      *(« 20 K/mois en 90 jours », pas « les résultats »)*
+- [ ] **La liste des preuves** à montrer en écran partagé : best-of témoignages,
+      Google Doc de démonstration, contrat de garantie
+- [ ] **Les conditions de la garantie** — le facteur commun de tes clients qui ont
+      réussi
+- [ ] **Le formulaire de setting** : problème · finances · timing
+- [ ] Choisir la variante **B2C** (cadre au début) ou **B2B** (cadre avant le pitch)
+
+> 📖 `10-closing/script-appel.md` · `10-closing/principes-closing.md`
+
+**✅ Livrable Phase 2 :** VSL complète + toutes les pages écrites
+*(+ le script d'appel si funnel high ticket).*
 
 ---
 

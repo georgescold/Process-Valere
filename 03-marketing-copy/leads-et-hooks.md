@@ -6,6 +6,10 @@
 - **Lead** = les 20 premiers % d'un texte (VSL, page, email, vidéo).
   En emailing, l'objet fait office de lead.
 
+> **Le job du hook, en une ligne :** répondre à Q1 — *« en quoi est-ce différent
+> de tout ce que j'ai déjà vu ? »* Rien d'autre.
+> → `03-marketing-copy/10-questions.md`
+
 > **Le hook, c'est le 20/80 de tout dans l'économie de l'attention.**
 > Tu peux avoir une excellente pub : si le hook est mauvais, c'est zéro.
 
@@ -113,6 +117,16 @@ C'est exactement la même information, racontée différemment :
 2. Ta Big Idea / ton mécanisme (certains s'éliminent d'office)
 3. Le niveau d'awareness du trafic
 4. Ce qui est **testable** — c'est le 2e élément à A/B tester
+5. ⭐ **Quelle question du prospect tu veux attaquer en deuxième**
+
+> **Le critère 5 est le plus opérationnel.** Tout lead doit franchir Q1 (« en quoi
+> c'est différent ? ») — sinon il n'y a pas de lecteur. Ce qui distingue les 10
+> types, c'est la porte qu'ils ouvrent ensuite : un Testimonial attaque Q3 (la
+> preuve), un Prediction attaque Q6 (l'urgence), un Proclamation attaque Q4 (le
+> vrai problème). Tu ne choisis plus au feeling : tu choisis la question dont ton
+> avatar a le plus besoin, et le lead en découle.
+>
+> → Tableau complet : `03-marketing-copy/10-questions.md` § Articulation avec le lead
 
 Si tu débutes et que tu ne veux pas te rater : **Problem-Solution** ou **Testimonial**.
 Le storytelling, c'est quitte ou double : quand ça passe, c'est bingo ; quand ça casse,

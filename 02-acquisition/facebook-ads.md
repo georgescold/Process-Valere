@@ -313,3 +313,41 @@ Astuce : cibler les canaux de tes concurrents.
 | Promesse de gain sur temps ("10 000 € en 30 jours") | "Voici ce qu'a gagné Stéphane en 30 jours" + screenshot |
 
 → Setup technique pour ne pas se faire ban : `02-acquisition/setup-anti-ban.md`
+
+### ⚠️ Ne jamais confondre deux corpus de règles
+
+C'est l'erreur la plus fréquente en niche réglementée (crypto, investissement,
+santé, finance) :
+
+| | Ce que c'est | Ce que ça régit |
+|---|---|---|
+| **La loi du pays** | Le droit en vigueur là où tu opères | Ton **offre**, ta page, tes promesses, tes mentions obligatoires |
+| **Les règles Meta** | La politique publicitaire d'une entreprise privée | Ta **créative** et ton compte |
+
+Une créative conforme à Meta peut être illégale. Une offre légale peut se faire
+bannir. Ce sont deux jeux de contraintes séparés, à traiter séparément.
+
+> En crypto / investissement, la contrainte n°1 est **la loi**, pas Meta :
+> on ne promet pas de gain financier. Le travail consiste à contourner la promesse,
+> pas à la déguiser.
+
+### 🔥 Le footer / disclaimer comme arme
+
+Sous-utilisé, et c'est une **arme surpuissante** en niche réglementée.
+
+Le principe : au lieu d'affirmer, tu ouvres une possibilité — et tu bordes en
+disclaimer. Dans une VSL : *« je ne te dis pas ce que tu dois faire, je te dis que
+c'est peut-être une possibilité »*, avec un disclaimer de 10 lignes qui l'encadre.
+
+**Le modèle à étudier :** les présentations investisseurs de Palantir s'ouvrent sur
+un pavé de *forward-looking statements* — la liste explicite des verbes
+(*expect, anticipate, believe, hope, target, project, plan, goals*) dont l'emploi
+ne constitue pas un engagement.
+
+```
+Le disclaimer défile 3 secondes. Personne n'a le temps de le lire.
+Ils le savent. Il est là quand même — et il tient juridiquement.
+```
+
+⚠️ Ce n'est pas un conseil juridique. En niche réglementée, fais valider tes
+mentions par un avocat : les répercussions sont réelles.

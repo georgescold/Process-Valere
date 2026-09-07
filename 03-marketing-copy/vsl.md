@@ -154,6 +154,7 @@ est faible, mieux c'est.
 
 C'est la structure CEO appliquée. Voir `03-marketing-copy/structure-ceo.md`
 et `03-marketing-copy/body-detaille.md`.
+**Audit de couverture** : `03-marketing-copy/10-questions.md`.
 
 ```
 RÊVE → ÉCHEC → PEUR → DOUTE → ENNEMI → MÉCANISME → RÊVE → URGENCE → CTA #1
@@ -203,6 +204,12 @@ décroche. Entre chaque outil → un CTA.
 | **Urgence finale** | "Il reste 3 places / 2 heures" |
 | **Garantie / risk reversal** | Renverser le risque |
 | **Étiquetage** | "Je sais que tu es Smart et que tu prendras la bonne décision" |
+
+> Ces 7 outils sont les plus courants. **L'arsenal complet fait 27 outils**, classés
+> par famille, avec les contraintes de support (ce qui passe en VSL, en page écrite,
+> en email, en appel) : `03-marketing-copy/closing-copy.md`
+>
+> La règle des 3 maximum ne change pas — l'arsenal est un menu, pas une checklist.
 
 ### Exemple de closing (structure Choice 1/2)
 

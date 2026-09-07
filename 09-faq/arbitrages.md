@@ -116,6 +116,20 @@ vente, trafic froid) où le prospect n'a aucune raison d'agir maintenant.
 En **closing téléphonique**, le prospect est déjà conscient de son problème et
 travaillé au corps — forcer l'urgence sonne comme du vendeur de tapis.
 
+⭐ **La nuance qui compte : on ne cadre pas la rareté, on cadre LA DÉCISION.**
+
+| ❌ Urgence artificielle | ✅ Cadre de décision |
+|---|---|
+| « Il ne reste que 3 places » | « À la fin de l'appel je te demanderai une réponse définitive, oui ou non » |
+| « L'offre expire ce soir » | « Je ne prends jamais de deuxième rendez-vous » |
+
+La seule forme de rareté acceptable en appel : une **remise conditionnée à la
+décision dans l'appel** (« -400 € pour les personnes qui passent à l'action »),
+et **uniquement en B2C**. En B2B, le prospect est éduqué à la vente : ça se
+retourne contre toi.
+
+> 📖 `10-closing/script-appel.md` § Partie 2 et Partie 14
+
 ---
 
 ## ═══ BUDGET & TEST ═══

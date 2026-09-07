@@ -32,12 +32,13 @@ infoproduit — de l'ad copy jusqu'à l'offre.
 │                                 VSL · leads · body · créatives · emailing · offre
 ├── 04-produit/                   Philosophie MVP · formats DFY / DWY / DIY
 ├── 05-funnel/                    Anatomie · 6 structures de landing page
-│                                 checklist des 11 métriques · portefeuille
+│                                 checklist des 11 métriques · teardowns · portefeuille
 ├── 06-process/                   ⭐ PROCESS-MAITRE.md
 ├── 07-templates/                 Scripts ads · 10 leads · objets email
 │                                 prompts IA · doc de travail
 ├── 08-scaling/                   100k → 300k · équipe · structure · expatriation
-└── 09-faq/                       Arbitrages tranchés
+├── 09-faq/                       Arbitrages tranchés
+└── 10-closing/                   Vente par appel · script 16 parties · objections
 ```
 
 ---
@@ -71,8 +72,11 @@ PHASE 6  OPTIMISATION   LTV ↑ , CPA ↓ — pour toujours
 |---|---|
 | [`03-marketing-copy/structure-ceo.md`](03-marketing-copy/structure-ceo.md) | La phrase de Blair Warren décomposée en 11 blocs opérationnels. Tout en découle. |
 | [`03-marketing-copy/headline-hook-bigidea.md`](03-marketing-copy/headline-hook-bigidea.md) | Headline + hook + big idea = 75 % de ta conversion. Le reste est du packaging. |
+| [`03-marketing-copy/closing-copy.md`](03-marketing-copy/closing-copy.md) | Les 27 outils de closing classés par famille — et pourquoi on n'en utilise que 3. |
 | [`05-funnel/landing-pages.md`](05-funnel/landing-pages.md) | Les 6 structures de LP prêtes à copier (3 low ticket, 3 high ticket). |
+| [`05-funnel/teardowns.md`](05-funnel/teardowns.md) | Les 13 corrections qui reviennent sur toutes les pages auditées. |
 | [`03-marketing-copy/creatives-ads.md`](03-marketing-copy/creatives-ads.md) | La méthode 10×10×10 : 10 scripts écrits → 1 000 créatives. |
 | [`07-templates/doc-travail-avatar-offre.md`](07-templates/doc-travail-avatar-offre.md) | Le template à dupliquer avant chaque lancement. |
 | [`08-scaling/100k-vers-300k.md`](08-scaling/100k-vers-300k.md) | Les 20 erreurs qui bloquent au palier 100k, et les 7 leviers qui débloquent. |
 | [`09-faq/arbitrages.md`](09-faq/arbitrages.md) | Les questions récurrentes, déjà tranchées. |
+| [`10-closing/script-appel.md`](10-closing/script-appel.md) | Le script d'appel en 16 parties, annoté. L'échelle 1-10 est le pivot de toute vente high ticket. |

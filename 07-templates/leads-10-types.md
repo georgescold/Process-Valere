@@ -2,6 +2,8 @@
 
 > Le lead = les 20 premiers % d'un texte. Objectif unique : **que la personne reste.**
 > Choisir UN type, l'adapter à l'avatar. Ne pas empiler.
+> **Tous répondent à Q1. Ils diffèrent par la 2e question qu'ils attaquent** —
+> voir `03-marketing-copy/10-questions.md` § Articulation avec le lead.
 > Exemples écrits sur la niche make-money — à transposer.
 
 ---
@@ -375,13 +377,28 @@ Et si, aujourd'hui, c'était à votre tour d'écrire cette histoire ?
 
 ## Grille de choix rapide
 
-| Ton contexte | Lead recommandé |
-|---|---|
-| Tu débutes, tu ne veux pas te rater | Problem-Solution ou Testimonial |
-| Tu es bon en storytelling | Story ou Narrative |
-| Trafic chaud / retargeting | Testimonial |
-| B2B / high ticket / sortir du lot | Question |
-| Finance, crypto, IA, tendances | Prediction |
-| Santé, perte de poids, "secret" | Curiosity ou Secret |
-| Avatar frustré, saturé de promesses | Proclamation |
-| Offre simple et claire, marché peu concurrentiel | Promise |
+| Ton contexte | Lead recommandé | 2e question attaquée |
+|---|---|---|
+| Tu débutes, tu ne veux pas te rater | Problem-Solution ou Testimonial | Q4 / Q3 |
+| Tu es bon en storytelling | Story ou Narrative | Q4 → Q7 / Q10 |
+| Trafic chaud / retargeting | Testimonial | Q3 |
+| B2B / high ticket / sortir du lot | Question | Q4 |
+| Finance, crypto, IA, tendances | Prediction | Q6 |
+| Santé, perte de poids, "secret" | Curiosity ou Secret | Q1 différée / Q5 |
+| Avatar frustré, saturé de promesses | Proclamation | Q4 |
+| Offre simple et claire, marché peu concurrentiel | Promise | Q2 |
+
+### Choisir par l'awareness plutôt que par le feeling
+
+| Awareness | Question prioritaire | Leads cohérents |
+|---|---|---|
+| Unaware | **Q4** (il ignore son problème) | Narrative, Story, Prediction |
+| Problem aware | **Q5** puis **Q1** | Proclamation, Question, Secret |
+| Solution aware | **Q1** puis **Q8** | Secret, Curiosity, Problem-Solution |
+| Product aware | **Q3** + **Q7** | Testimonial, Story |
+| Most aware | **Q6** + **Q9** | Promise, Testimonial |
+
+⚠️ Ne jamais ouvrir sur **Q2** (le bénéfice) avec un trafic *unaware* : il ne sait
+pas encore qu'il a un problème, ton bénéfice ne lui parle pas.
+
+> 📖 `03-marketing-copy/10-questions.md`

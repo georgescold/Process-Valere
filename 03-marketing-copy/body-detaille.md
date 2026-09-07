@@ -2,6 +2,7 @@
 
 > Le body = la partie centrale du texte, 60-70 %. Structure CEO + copy détaillé.
 > Prérequis : `03-marketing-copy/structure-ceo.md`
+> Audit final : `03-marketing-copy/10-questions.md` — les 10 questions du prospect
 
 ## Séquence complète (11 blocs)
 
@@ -283,6 +284,16 @@ La garantie est un **type de preuve**. Garantis ton produit ET ton résultat.
 ## 11. CTA
 
 → `03-marketing-copy/vsl.md` § Closing
+
+---
+
+## Avant de publier : passer la grille des 10 questions
+
+Écrire dans l'ordre CEO ne garantit pas d'avoir **tout couvert**. Dernière passe
+obligatoire : les 10 questions que le prospect se pose en silence. Chaque question
+sans réponse est une porte de sortie.
+
+→ `03-marketing-copy/10-questions.md`
 
 ---
 

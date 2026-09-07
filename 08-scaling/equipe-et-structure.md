@@ -129,6 +129,40 @@ Il ne comprend pas, il ne contrôle pas, il ne peut pas vérifier.
 
 ---
 
+## ⭐ Le cheat code pour bien s'entourer
+
+La méthode tient en deux mouvements opposés :
+
+```
+1. ABONDANCE À L'ENTRÉE   →  tu rencontres tout le monde, zéro filtre
+2. SÉLECTION À L'INTÉRIEUR →  pour se rapprocher, il faut passer les tests
+```
+
+**À l'entrée : aucun critère.** Un salarié de supermarché, un inconnu, quelqu'un
+sans business — il vient s'il veut. Tu maximises le panel, parce que tu ne peux pas
+savoir à l'avance d'où viendra la bonne rencontre.
+
+**Pour entrer dans le cercle proche : les cheat tests.**
+
+> Un cheat test = tu places quelqu'un dans une situation où tu as déjà placé
+> d'autres personnes, et tu observes sa réaction.
+
+Exemple donné :
+```
+Tu lui annonces, droit dans les yeux, que tu viens de te faire bloquer 500 000 €.
+
+Est-ce qu'il te parle de LUI ?
+Est-ce qu'il te parle de TOI ?
+Est-ce qu'il te remonte le moral ?
+Est-ce qu'il te demande quelle erreur tu as faite ?
+```
+
+Ce que tu mesures n'est pas la « bonne » réponse — c'est **ce qu'il a cherché à te
+faire passer comme message**. Le même test répété sur plusieurs personnes te donne
+une échelle de comparaison, et c'est ça qui le rend fiable.
+
+---
+
 ## S'associer
 
 ### Ce qui met du leverage sur la table

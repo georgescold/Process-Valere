@@ -56,6 +56,10 @@ C'est le squelette du **body** d'une VSL, d'un texte de vente ou d'une séquence
 > bouge jamais : le rêve est en premier, l'ennemi précède le mécanisme, le mécanisme
 > précède le rêve final, l'urgence précède le CTA.
 
+> **Ce que cette structure ne dit pas :** l'ordre ne garantit pas la couverture.
+> La grille de contrôle complémentaire — les 10 questions que le prospect se pose —
+> est dans `03-marketing-copy/10-questions.md`.
+
 ---
 
 ## Bloc 1 — Le RÊVE

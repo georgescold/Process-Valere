@@ -1,5 +1,9 @@
 # Checklist d'optimisation du funnel
 
+> Ce fichier traite les **métriques** — quoi mesurer, dans quel ordre.
+> Pour les corrections concrètes sur une page (urgence, bénéfices, value stacking,
+> design, objections) : `05-funnel/teardowns.md`
+
 > **Objectif : LTV ↑ , CPA ↓**
 > C'est tout. Chaque item ci-dessous sert l'un ou l'autre.
 

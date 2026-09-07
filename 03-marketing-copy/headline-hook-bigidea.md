@@ -133,6 +133,23 @@ lecteur fait le lien tout seul.
 
 Le point 3 est le plus sous-estimé : une Big Idea doit donner **envie**.
 
+## La One Belief — ce que la Big Idea doit faire croire
+
+```
+Cette NOUVELLE OPPORTUNITÉ est la clé de leur DÉSIR,
+et elle est accessible UNIQUEMENT via mon NOUVEAU MÉCANISME.
+```
+
+La Big Idea est le véhicule, la One Belief est la cargaison. Si tu n'arrives pas à
+écrire cette phrase pour ton produit, ta Big Idea n'a rien à porter.
+
+Le mot qui porte tout : **UNIQUEMENT**. S'il peut obtenir le résultat sans toi,
+tu n'as pas de One Belief — tu as un argumentaire.
+
+→ Détail + exemples (Proactiv, Subway) : `03-marketing-copy/10-questions.md` § One Belief
+
+---
+
 ## Exemples de Big Ideas qui ont fait des millions
 
 | Big Idea | Pourquoi elle marche |

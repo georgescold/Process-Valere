@@ -17,8 +17,12 @@
 | Quelle structure pour un texte de vente ? | `03-marketing-copy/structure-ceo.md` |
 | ⭐ Headline, hook, big idea — le 20/80 ? | `03-marketing-copy/headline-hook-bigidea.md` |
 | Comment j'écris une VSL complète ? | `03-marketing-copy/vsl.md` |
+| ⭐ Comment je termine un texte de vente (27 outils) ? | `03-marketing-copy/closing-copy.md` |
+| Quel outil de closing sur quel support ? | `03-marketing-copy/closing-copy.md` § Quel outil sur quel support |
 | Comment je démarre un texte (hook / lead) ? | `03-marketing-copy/leads-et-hooks.md` |
 | Comment je développe le corps du texte ? | `03-marketing-copy/body-detaille.md` |
+| ⭐ Mon texte répond-il aux 10 questions du prospect ? | `03-marketing-copy/10-questions.md` |
+| Quelle croyance unique je dois installer (One Belief) ? | `03-marketing-copy/10-questions.md` § One Belief |
 | Comment j'écris une pub vidéo ? | `03-marketing-copy/creatives-ads.md` |
 | Comment j'écris mes emails ? | `03-marketing-copy/emailing.md` |
 | Comment je définis mon avatar ? | `03-marketing-copy/avatar-et-offre.md` § Partie 1 |
@@ -48,6 +52,9 @@
 | Quelles sont les métriques à suivre ? | `05-funnel/optimisation-checklist.md` |
 | Quelle est l'anatomie standard d'un funnel ? | `05-funnel/anatomie-funnel.md` |
 | ⭐ Quelle structure de landing page choisir ? | `05-funnel/landing-pages.md` |
+| ⭐ Qu'est-ce qui cloche sur ma page ? | `05-funnel/teardowns.md` |
+| Pourquoi ma page marche en organique mais pas en ads ? | `05-funnel/teardowns.md` § 9 |
+| Comment je présente mon value stacking ? | `05-funnel/teardowns.md` § 4 |
 | Un seul funnel ou beaucoup de funnels ? | `05-funnel/strategie-portefeuille.md` |
 
 ## Je suis à 100k+/mois, je veux scaler
@@ -58,6 +65,19 @@
 | Comment recruter, payer et motiver une équipe ? | `08-scaling/equipe-et-structure.md` |
 | Comment m'associer ? Quelle répartition ? | `08-scaling/equipe-et-structure.md` § S'associer |
 | Structure juridique, banques, expatriation ? | `08-scaling/equipe-et-structure.md` |
+
+## Je veux vendre au téléphone (high ticket)
+| Question | Fichier |
+|---|---|
+| ⭐ Pourquoi les gens achètent (ou pas) en appel ? | `10-closing/principes-closing.md` |
+| Quel script je suis pendant l'appel ? | `10-closing/script-appel.md` |
+| Comment je traite une objection ? | `10-closing/script-appel.md` § Partie 15 |
+| Comment je fais monter la certitude à 10/10 ? | `10-closing/script-appel.md` § Partie 13 |
+| Comment je demande ses finances sans être glauque ? | `10-closing/script-appel.md` § Partie 9 |
+| Comment je borde ma garantie de résultats ? | `10-closing/script-appel.md` § Partie 16 |
+| Quand recruter un closer, et à combien le payer ? | `10-closing/script-appel.md` § Recruter un closer |
+
+---
 
 ## J'ai une question précise, je veux une réponse directe
 → **`09-faq/arbitrages.md`** — abonnement ou pas, quel budget de test, low/mid/high
@@ -79,6 +99,7 @@ ticket, LP ou pas, copier un concurrent, native ads, lancer un SaaS, choix de ni
 
 1. `01-principes/principes-premiers.md`
 2. `03-marketing-copy/structure-ceo.md` ← **le plus important de tout le dossier**
+   *(et si ton funnel finit par un appel : `10-closing/principes-closing.md`)*
 3. `03-marketing-copy/avatar-et-offre.md`
 4. `06-process/PROCESS-MAITRE.md`
 5. `09-faq/arbitrages.md` — pour éviter de reposer des questions déjà tranchées
