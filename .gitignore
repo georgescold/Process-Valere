@@ -14,3 +14,13 @@ $RECYCLE.BIN/
 # Fichiers de travail temporaires
 *.tmp
 ~$*
+
+# Le projet Heritage Intact a son PROPRE depot git (PROJET-HERITAGE-INTACT/site).
+# Sans cette ligne, un `git add -A` ici l'embarque comme depot imbrique : le
+# clone de Process-Valere en contiendrait une reference vide et inutilisable,
+# et git l'annonce lui-meme en avertissement. Ce dossier ne fait pas partie de
+# la base de connaissance : c'est un projet qui l'utilise.
+PROJET-HERITAGE-INTACT/
+
+# Reglages locaux de Claude Code : propres a cette machine.
+.claude/

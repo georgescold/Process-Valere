@@ -58,6 +58,86 @@ Sur ces 8 points, tout le monde est d'accord. Aucun texte ne doit y faillir.
 
 ---
 
+## ⭐ Le hook = le prolongement de la headline
+
+```
+HEADLINE  →  le texte au-dessus de la vidéo
+HOOK      →  les 2 premières phrases de la vidéo
+LEAD      →  les 20 premiers % du texte (plus long que le hook)
+```
+
+Le hook doit respecter **exactement les mêmes règles que la headline** (mécanisme unique · bénéfice ·
+urgence · spécifique — voir `03-marketing-copy/vsl.md` § anatomie de la headline), **plus un
+ingrédient supplémentaire : la curiosité.**
+
+La headline fait cliquer. Le hook fait **rester**.
+
+---
+
+## ⭐ LA BIG IDEA — les 3 critères
+
+La Big Idea pèse **25 % de la conversion** d'une page de vente, à égalité avec la headline et le hook
+(`03-marketing-copy/vsl.md` § répartition mathématique).
+
+Une bonne Big Idea doit faire trois choses :
+
+| # | Critère | Test |
+|---|---|---|
+| 1 | **Rendre les autres solutions obsolètes** | Après l'avoir entendue, les alternatives paraissent périmées |
+| 2 | **Lever les objections** | L'objection principale tombe d'elle-même, sans qu'on ait à argumenter |
+| 3 | **Être agréable** | Le prospect *a envie* que ce soit vrai |
+
+**Exemples qui ont fait des millions :**
+
+> « Manger tous les jours des **smoothies à la fraise** et perdre du poids. »
+
+Décodage : (1) rend obsolètes régime et sport, (2) lève l'objection « je n'ai pas la volonté »,
+(3) c'est agréable — on a *envie* que ce soit vrai. ⚠️ Cette Big Idea est aujourd'hui **cramée**,
+elle a trop tourné.
+
+> Le **régime cétogène**.
+
+Même mécanique : manger du gras pour perdre du gras. Contre-intuitif, donc mémorable ; agréable,
+donc désirable.
+
+**Le critère « agréable » est celui que les débutants oublient.** Une Big Idea vraie mais pénible
+(« travaillez 12 h par jour pendant 3 ans ») ne vend rien, même si elle est honnête. On vend ce que
+le marché veut, on délivre ce dont il a besoin (`04-produit/philosophie-produit.md` règle 4).
+
+---
+
+## Exemple travaillé — un lead santé complet
+
+Décorticage ligne à ligne d'un lead qui a tourné (niche perte de poids) :
+
+> **« Qu'est-ce que le docteur Anderson a découvert, et certifié par la communauté scientifique
+> comme l'aliment brûleur de graisse ? »**
+> → *preuve + autorité* (un nom, une institution)
+>
+> **« Cet aliment, que je vais vous dévoiler dans un instant, vous en trouvez dans tous vos
+> supermarchés. »**
+> → *curiosité + open loop + accessibilité* (ce n'est pas un produit exotique, c'est à côté de chez
+> vous)
+>
+> **« Les laboratoires pharmaceutiques sont déjà en train de déposer des brevets sur cet aliment
+> mystérieux. »**
+> → *ennemi commun + urgence* (les méchants classiques, et ils se dépêchent)
+>
+> **« Selon le célèbre média français [X], le ministère exige le retrait immédiat de la vente. »**
+> → *urgence maximale par implication* — remarque qu'on **n'a jamais dit** que ce retrait concernait
+> l'aliment. Le cerveau fait le lien tout seul.
+>
+> **« Alors lisez attentivement ce qui suit, pour que je vous révèle ce fameux aliment que les
+> scientifiques appellent l'aliment brûleur de graisse. »**
+> → *reprise de l'open loop + injonction à rester*
+
+⚠️ **La technique de la ligne 4 (l'implication non dite) est efficace et juridiquement dangereuse.**
+Laisser croire un lien qui n'existe pas est une pratique commerciale trompeuse dès lors qu'elle
+altère le comportement du consommateur (art. L121-2 s. code de la consommation). À connaître pour
+comprendre les mécaniques du marché ; à ne pas reproduire tel quel.
+
+---
+
 ## Règles de vocabulaire
 
 | ❌ Ne jamais dire | ✅ Dire |

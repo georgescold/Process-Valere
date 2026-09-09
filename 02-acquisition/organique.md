@@ -12,6 +12,62 @@ Ce fichier traite du **Personal Branding**.
 
 ---
 
+## ⭐ LE TRAFIC QUE TU POSSÈDES vs CELUI QUE TU NE POSSÈDES PAS
+
+> **Le concept le plus important de tout le trafic chaud.** (Russell Brunson, *DotCom Secrets*,
+> premiers chapitres.)
+
+```
+TU NE POSSÈDES PAS          TU POSSÈDES
+──────────────────          ───────────
+YouTube                     Emailing
+Instagram                   Telegram
+TikTok                      SMS
+X / LinkedIn                Ton Skool / ton espace membre
+Facebook
+```
+
+Le trafic que YouTube t'envoie ne t'appartient pas. Il t'est **prêté** par un algorithme, qui peut
+le reprendre du jour au lendemain.
+
+### Le test qui rend le concept évident
+
+> Demain, ma chaîne YouTube saute. Je fais comment ?
+> → J'ai encore Telegram et l'emailing. Je recrée une chaîne, j'y renvoie ma base, je revis.
+>
+> Demain, ma chaîne saute et je n'ai **ni Telegram ni emailing**. Je fais comment ?
+> → Je rebâtis tout à zéro. C'est mort.
+
+> **La valeur de ton entreprise est déterminée par le trafic que tu possèdes.**
+
+### Pourquoi c'est aussi une question de prévisibilité
+
+| | Trafic non possédé | Trafic possédé |
+|---|---|---|
+| Un contenu | 10 000 vues ou 1 000 000, sans corrélation | Un email = un taux d'ouverture et un taux de clic **stables** |
+| Prévision de CA | Impossible | Fiable |
+| Lancement | Ta vidéo flop → zéro euro | Tu envoies un mail → de l'argent |
+| Revente de l'actif | Invendable | **Revendable** |
+
+### La règle d'action : maximiser les points d'impact
+
+L'objectif n'est **pas** le nombre d'abonnés. C'est le nombre d'endroits où tu peux toucher la même
+personne.
+
+```
+POINTS D'IMPACT NON POSSÉDÉS        →        POINTS D'IMPACT POSSÉDÉS
+YouTube · Instagram · TikTok        →        Emailing · Telegram · Skool
+X · LinkedIn                                 (l'objectif de conversion)
+```
+
+Un prospect qui n'ouvre aujourd'hui que sa boîte mail : tu es là. Un autre qui n'ouvre que YouTube :
+tu es là aussi. **Chaque canal supplémentaire est une chance de plus d'être vu le jour où il est
+disponible.**
+
+Le mouvement à faire en permanence : **convertir le trafic prêté en trafic possédé.**
+
+---
+
 ## Canaux : Easy vs Hard
 
 ```
