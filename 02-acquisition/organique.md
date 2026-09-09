@@ -103,6 +103,53 @@ Exemple concret : post épinglé sur X = une vidéo YouTube. Lien en bio = Teleg
 **Trafic que tu possèdes :** Telegram, Discord, email, Skool.
 C'est le seul trafic dont tu es propriétaire.
 
+### Pourquoi c'est LA métrique qui compte
+
+> **La valeur de ton entreprise est déterminée par le trafic que tu possèdes.**
+> Pas par tes abonnés.
+
+Le test de résilience :
+
+```
+Ta chaîne YouTube saute, tu as Telegram + email
+   → tu recrées une chaîne, tu y renvoies ton trafic. Tu revis.
+
+Ta chaîne saute, tu n'as NI Telegram NI email
+   → tu rebâtis tout depuis zéro. C'est mort.
+```
+
+YouTube, Instagram, TikTok, X : tout peut s'arrêter du jour au lendemain, et tu
+n'as aucun recours. L'emailing et Telegram sont **stables et prévisibles** : tu
+envoies un mail, tu connais ton taux de clic. Un reel fait 10 000 vues ou
+1 million — ce n'est pas corrélé.
+
+> *Telegram is the new emailing.*
+
+⚠️ **Corollaire pour un lancement :** ta vidéo YouTube peut flopper — tu ne fais
+pas d'argent. Ta base mail, elle, répond toujours. C'est la différence entre
+espérer et savoir.
+
+### ⭐ Maximiser les points d'impact
+
+Une fois le principe compris, l'objectif devient d'être présent **partout où le
+prospect peut se trouver ce jour-là** :
+
+```
+TRAFIC QUE TU NE POSSÈDES PAS        TRAFIC QUE TU POSSÈDES
+YouTube · X · Instagram              Telegram · Email · Skool
+TikTok · LinkedIn
+```
+
+> Aujourd'hui le prospect n'a fait qu'ouvrir ses mails → tu es là.
+> Demain il n'ouvre que YouTube → tu es là.
+
+Ce n'est pas de la dispersion : c'est **multiplier les surfaces de contact avec la
+même personne**. Chaque canal supplémentaire augmente la probabilité de la toucher
+au moment où elle est réceptive.
+
+→ Le même lead ne convertit pas pareil selon le canal :
+`02-acquisition/facebook-vs-youtube.md`
+
 ---
 
 ## L'objectif de tout algorithme
