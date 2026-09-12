@@ -75,7 +75,7 @@ Ces règles écrasent toute autre considération. Si une réponse les viole, ell
 
 ## Carte du dossier
 
-55 fichiers, ~131 000 mots.
+54 fichiers, ~131 000 mots.
 
 | Dossier | Contenu |
 |---|---|

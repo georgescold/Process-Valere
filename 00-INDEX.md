@@ -1,6 +1,6 @@
 # INDEX — Où trouver quoi
 
-> 55 fichiers, ~131 000 mots. Tout vient de **Business OS (The Valere)**.
+> 54 fichiers, ~131 000 mots. Tout vient de **Business OS (The Valere)**.
 > Si tu ne sais pas où chercher, pars d'ici. Si tu as une question fermée, pars de
 > `09-faq/arbitrages.md`.
 
