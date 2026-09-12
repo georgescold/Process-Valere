@@ -1157,3 +1157,95 @@ EXCLURE  : les gens qui te suivent déjà
 ou INCLURE seulement ceux qui te suivent  →  une campagne dédiée
 ```
 → `02-acquisition/facebook-ads.md`
+
+---
+
+## ═══ COMPLÉMENTS — LIVES Q&A 1 ET 4 ═══
+
+### ⭐ Comment devenir excellent en copywriting ?
+
+> **« Le cheat code ultime, c'est le HAND COPY. »**
+
+```
+Tu RECOPIES À LA MAIN des textes de vente qui ont fait de l'argent.
+Tous les jours. Pendant 6 à 12 mois.
+```
+> « J'ai tenu ça 6 à 8 mois. **J'ai une pile comme ça de feuilles écrites recto
+> verso.** Tu deviens trop puissant, vraiment. »
+
+Les deux compléments non négociables :
+- **Le volume.** « Je pourrais te dire lis tous les bouquins — mais c'est le volume,
+  tout ce qui compte. » *(500+ textes écrits, dont ~200 qui tiennent la route.)*
+- ⭐ **Se confronter au marché très rapidement.** Un bon copywriter qui reste
+  prestataire n'est pas vraiment un bon copywriter : *« si tu es le meilleur pour
+  écrire des textes de vente, putain fais-le pour toi, encaisse l'argent toi-même,
+  vois long terme. »*
+
+⚠️ Quels textes copier ? **Ceux qui ont fait de l'argent** — pas ceux qui sont beaux.
+Tri par gravité sur ClickBank, ou les textes qui tournent en ads depuis longtemps.
+
+Et le classement des compétences, sans ambiguïté :
+> « **Le copywriting, de loin, de loin, de loin.** Ça ne sert à rien d'être bon en
+> média buying si tu as une page de merde. Ça ne sert à rien d'être bon en closing si
+> tu as une page de merde. **Tout part du copywriting.** »
+
+### De qui prendre des conseils business ?
+
+⚠️ **Jamais de quelqu'un dont le seul business est de faire du contenu.**
+
+> « Si son seul business a été de faire des vidéos et de vendre des formations,
+> **désabonne-toi, ne prends plus jamais le moindre conseil de lui.** Son business
+> c'est de parler. C'est trop simple comme business : tu allumes la cam, 10 minutes,
+> tu as une vidéo. »
+
+**L'exception :** celui qui t'apprend **exactement ce qu'il fait lui-même** (quelqu'un
+dont le métier est YouTube et qui t'apprend YouTube), ou celui qui a **des business
+à côté**. → `01-principes/modele-mental.md`
+
+### Zoom ou Google Meet pour un appel de closing ?
+
+⭐ **Zoom.** Et pas le téléphone non plus.
+> « C'est beaucoup plus **framé**. »
+
+C'est le même principe que Vimeo plutôt que YouTube pour héberger une VSL : le
+contenant porte un cadre, et le cadre porte l'autorité.
+
+### Quels business physiques prospecter pour de l'emailing / de l'acquisition ?
+
+⭐ Le principe premier : **ceux où les gens viennent par la GÉOGRAPHIE, pas par
+préférence.**
+
+> « Tu vas dans ta boulangerie parce que c'est la meilleure et qu'elle n'est pas
+> loin — pas à cause de son marketing. **Vise tous les endroits où les gens ne
+> reviennent pas instinctivement**, où c'est la position qui les a fait venir la
+> première fois. Ton job, c'est de montrer que vous êtes meilleurs que les autres. »
+
+Exemples cités : **night clubs** (« ça cartonne, ça fait vraiment de l'argent »),
+salles de sport, opticiens, cabinets médicaux.
+
+### Comment prioriser quand on a plusieurs offres / plusieurs funnels ?
+
+```
+LANCE-EN UN  →  AUTOMATISE-LE  →  LANCE LE SUIVANT  →  AUTOMATISE  →  …
+```
+Et l'arbitrage sur *lequel* d'abord : **celui qui peut faire le plus d'argent à
+scale**, en tenant compte du bouche-à-oreille naturel de l'avatar (des dirigeants se
+parlent entre eux ; des parents beaucoup moins).
+
+⚠️ Le goulot d'étranglement est presque toujours le même : **tu n'as pas de
+copywriter.** → `08-scaling/recrutement.md`
+*(« Sur le marché français, j'ai dû en tester 20, même 25, avant d'en trouver des
+compétents. »)*
+
+### Combien de temps pour m'endormir / me lever plus tôt ?
+
+Le problème n'est ni le matin ni le soir — c'est **le cycle circadien**, ou le fait
+que tu ne dépenses pas assez d'énergie dans la journée.
+
+```
+□ Au réveil : ouvrir les rideaux et regarder la lumière du jour, intensément
+□ Le soir, à partir de 21 h : lunettes anti-lumière bleue (ou rouges)
+□ Pas de café dans les 1 h 30 qui suivent le réveil (sinon tu casses ton cortisol)
+□ ⚠️ Le café reste une drogue — « ce n'est pas un truc que je recommanderais »
+```
+→ `08-scaling/productivite.md`
