@@ -162,3 +162,107 @@ Scaler à break-even, voire en perte sur J+1
 **Ajoute un upsell.** Si tu as un funnel sans upsell, tu perds de l'argent
 maintenant, tout de suite. Un produit additionnel à ~10 % du prix principal
 proposé juste après l'achat = revenu incrémental immédiat.
+
+---
+
+# ⭐ Mesurer sa LTV — le tableau de cohorte
+
+> Source : *Live 16 — Stratégies Business*.
+> **« Connaître sa LTV, c'est connaître la seule et unique métrique qui compte dans
+> ton business. »**
+>
+> « J'arrive dans un call, je te demande ta LTV et ton coût d'acquisition. J'évalue
+> la scalabilité de ton acquisition, et je peux faire une projection de tes revenus
+> facilement. »
+
+## Le problème qu'il résout
+
+```
+Jour 0 :  1 200 € dépensés en ads  →  1 000 € de revenus  →  NET : −200 €
+```
+
+> « Personne ne va plus loin. Le mec se dit *je ne suis pas rentable*, il reste
+> bloqué à 500 €/jour. **Sauf que si tu connais ta LTV, tu sais qu'en 90 jours tu
+> n'as pas fait −200, tu as fait +3 000.** Tu craches sur 3 000 balles ? »
+
+⚠️ **La raison pour laquelle la plupart sont vraiment en perte : ils n'ont pas
+construit de back-end.** Ce n'est pas un problème de tracking, c'est un problème
+de funnel. → `03-marketing-copy/emailing.md` · `05-funnel/upsells.md`
+
+## Le tableau (Google Sheet, une ligne par jour)
+
+Tu prends **les clients et les leads entrés UN jour donné** (la cohorte), et tu
+suis ce qu'ils rapportent les jours suivants :
+
+| Jour | Revenu total (cumulé) | Net profit | Revenu / client | Revenu / lead | Nb clients | Nb leads |
+|---|---|---|---|---|---|---|
+| J+0 | 1 000 € | −200 € | … | … | … | … |
+| J+1 | 1 050 € | −150 € | … | … | | |
+| J+3 | 1 200 € | **0 €** ← break-even | … | … | | |
+| J+7 | … | + | **65 €** | … | | |
+| J+14 / J+21 / J+30 / J+56 / J+90 | … | … | … | … | | |
+
+```
+Net profit      = revenu total cumulé − ad spend du jour 0
+Revenu / client = revenu total cumulé ÷ nombre de clients de la cohorte
+Revenu / lead   = revenu total cumulé ÷ nombre de leads de la cohorte
+```
+
+**Étendre la période** : tu tires la colonne des jours vers le bas jusqu'à J+90.
+
+### Adapter la colonne « lead » à ton modèle
+
+Remplace le dénominateur par ce qui correspond à ton funnel — la formule ne change
+pas :
+
+| Modèle | Dénominateur |
+|---|---|
+| Funnel low ticket | **lead** (opt-in sur la landing page) |
+| Call funnel | **call**, ou **call qualifié**, ou **show-up** → `10-closing/call-funnel.md` |
+| SaaS | **free trial déclenché** |
+| ⭐ Organique | **le temps**, ou le **nombre de contenus postés** |
+
+> « En ads c'est plus simple parce que la dépense est monétaire. En organique, tu
+> payes toujours pour avoir un client — d'une manière ou d'une autre. »
+
+## ⭐ Ce qu'on en fait : fixer son plafond de CAC
+
+C'est l'usage opérationnel du tableau, et il est piloté par la **trésorerie**, pas
+par le revenu :
+
+```
+1. Je regarde mon revenu par client à J+7 : 65 €
+2. Je ne veux pas avancer plus de ~5 jours de trésorerie en ads
+3. Donc je fixe mon PLAFOND de coût d'acquisition à 60 €
+4. Je scale tant que mon CAC est ≤ 60 €. Point.
+```
+
+> ⭐ **« Je ne scale pas en fonction du revenu. Je scale en fonction du coût
+> d'acquisition client. »**
+
+C'est ce qui rend concrète la posture « accepter de perdre aujourd'hui » —
+→ `01-principes/strategie-unique.md`
+
+## Le rythme de mesure
+
+- **Une cohorte figée** = une feuille dupliquée, renommée à la date (« 1er février »)
+- **Relancer un tracking tous les 10 à 15 jours**
+  > « Sur 6 jours tu peux avoir de la variance sur ta LTV. Sur 2 semaines, non. »
+- Chaque jour, tu retournes remplir les lignes des cohortes ouvertes
+
+## Le repère de marché
+
+> **Un lead de landing page Facebook Ads en infoprenariat ≈ 1 $/lead/mois pendant
+> 3 mois** — soit ~3 $ en 90 jours, en bonus du front-end. (Moyenne observée sur le
+> marché US.)
+
+## L'outil
+
+Un Google Sheet suffit — « si tu ne sais pas t'en servir, regarde un tuto de 20
+minutes, tu le fais une fois et on n'en parle plus. C'est un excellent
+investissement. »
+
+Pour l'automatiser : un tracker type **Hyros** (leader du marché, se connecte à
+beaucoup d'outils, recommandé à leurs clients média buying). ⚠️ Cher — compter
+~230 €/mois à 20 k€ de CA, ~600 €/mois à 120 k€. Des concurrents moins chers
+existent.
