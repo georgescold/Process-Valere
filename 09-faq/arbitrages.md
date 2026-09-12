@@ -1249,3 +1249,81 @@ que tu ne dépenses pas assez d'énergie dans la journée.
 □ ⚠️ Le café reste une drogue — « ce n'est pas un truc que je recommanderais »
 ```
 → `08-scaling/productivite.md`
+
+---
+
+## ═══ COMPLÉMENTS — LIVE Q&A 24 ═══
+
+### ⭐ Quel prix pour un produit e-commerce, aujourd'hui ?
+
+⚠️ **Le low ticket e-com est en train de mourir.**
+
+| Palier | Verdict |
+|---|---|
+| **Low ticket** (< 50 $) | ⚠️ « Ça marche vraiment pas bien en ce moment » |
+| ⭐ **Middle ticket** (60 à 200 $) | **« Ça fonctionne bien. »** C'est là qu'il faut être |
+| **High ticket e-com** | Fonctionne aussi → `05-funnel/funnels-gagnants.md` |
+| ⭐ **Super high ticket** (10 à 30 k$) | Pour les plus avancés. Un marché réel |
+
+**Le ciblage du super high ticket e-com :** tu ne cherches pas un centre d'intérêt, tu
+cherches une **géographie de riches.**
+> « Où sont ces gens-là ? Tu targetes Beverly Hills, tu targetes les quartiers très
+> riches de Miami. Tu spendes uniquement là-bas, et tu vends du super high ticket. »
+
+### Le parcours d'acquisition e-com qu'il valide
+
+```
+SEO  +  statiques TikTok  →  A/B test des ANGLES marketing
+        └─► et quand ça commence à vendre  →  GOOGLE ADS
+```
+> « Google Ads, c'est vraiment facile. » *(Voir aussi : Google Ads est la
+> recommandation par défaut sur un SaaS B2B très précis avec un petit budget.)*
+
+### Comment maximiser le show-up d'un webinaire ?
+
+> « Le gros game du webinaire, **c'est le show-up.** »
+
+```
+□ Groupe / canal Facebook dédié aux inscrits
+□ ⭐ RETARGETING FACEBOOK sur les opt-ins :
+     « le live reprend dans 15 minutes »  ·  « dans 1 heure »  ·  « demain »
+□ Relances par mail et par ManyChat
+□ "Add to calendar" à l'inscription
+```
+→ La séquence de chauffe complète : `05-funnel/funnels-gagnants.md` § Le webinaire US
+
+⚠️ Sur le marché français, le script de webinaire dominant est **encore celui de
+Russell Brunson**, repris tel quel par tout le monde. Deux opérateurs concentrent
+« 90 % des webinaires français ».
+
+### ⭐ Le hack de croissance YouTube : la chaîne de vidéos
+
+Pour exploiter la **session watch time** (→ `02-acquisition/youtube.md`), un même
+viewer doit enchaîner tes vidéos et **ne jamais sortir de ta chaîne** :
+
+```
+Une vidéo  →  écran de fin vers une autre vidéo à TOI
+           →  commentaire ÉPINGLÉ avec une vidéo à TOI
+           →  description avec une vidéo à TOI
+           →  vidéos recommandées à TOI
+     = 5 ou 6 vidéos consommées sur UNE recommandation YouTube
+```
+> « YouTube est en mode : *le mec a cliqué sur une vidéo et on s'en est tapé 4 d'un
+> coup du même viewer — on va te mettre bien, toi créateur.* »
+
+Effet mesuré sur sa propre chaîne : **une croissance en vues qui reprend dès la mise
+en place des commentaires épinglés et des vidéos recommandées.**
+
+### Quand recommander quelque chose : le raisonnement en probabilités
+
+C'est la façon dont il tranche, et elle vaut d'être copiée :
+
+> « Je peux te recommander un truc qui a **65 % de chances de marcher** — ça veut dire
+> **35 % d'échec.** Là, pour ce broad, j'estime les chances de succès à 55-60 %. C'est
+> quitte ou double.
+>
+> **Stratégiquement, si j'avais un budget illimité, je le ferais. Mais tu n'as pas un
+> budget illimité.** Et à long terme, le broad performera mieux. »
+
+Le principe : une recommandation n'est jamais binaire — **elle est une probabilité
+pondérée par ton budget et ton horizon.** → `01-principes/modele-mental.md`
