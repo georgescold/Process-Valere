@@ -1,6 +1,6 @@
 # INDEX — Où trouver quoi
 
-> 54 fichiers, ~128 000 mots. Tout vient de **Business OS (The Valere)**.
+> 55 fichiers, ~131 000 mots. Tout vient de **Business OS (The Valere)**.
 > Si tu ne sais pas où chercher, pars d'ici. Si tu as une question fermée, pars de
 > `09-faq/arbitrages.md`.
 
@@ -152,7 +152,7 @@
 ---
 
 ## J'ai une question précise, je veux une réponse directe
-→ **`09-faq/arbitrages.md`** (~8 200 mots, deux parties)
+→ **`09-faq/arbitrages.md`** (~9 500 mots, cinq parties)
 
 **Partie 1 :** abonnement ou pas, quel budget de test, low/mid/high ticket, LP ou pas,
 copier un concurrent, native ads, lancer un SaaS, choix de niche, garantie, rareté…

@@ -75,7 +75,7 @@ Ces règles écrasent toute autre considération. Si une réponse les viole, ell
 
 ## Carte du dossier
 
-54 fichiers, ~128 000 mots.
+55 fichiers, ~131 000 mots.
 
 | Dossier | Contenu |
 |---|---|
@@ -87,7 +87,7 @@ Ces règles écrasent toute autre considération. Si une réponse les viole, ell
 | `06-process/` | **PROCESS-MAITRE.md** — le pipeline complet · ⭐ **créer un process** · ⭐ **lancement organique** |
 | `07-templates/` | Scripts ads, 10 types de leads, objets email, prompts IA, docs de travail, ⭐ **8 hacks marketing applicables aujourd'hui** |
 | `08-scaling/` | Passer de 100k à 300k, ⭐ **recrutement (système complet)**, équipe & rémunération, structure, expatriation, ⭐ **CSM / délivrabilité produit**, ⭐ **creative strategist**, ⭐ **productivité** |
-| `09-faq/` | Arbitrages tranchés (~8 200 mots, 2 parties) — les questions récurrentes, déjà décidées |
+| `09-faq/` | Arbitrages tranchés (~9 500 mots, 5 parties) — les questions récurrentes, déjà décidées |
 | `10-closing/` | **Vente par appel** — principes premiers, script en 16 parties, objections, garantie, setting, closers, ⭐ **construire et scaler un call funnel** |
 
 Point d'entrée narratif : `00-INDEX.md`
