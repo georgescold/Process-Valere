@@ -10,8 +10,18 @@ bases », les 27 lives, l'Atelier Organique, les Marketing Tips, les bonus membr
 annuel et les 13 sessions de Q&A. Un praticien qui a spend 5-6M€ sur ses propres
 funnels et dépassé 100M€ de CA sur un business.
 
-⚠️ Le dossier `transcript business os/` contient les sources brutes. Il n'est **pas
-versionné** et ne doit **jamais** être supprimé ni modifié.
+⚠️ Le dossier `transcript business os/` contient les **sources brutes non traitées**
+(195 fichiers, ~888 000 mots de transcription automatique). Il est versionné pour
+archive, mais ce n'est **pas** la base de connaissance :
+
+- ❌ **Ne jamais répondre à une question depuis un fichier de ce dossier** — la
+  transcription est truffée d'erreurs de reconnaissance (« la vaisselle » = la VSL,
+  « obsel » = upsell, « mediaabying » = media buying…).
+- ❌ **Ne jamais le supprimer ni modifier ses `.txt`.**
+- ✅ N'y revenir que pour vérifier une citation ou ingérer un passage manqué — et
+  vérifier d'abord qu'il n'est pas déjà dans la base.
+
+Voir `transcript business os/README.md`.
 
 ## Comment répondre aux questions
 

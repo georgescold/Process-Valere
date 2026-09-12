@@ -198,3 +198,18 @@ Trois fichiers montrent un système complet, de bout en bout :
 - `05-funnel/funnels-gagnants.md` — 4 business rentables décortiqués
 - `10-closing/call-funnel.md` — un call funnel de 0 à 500 k€/mois
 - `06-process/lancement-organique.md` — un lancement de 60 k€ sans un euro de pub
+
+---
+
+## ⚠️ Et le dossier `transcript business os/` ?
+
+**Ce sont les sources brutes, NON traitées** — 195 fichiers, ~888 000 mots de
+transcription automatique de la formation. Versionnées pour archive uniquement.
+
+❌ **On ne répond jamais à une question depuis ces fichiers.** La transcription est
+truffée d'erreurs (« la vaisselle » = la VSL, « obsel » = upsell, « mediaabying » =
+media buying, « l'ticket » = low ticket…). Tout ce qui valait d'être retenu a déjà
+été décodé et réécrit dans les 10 dossiers numérotés ci-dessus.
+
+✅ On n'y revient que pour vérifier une citation ou retrouver un chiffre exact.
+→ Détail et table des erreurs : `transcript business os/README.md`
