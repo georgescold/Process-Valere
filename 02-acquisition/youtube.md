@@ -485,6 +485,61 @@ solution naturelle.
 
 ---
 
+## ⭐⭐ La VOIX — le levier que personne n'applique
+
+> Source : les Q&A hebdomadaires, où c'est le retour le plus répété sur les vidéos
+> et les VSL analysées en direct.
+>
+> **« C'est primordial sur YouTube. Primordial. Et personne ne le fait. »**
+
+### Les 3 niveaux, et pourquoi le micro te trahit
+
+| Niveau | Ce que tu crois faire | Ce que le micro rend |
+|---|---|---|
+| **Normal** — « comme je parlerais à un pote » | Naturel | ❌ **Faible** |
+| **Moyen** | Dynamique | Moyen |
+| ⭐ **Fort + débit rapide + autorité** | Exagéré | ✅ **Normal** |
+
+> « Quand je parle en vidéo, **je parle fort dans la vraie vie.** Si tu parles
+> normalement, ton micro pense que tu parles faible. Si tu parles fort, il pense que
+> tu parles moyen. »
+
+Le même script, énoncé aux trois niveaux, produit trois vidéos différentes. Le
+prospect au niveau 1 se demande *« pourquoi je devrais m'exciter ? »* — au niveau 3,
+il n'a pas la question.
+
+### La direction à donner
+
+```
+PARLER FORT  +  DÉBIT RAPIDE  +  AUTORITÉ dans le ton
+        └── « en mode je débite, et en même temps je parle fort »
+```
+⚠️ **Chacun son style** — mais plus tu vas vers le niveau 3, mieux c'est. « Et il y a
+encore des niveaux en dessous, mais personne ne le fait. »
+
+Le conseil donné aux profils trop plats : **joue-le comme du théâtre**, pas comme une
+conversation.
+
+### ⭐ L'audio compte plus que le visuel
+
+> « Qu'est-ce qui fait l'audiovisuel ? **La voix.** Le visuel est important, mais ce
+> n'est pas le plus compliqué — **un visuel comme ça suffit pour faire 1 million de
+> vues.** Ce qui compte vraiment, c'est l'audio. »
+
+Deux corollaires directs :
+- ❌ **La colorimétrie ne décide de rien.** « On s'en fout de la colorimétrie. Ce qui
+  fait une bonne vidéo, c'est son **script.** »
+- ⚠️ **La baisse d'intensité en milieu de vidéo** est le défaut n°2 après le hook :
+  une intro dynamique suivie d'un body plat. Le niveau de voix doit **tenir** du
+  début à la fin.
+
+### Le diagnostic
+
+Une vidéo avec **8 % de CTR mais moins de 3 minutes de watch time** n'a pas un
+problème de miniature — elle a un problème de **hook et de voix.**
+
+---
+
 ## Étape 6 — L'ÉDITION
 
 > « Aucun premier jet n'est parfait. L'édition transforme un bon message en vidéo
