@@ -50,6 +50,45 @@ te fera gagner plus que ce que ça coûte.
 
 ---
 
+## ⭐ VSL ou page de vente texte ?
+
+**VSL, dans 90 % des cas.** On vit à l'ère de TikTok : les gens ne lisent plus.
+
+L'exception : si tu fais partie du **0,01 % des meilleurs textes au monde**, la page de vente écrite
+convertit mieux. Personne ne sait vraiment expliquer pourquoi. Mais si tu te poses la question, tu
+n'en fais pas partie : **fais une VSL.**
+
+Deux règles non négociables qui en découlent :
+- **Sous-titre toujours.** Tout le monde n'a pas le son.
+- **Si le lead regarde la première minute, ses chances d'acheter sont 6× plus élevées.**
+  → tout l'argent est dans le hook.
+
+---
+
+## ⭐ La répartition mathématique de la conversion
+
+C'est le 20/80 d'une page de vente, chiffré :
+
+```
+HEADLINE   →  25 % de la conversion   →  A/B TESTE-LA
+HOOK       →  25 % de la conversion   →  A/B TESTE-LE
+BIG IDEA   →  25 % de la conversion   →  A/B TESTE-LA
+LE RESTE   →  25 %  (offre, storytelling, copywriting, value stacking,
+                     closing, open loops… tout le packaging)
+```
+
+**Conséquence stratégique :** trois éléments font 75 % du résultat. Le reste est du **packaging**.
+Le packaging apporte de l'argent, mais il n'est pas ce qui décide.
+
+> **Anecdote vérifiée :** un praticien lance ses pubs, et la VSL ne charge pas. Il ne s'en rend pas
+> compte. Les visiteurs voient donc **une headline et un bouton**, rien d'autre.
+> Résultat : les gens ont acheté, et la campagne était rentable.
+> *(Sur des produits à 7-27 $, pas sur du 997 €. Mais quand même.)*
+
+Corollaire : si tes trois piliers sont mauvais, aucun packaging ne te sauvera.
+
+---
+
 ## Découpage : Lead / Body / Closing
 
 | Partie | % du texte | Objectif unique |
@@ -93,6 +132,31 @@ même produit identique.
 - [ ] *Bonus :* émotion, biais de négativité, preuve
 
 Faire tenir tout ça en 1-2 phrases est difficile. C'est normal.
+
+### ⭐ L'anatomie d'une bonne headline (les 4 composants)
+
+```
+MÉCANISME UNIQUE  →  quelque chose qu'on n'a jamais vu avant
+BÉNÉFICE          →  ce que la personne obtient
+URGENCE           →  c'est maintenant que ça se joue
+SPÉCIFIQUE        →  des noms, des chiffres, des secteurs — pas du général
+```
+
+**Exemple décortiqué (Agora, plusieurs milliards de CA/an) :**
+
+> « **L'or, le cuivre, l'argent et le fer** — tous ces secteurs sont **en train d'exploser** pour les
+> investisseurs **suffisamment avisés** pour mettre de côté leur passion patriotique et **tirer leur
+> épingle du jeu du boom chinois**. »
+
+| Fragment | Ce qu'il fait |
+|---|---|
+| « L'or, le cuivre, l'argent et le fer » | **Mécanisme unique + spécificité.** Quatre secteurs nommés. Ce n'est pas « les matières premières ». |
+| « sont en train d'exploser » | **Urgence.** Pas « vont exploser » : c'est déjà en cours, sans toi. |
+| « pour les investisseurs » | **Qualification** de l'avatar. |
+| « suffisamment avisés » | **Trigger d'ego.** Si tu ne le fais pas, tu n'es pas avisé. |
+| « tirer leur épingle du jeu du boom chinois » | **Bénéfice**, formulé en image et en récit, pas en promesse chiffrée. |
+
+Tout y est, en une phrase. C'est la référence à imiter structurellement.
 
 ### Objectif de la headline
 

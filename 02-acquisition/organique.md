@@ -52,6 +52,8 @@ C'est le seul trafic dont tu es propriétaire.
 > **La valeur de ton entreprise est déterminée par le trafic que tu possèdes.**
 > Pas par tes abonnés.
 
+*(Le concept vient de Russell Brunson, DotCom Secrets, premiers chapitres.)*
+
 Le test de résilience :
 
 ```
@@ -68,6 +70,11 @@ envoies un mail, tu connais ton taux de clic. Un reel fait 10 000 vues ou
 1 million — ce n'est pas corrélé.
 
 > *Telegram is the new emailing.*
+
+Et la conséquence la moins évidente, qui est aussi la plus chère : **une audience
+prêtée ne se revend pas.** Un repreneur n'achète pas une chaîne dont l'algorithme
+peut couper le robinet demain ; il achète une base qu'on lui transmet. Le trafic
+possédé est le seul actif du lot.
 
 ⚠️ **Corollaire pour un lancement :** ta vidéo YouTube peut flopper — tu ne fais
 pas d'argent. Ta base mail, elle, répond toujours. C'est la différence entre
