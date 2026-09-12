@@ -412,6 +412,119 @@ Formule qui ne peut pas rater :
 
 ---
 
+## ⭐ ATELIER — écrire un mail de A à Z : la structure « Imagine »
+
+> Source : *Bonus — Rédaction e-mail BusinessOS* (43 min d'écriture filmée en
+> direct, sans coupe). Contexte : **~4 100 contacts**, un avatar qui **connaît le
+> marketing** — donc impossible de lui servir du marketing grossier.
+
+**La structure employée : la structure imaginée.** On ouvre sur une situation
+**entièrement fictive**, on y installe une leçon, et on retombe sur l'offre.
+Référence citée : *Made to Stick*.
+
+> « Il n'y a rien de réel là-dedans. C'est une structure imaginée. »
+
+### Le mail final, dans son intégralité
+
+> **Objet :** 24 heures restantes
+>
+> Imagine qu'un génie t'offre un vœu.
+>
+> Tu n'as pas le droit de tricher — tu ne peux pas lui demander 5 vœux
+> supplémentaires. Tu lui demanderais quoi ?
+>
+> En vrai, cette question, c'est un **test de QI caché**. Il y a deux types de
+> choix : demander un poisson, ou apprendre à pêcher.
+> Les gens normaux demanderont toujours un poisson.
+> **Les gens smart demanderont toujours à apprendre à pêcher.**
+>
+> Bon, du coup, si tu es smart, tu apprends à pêcher. C'est le meilleur
+> investissement que tu puisses faire. Mais le gros du sujet, c'est : tu lui
+> demandes de t'apprendre à pêcher **sur quoi** ? De l'argent ? De la liberté ?
+> Être heureux ?
+>
+> Pour ma part, je vais te révéler ce que je lui demanderais. Ma requête serait
+> très simple : **donne-moi tout le savoir de l'univers.**
+>
+> Bon, je rajouterais quelques conditions — comme « tout en restant en vie ».
+> Je t'avoue que j'ai un peu peur que mon cerveau explose après toutes ces
+> informations, donc je prends mes précautions.
+>
+> Mais bon, mon choix est un peu bizarre. Je crois qu'avec tout ce savoir, je
+> n'aurais qu'une seule envie : **partager mon savoir.**
+>
+> Tout est résumé dans ce schéma : une cellule apprend un code génétique, elle le
+> transmet, puis elle meurt. C'est le cycle de la vie, finalement. Mais la première
+> étape, c'est **apprendre**.
+>
+> Et toi, là-dedans, tu apprends quoi en ce moment ?
+> Si tu me suis, c'est que tu es dans la phase business de ta vie, **n'est-ce pas** ?
+> Donc ce que tu apprends, c'est à générer des profits.
+>
+> Et c'est exactement ce que je te propose aujourd'hui : générer du putain de
+> profit. Faire du fric.
+>
+> Là, maintenant, je te propose de faire de l'argent — ou d'en faire plus. Parce
+> qu'aujourd'hui, **c'est le dernier jour** pour profiter des −50 % sur Business OS.
+>
+> [→ Rejoins Business OS dès maintenant]
+>
+> Il y a deux types de personnes dans la vie : ceux qui réussissent, et ceux qui
+> regardent les autres réussir.
+> **Tu veux être dans quel camp, %FIRSTNAME% ?**
+>
+> Honnêtement, la question est vite répondue.
+
+### Le décodage
+
+| Passage | Mécanisme |
+|---|---|
+| « Imagine qu'un génie… » | **Structure imaginée** — on entre par la fiction, pas par l'offre |
+| « C'est un test de QI caché » | **Étiquetage** : le lecteur veut être du bon côté du test |
+| « Les gens smart demanderont… » | Il se qualifie lui-même → engagement de cohérence |
+| « Donne-moi tout le savoir de l'univers » | **Storytelling personnel** — on transmet une valeur, pas une promesse |
+| La cellule qui apprend, transmet, meurt | Le **raisonnement logique** qui rend la conclusion inévitable |
+| « **n'est-ce pas ?** » | ⭐ Fait dire **oui** au cerveau. Empilé avec les questions précédentes |
+| « Générer du putain de profit » | Rupture de ton assumée — « c'est devenu agressif d'un coup » |
+| « C'est le dernier jour » | **Urgence** — placée seulement maintenant |
+| « Deux types de personnes » | **Closing par le faux choix** → `03-marketing-copy/closing-copy.md` |
+
+### Les règles de rédaction observées
+
+- [ ] **Écris avec TES tics de langage.** « Ça doit être ma voix dans sa tête. »
+      *« Bon, du coup… »*, *« bref »*, *« je t'avoue »*, *« OK ? »*
+      ⚠️ Ça ne marche que si l'expéditeur est une **personne** que l'audience a déjà
+      entendue parler. En B2C pur avec une liste de 50 000 inconnus, on écrit
+      « intelligent », pas « smart ».
+- [ ] **Jamais corporate.** Le mail vient de toi, pas d'une marque.
+- [ ] **Empile les questions fermées** auxquelles on ne peut répondre que « oui ».
+- [ ] **Les mots interdits restent interdits** — « réduction » est un spam word,
+      on le contourne. → `07-templates/objets-email.md`
+- [ ] **Un seul lien**, en gros et en couleur.
+- [ ] **Passage final à l'IA :** *« corrige les fautes d'orthographe, garde le style
+      de l'auteur, ne change rien, laisse les anglicismes. »* Jamais pour écrire —
+      uniquement pour corriger.
+- [ ] **Se relire à voix haute** avant d'envoyer.
+
+### La méthode de travail
+
+> Objectif annoncé : **15-20 minutes**. Temps réel : **42 minutes.**
+> « J'ai déjà 10 minutes de retard, ce n'est pas tolérable. »
+
+Le setup : Google Docs, **Roboto taille 13**, de la musique, et on écrit d'un jet en
+commentant ses propres hésitations. Les transitions moyennes sont assumées et
+laissées (« je ne suis pas trop fan de cette transition, mais peu importe »).
+
+> **La leçon de méthode : la vitesse d'exécution prime sur la perfection du texte.**
+> Un mail envoyé imparfait rapporte ; un mail parfait jamais envoyé ne rapporte rien.
+
+⚠️ Un arbitrage tranché en passant, sur la formulation « tu peux annuler quand tu
+veux » :
+> « Non. Je préfère que les gens **ne viennent pas** plutôt qu'ils viennent et ne
+> restent pas. Je veux que tu viennes et que tu restes. »
+
+---
+
 ## Cold email (base scrapée)
 
 Ça vend. Mais côté délivrabilité :
