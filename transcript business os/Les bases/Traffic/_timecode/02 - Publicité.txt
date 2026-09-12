@@ -1,0 +1,328 @@
+Publicité
+=========
+Durée : 00:12:58  |  ~2 221 mots  |  source : YouTube
+Transcription automatique : erreurs de reconnaissance possibles.
+
+00:00:00  ok donc bienvenue dans ce module
+00:00:02  Facebook Ads enfin du moins publicité
+00:00:04  payante on va surtout parler de Facebook
+00:00:05  Ads pour une seule bonne raison c'est
+00:00:07  que FB est la meilleure by far ADS parce
+00:00:10  que ils ont 15
+00:00:12  ans de Data aucune autre RG publicitaire
+00:00:16  n'a 15 ans de Data sur les gens c'est
+00:00:19  absolument énorme donc et aussi c'est
+00:00:20  les ciblages les plus
+00:00:24  avancés en gros le Brad donc on verra ça
+00:00:27  plus tard le brad est absolument insane
+00:00:31  ok c'est un peu ce qu'il faut savoir sur
+00:00:32  Facebook Ads euh maintenant les autres
+00:00:34  les autres sont bien on a euh TikTok euh
+00:00:38  Pinterest euh Google euh Youtube c'est
+00:00:43  hop là YouTube et cetera bon il y a
+00:00:45  plein de régim publicitaire c'est pas
+00:00:47  très intéressant de toutes les noter on
+00:00:48  va surtout parler de facebook ad mais ce
+00:00:50  qui s'applique à Facebook s'applique à
+00:00:52  tout ok étape 1 comprendre comment euh
+00:00:56  comment fonctionne la la publicité du
+00:00:58  moins sur facebook ok donc j'ai divisé
+00:01:00  ça en deux catégories ici on a ce qu'on
+00:01:02  appelle une campagne ici on a ce qu'on
+00:01:04  appelle un adset ici on appelle ce qu'on
+00:01:06  appelle les créatives hop là et ça fait
+00:01:10  dans cet ordre là la campagne et maître
+00:01:13  maîtresse de la l'ADS donc de l'ensemble
+00:01:17  de publicités et l'ensemble de
+00:01:19  publicités est maître de des créatives
+00:01:21  ce sont deux catégories parce que ça
+00:01:23  c'est le back end ça veut dire il y a
+00:01:26  que vous qui pouvez le voir et ça c'est
+00:01:27  le front end ça veut dire que person
+00:01:29  personne d'autre ça veut dire que tout
+00:01:31  le monde peut le voir ici tout le monde
+00:01:32  peut le voir ici que toi hop
+00:01:36  ok donc ça se divise en trois catégories
+00:01:39  ces trois catégories enfin ces trois
+00:01:41  donc ces trois carrés donc là c'est
+00:01:45  campagne ADS créative normalement tu
+00:01:47  connais déjà c déjà fait la publicité
+00:01:49  ici c'est un peu
+00:01:52  le c'est un peu la gestiontion du budget
+00:01:54  ça va être c'est tout ce qui est gestion
+00:01:56  en gros voilà et ici ça va être tout ce
+00:01:58  qui est ciblage
+00:02:00  hop et ici ça va être tout ce qui est
+00:02:04  pub tout ce qu'on va voir ça va être la
+00:02:08  description la description ça va être
+00:02:11  bah les vidéos ou les images et cetera
+00:02:15  et
+00:02:16  cetera donc voilà il y a trois
+00:02:18  catégories ici moi je conseille de
+00:02:20  mettre des campagnes normal pas
+00:02:22  advantage plus alors ça dépend des gens
+00:02:24  mais moi je conseille normal par contre
+00:02:26  le budget vous mettez budget budget
+00:02:30  hop budget à plus comme je vous l'ai dit
+00:02:32  on on ira ici c'est pour niveau les
+00:02:34  bases ok on revoit les bases et en live
+00:02:36  on fera vraiment des trucs ultra poussés
+00:02:38  peut-être que au moment vous regardez la
+00:02:39  vidéo le live est déjà sorti mais voilà
+00:02:43  donc budget advantage plus pour pouvoir
+00:02:46  gérer le budget comme il se doit ce que
+00:02:48  je recommande ici c'est de mettre
+00:02:50  dynamique créative sur facebook
+00:02:53  dynamique créative bon il y a pas
+00:02:56  d'accent mais vous voyez ce que je veux
+00:02:57  dire et euh
+00:03:00  de mettre un ciblage Brad Brad qu'est-ce
+00:03:04  que c'est c'est dire que vous n'allez
+00:03:06  cibler que le pays euh alors vous savez
+00:03:09  quoi je vais tout effacer je vais vous
+00:03:11  expliquer ce qu'est le Brad le Brad
+00:03:13  c'est c'est ciblage pas de ciblage
+00:03:17  ciblage égal 0 ce qu'on fait c'est qu'on
+00:03:21  va Leser
+00:03:23  cibler seulement des
+00:03:26  pays ok ça ça va être notre ciblage
+00:03:30  lorsque tu es dans ton adset tu vas
+00:03:31  cibler
+00:03:33  Brad tu vas me dire mais attends mais ça
+00:03:35  n'a pas de sens sinon Facebook ne va pas
+00:03:37  savoir qui qui est-ce qui va
+00:03:39  réagir que qui va acheter et cetera si
+00:03:42  Facebook va très vite le savoir parce
+00:03:44  que
+00:03:45  euh parce que parce que tu vas faire des
+00:03:49  impressions ces impressions vont
+00:03:51  engranger des réactions ces réactions
+00:03:53  vont engranger des clics ces clics vont
+00:03:56  engranger des achats enfin des
+00:03:58  déclenchements de pixels sur ton site
+00:03:59  web et si Facebook voit que la personne
+00:04:03  a interagi avec ta pub enfin super il va
+00:04:07  la proposer à plus d'audience comme
+00:04:08  celle-ci si elle réagit comme liker
+00:04:10  partager commenter super plus de C
+00:04:13  personnes likeci si elle clique pareil
+00:04:16  plus de personnes comme cela si elle
+00:04:17  achète ça va être encore plus de
+00:04:19  personnes comme cette personneel et
+00:04:21  c'est là où ça nous emmène notre pixel
+00:04:23  donc alors je juste finir la partie
+00:04:25  ciblage avant vous ciblez ce que je
+00:04:28  recommande du moins vous cible c un pays
+00:04:32  donc vous mettez ciblage par exemple
+00:04:35  France et c'est tout vous mettez aucun
+00:04:38  centre d'intérêt ciblage
+00:04:41  France ok vous mettez ciblage France et
+00:04:44  puis dat site maintenant dans l'ADS ils
+00:04:47  vont vous proposer aussi donc j'ai mis
+00:04:48  aussi dynamique créative voilà c'est je
+00:04:50  le rappelle ils vont vous
+00:04:53  proposer qu'est-ce qu'ils vont vous
+00:04:55  proposer un pixel exactement valer ils
+00:04:57  vont proposer un pixel le pixel c'est
+00:05:00  dira Facebook quand euh
+00:05:02  pixel égal déclenché
+00:05:06  alors euh plus de
+00:05:10  gens en gros un pixel c'est un petit
+00:05:14  bout de code c'est un petit bout de code
+00:05:16  html que tu mets dans ton header c'est
+00:05:18  hyper facile tu tapes comment comment
+00:05:21  paramétrer un header un pixel Facebook
+00:05:24  tu as retrouvver une vidéo ça dure 3
+00:05:25  minutes c'est super facile pe-re j'en
+00:05:26  ferai même une vidéo si tu veux euh un
+00:05:29  pixel c'est un petit code html que tu
+00:05:31  copyces sur euh tes
+00:05:34  euh sur dans tes sites web dans ton
+00:05:37  header de ton site web en gros et ce que
+00:05:41  ça va dire à Facebook c'est lorsque le
+00:05:44  pixel lorsqu'il y a une vue sur le donc
+00:05:47  le petit bout de code Facebook va avoir
+00:05:51  l'information et il va se dire ok je
+00:05:54  vais envoyer plus de
+00:05:56  gens comme
+00:05:57  ça parce que bah tu lui as dit ah moi je
+00:06:00  veux des je veux des déclenchements de
+00:06:02  pixel je veux des déclenchements de vu
+00:06:04  de cette page en gros tu vas demander
+00:06:07  des déclenchements de vue de page une
+00:06:09  vue de page ça peut être par exemple
+00:06:10  donc là je vais te faire un schéma
+00:06:12  classique donc là tu as ton site voilà
+00:06:14  on va dire VSL ici boom VSL ici bon de
+00:06:17  commande BDC et ici tu as ta page de
+00:06:21  remerciement thank you et B ton petit
+00:06:24  bout d'HTML tu vas le mettre sur cette
+00:06:26  balise là je ch de couleur tu vas le
+00:06:28  mettre juste je sais pas si on voit bien
+00:06:30  ouais je vais mettre une autre couleur
+00:06:31  encore tu vas le mettre sur cette page
+00:06:33  là ici tu mets HT le petit code Facebook
+00:06:36  pourquoi parce que du coup quand
+00:06:38  Facebook il va dépenser tu vas lui dire
+00:06:40  je veux plus de gens qui ont déclenché
+00:06:42  ce code html
+00:06:44  euh en gros c'est ça alors je vais pas
+00:06:47  rentrer dans les détails le pixel mais
+00:06:48  maintenant vous avez compris ce qui'est
+00:06:49  un pixel je ferai sûrement une vidéo sur
+00:06:51  comment paramétrer une campagne mais là
+00:06:53  comme ça vous avez la théorie ok on
+00:06:55  verra ensuite la pratique donc le pixel
+00:06:57  c'est dira Facebook plus de comme ça
+00:07:00  donc là tuas un user hop là user il fait
+00:07:02  sa vie hop h h je suis un user hop
+00:07:04  j'achète non il est là le user hop hop
+00:07:07  il tenvoie là-dessus Facebook donc il
+00:07:08  est sur Facebook il est sur la vidéo de
+00:07:10  vente il est sur le B commande et il
+00:07:11  achète une fois qu'il achète le petit
+00:07:13  bout de code html il va aller renvoyer à
+00:07:15  Facebook l'information et lui dire ce
+00:07:17  mec là il était top renvoiem en plus et
+00:07:21  Facebook il va faire ok il vaenvoyer des
+00:07:23  gens qui vont redéclench un
+00:07:24  pixel et du coup c'est comme ça qu'on
+00:07:26  améliore lia Facebook
+00:07:29  ce qu'il faut noter aussi c'est que
+00:07:32  lorsqu'on commence la ADS normalement on
+00:07:33  n pas beaucoup de budget du moins quand
+00:07:35  on est débutant si vous avez du budget
+00:07:37  combi vous fasse ce qui va suivre n'est
+00:07:40  pas forcément très pertinent si vous
+00:07:42  débutez je vous conseille de mettre un
+00:07:44  minima on va dire entre 30 et 50 € par
+00:07:47  jour moi quand je teste c'est à 150 et
+00:07:50  si c'est aux US c'est à 200 dollars donc
+00:07:53  fa retirer 10 % donc 140 et0 mais en
+00:07:56  gros voilà
+00:07:57  h entre 30 et € par jour et votre
+00:08:01  objectif c'est d'avoir 50
+00:08:06  pixel par semaine c'est le minimum pour
+00:08:10  que ça puisse s'optimiser SAF que à ce
+00:08:12  Budet là vous allez s pas faire 50 vent
+00:08:15  par semaine ici on a dit que du coup la
+00:08:16  vente on all la faire déclenement pix
+00:08:19  faire sur la vente absolument pas ici
+00:08:22  par exemple sur petit budget qu'on va
+00:08:24  d'abord optimiser c'est le initi
+00:08:30  ITC
+00:08:31  initiate checkout ce que ça veut dire
+00:08:34  initiate checkout c'est donc je refais
+00:08:36  le petit schéma ouais vous voyez bien
+00:08:37  donc ici vous avez votre vidéo ici vous
+00:08:39  avez hop votre bon de commande et ici
+00:08:42  vous avez votre euh thank you page le
+00:08:45  petit code html on va le mettre ici au
+00:08:48  lieu de le mettre là on va le mettre ici
+00:08:50  comme ça Facebook il va se dire ok donc
+00:08:51  déjà ils sont ils ont cliqué ils ont vu
+00:08:53  la vidéo et en plus ils sont intéressés
+00:08:55  par acheter ils ont pas forcément acheté
+00:08:57  mais ils ont potentiellement acheté ça
+00:08:59  c'est si vous faites du Low ticket si
+00:09:01  vous faites du High ticket enfin du
+00:09:03  moins si si vous avez très peu de initié
+00:09:05  checkout donc vous pouvez mettre aussi
+00:09:07  ici sur votre co hein si votre je dis
+00:09:09  bon de commande depuis tout à l'heure
+00:09:10  mais ça peut être page de réserve un
+00:09:12  appel quoi et euh si vraiment vous avez
+00:09:16  un produit ultra cher et vous avez très
+00:09:18  peu d'ajout au panier tous les jours
+00:09:20  vous pouvez le mettre sur la VSL
+00:09:22  directement c'est toujour mieux que
+00:09:23  àjout au panier
+00:09:26  euh voilà donc maintenant on a vu la
+00:09:29  partie pixel on va voir la partie
+00:09:31  créative tout de suite ok alors on
+00:09:33  reprend on a la partie on a vu la partie
+00:09:36  donc campagne campagne on a vu la partie
+00:09:40  adset on va pas voir on va voir
+00:09:42  maintenant la partie créative la partie
+00:09:44  créative c'est le nerf de la guerre
+00:09:48  entre guillemets je ferai un live je
+00:09:50  pense exprès pour les créatives il y a
+00:09:51  tellement de choses à dire mais en gros
+00:09:54  c'est un c'est classique c'est soit une
+00:09:56  photo soit une vidéo en ce moment ce qui
+00:09:57  marche quand même pas mal c'est les
+00:09:58  vidéos quand même en vrai de vrai les
+00:10:01  photos ça marche aussi c'est
+00:10:03  hook donc un gros hou c'est un un
+00:10:07  comment on appelle un hook en français
+00:10:09  un pour capturer la tension on va dire
+00:10:11  je sais plus comment une accroche voilà
+00:10:13  exactement
+00:10:15  c'est ce qu'on met au bout d'une canne à
+00:10:16  pêche en gros je sais plus comment on
+00:10:17  dit en
+00:10:19  français voilà donc c'est hook tu vas
+00:10:22  mettre donc un hook par exemple c'est un
+00:10:25  hou ça peut être par exemple un bénéfice
+00:10:28  hop on va par pas rentrer dans le
+00:10:29  copyriting mais béfice
+00:10:32  ensuite tu fais ta vidéo et cetera bon
+00:10:35  en fait je pense que jeai une vidéo
+00:10:36  uniquement sur comment faire des bonnes
+00:10:38  copyright enfin des bonnes Créativ d'un
+00:10:40  point de vue copyrighting on va rester
+00:10:41  dans le technique Facebook Ads donc tu
+00:10:43  uploades ta vidéo donc tu uploades ta
+00:10:45  pub
+00:10:46  super tu uploades ta pub et dans cette
+00:10:50  pub on va te demander 5
+00:10:53  headline 5 headline 5 enfin une en soit
+00:10:57  une à 5 une à 5 une à 5 C descriptions
+00:11:02  et euh C
+00:11:04  euh prime texte primaire je crois que
+00:11:07  c'est comme ça qu'on dit en français
+00:11:08  texte
+00:11:10  primaire ce que je recommande c'est d'en
+00:11:12  mettre cinq à chaque fois vous êtes
+00:11:15  obligatoire petit prompt facile vous
+00:11:18  demandez à chat GPT étape 1 comment
+00:11:21  faire des headline et des prompts étape
+00:11:23  1 tu mets ton site web donc WW dans
+00:11:27  chatgpt ton site web
+00:11:30  slashurl sur lequel tu renvoies ton site
+00:11:33  et tu dis de quoi parle ce site de quoi
+00:11:37  point d'interrogation de quoi parle ce
+00:11:38  site étape 2 tu dis à partir de ce site
+00:11:43  Bou fais-moi ce qu'on appelle du coup
+00:11:46  une ad
+00:11:47  copie tu es le meilleur copyritter et
+00:11:49  cetera ici tu mets ça tu es le meilleur
+00:11:51  copyritter blab blabla à partir du site
+00:11:53  fais-moi des AD copies cohérent hop et
+00:11:58  là vous vous avez déjà le niveau 1 vous
+00:12:00  avez déjà le niveau 1 des h copies et
+00:12:02  vous pouvez en générer 5 euh 5 moyennes
+00:12:05  est égal
+00:12:06  euh à mon avis mieux que une très bien
+00:12:09  une bien à minima euh donc voilà euh
+00:12:13  c'est à peu près tout ce que vous devez
+00:12:15  savoir sur Facebook Ads d'un point de
+00:12:16  vue les bases
+00:12:18  euh voilà c'est les bases de Facebook
+00:12:21  Ads je vais me mettre en grand c'est les
+00:12:23  bases de Facebook Ads on je pourrais
+00:12:25  aller vraiment beaucoup plus euh en
+00:12:27  profondeur mais là vous avez déjà le non
+00:12:29  ciblage vous avez comment faire des h
+00:12:31  copies on verra comment faire des bonnes
+00:12:33  créatives très bientôt peut-être même
+00:12:35  qui seront déjà dans dans l'onglais ou
+00:12:36  alors dans un autre module et euh voilà
+00:12:39  vous avez le bon ciblage comment gérer
+00:12:41  un bon budget comment gérer le pixel euh
+00:12:44  et voilà euh je vous renvoie vers la
+00:12:47  vidéo suivante qui est organique on est
+00:12:48  dans les bases l'idée c'est de
+00:12:50  comprendre chacun des aspects et ensuite
+00:12:52  on va voir donc directement l'organque
+00:12:53  allez à tout de suite

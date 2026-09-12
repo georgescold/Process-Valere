@@ -1,0 +1,2985 @@
+Live 19 - Scaler sa délivrabilité
+=================================
+Durée : 01:49:25  |  ~24 800 mots  |  source : Wistia
+Transcription automatique : erreurs de reconnaissance possibles.
+
+00:00:00  Je lance, écoutez, bonjour à tous, bonjour Mathis.
+00:00:03  Mathis, j'espère comment ça va Super, merci très très bien.
+00:00:08  Merci de m'accueillir, c'est un plaisir d'être là.
+00:00:10  Merci à toi pour l'invitation.
+00:00:13  On a un programme chargé aujourd'hui.
+00:00:14  Mathis, je te présente rapidement pour ceux qui ne te connaissent pas
+00:00:17  Mathis Clouet sur YouTube, Instagram, LinkedIn.
+00:00:21  Tu es aujourd'hui la référence dans le high ticket en France.
+00:00:28  Français. Ok, ton micro qui se des qui se débunk.
+00:00:34  C'est bon là Bon, ouais, nickel.
+00:00:36  Certains t'appellent le Ormosi français,
+00:00:38  t'as généré plusieurs millions, je crois à cinq.
+00:00:41  Ouais, deux point quatre.
+00:00:42  Deux point quatre millions à vingt ans, c'est ça
+00:00:45  C'est ça.
+00:00:47  Dans le domaine du high ticket, tu sais de quoi tu parles,
+00:00:49  tu as formé, aidé, coaché
+00:00:53  des centaines d'agences en France Puis
+00:00:54  trois-cent-cinquante, oui.
+00:00:55  Trois-cent-cinquante agences en francophonie,
+00:00:58  donc tu sais de quoi tu parles aujourd'hui.
+00:01:00  Et aujourd'hui, merci d'avoir accepté l'invitation,
+00:01:02  tu sais de quoi tu parles, on a un gros dossier.
+00:01:05  On va voir toute la partie back-end dont on parle pas
+00:01:07  forcément on va passer la plupart des gens ils voient le
+00:01:10  front-end ils voient les vidéos YouTube les VSL le marketing et
+00:01:13  caetera mais la vérité c'est que tout ça sans un bon
+00:01:16  back-end ne sert à rien et aujourd'hui on va faire un donc
+00:01:19  tu m'as dit de call Gordon et puis écoute let's go je te
+00:01:23  laisse et puis on va C'est parti ce que je vais faire
+00:01:25  comment est-ce que moi je m'organise en général donc j'ai
+00:01:26  mes notes à gauche pour avoir quelque chose de vraiment très
+00:01:29  structuré je vais vous partager l'écran sur un MIRO et je vais
+00:01:31  de manière vraiment évolutive avec vous prendre des notes,
+00:01:34  vous expliquer exactement comment est-ce que ça ça évolue.
+00:01:37  Et puis ensuite si vous souhaitez effectivement avoir
+00:01:39  de la documentation derrière,
+00:01:40  je pourrais fournir toute la documentation.
+00:01:42  L'idée c'est juste de ne pas tout donner durant live en
+00:01:45  documentation pour pas que vous écoutiez pas que vous le disiez tout simplement.
+00:01:48  Donc c'est voilà c'est et puis je pourrais également répondre
+00:01:50  aux questions en temps réel.
+00:01:53  Alors partager ça.
+00:01:55  C'est ce qu'on fait aussi de toute façon.
+00:01:57  Parfait mais génial.
+00:01:58  Est-ce que là vous voyez bien mon écran
+00:02:02  Yes, ok on vote. Tu es bon Ouais.
+00:02:05  Ok super live, bien s o s.
+00:02:06  Alors on va commencer tranquillement,
+00:02:08  ce que je vais faire c'est que je vais je vais avancer et puis
+00:02:10  ensuite merci pour les réponses,
+00:02:11  prendre les questions.
+00:02:12  On va commencer par la structure.
+00:02:14  Il y a deux catégories de business en étiquette entre
+00:02:16  guillemets en France, même de manière générale.
+00:02:18  Vous avez le business en down for you, hop,
+00:02:20  et vous avez le business en down with you.
+00:02:22  Qu'est-ce que j'appelle down for you C'est les business de service.
+00:02:24  Donc, je fais pour toi down with you,
+00:02:26  c'est je fais avec toi down with you.
+00:02:28  En général, on peut catégoriser les business de down for you par
+00:02:31  des business soit d'agences,
+00:02:33  soit des business freelance où vous allez faire des sites,
+00:02:36  vous allez faire des miniatures,
+00:02:37  vous allez faire des vidéos au monde du montage.
+00:02:39  Tout ça, c'est des business où vous allez faire du service et en
+00:02:42  général, c'est du.
+00:02:44  OK, parce que vous allez avoir par exemple besoin d'une miniature une fois.
+00:02:47  La miniature, vous allez avoir besoin régulièrement.
+00:02:49  Vous allez avoir besoin d'avoir du montage vidéo régulièrement,
+00:02:51  du maintien site web régulièrement,
+00:02:52  de faire plusieurs sites, et caetera, et caetera.
+00:02:54  Donc le site, le site web, pardon,
+00:02:56  le service d'On for You est un petit peu différent,
+00:02:58  même complètement du modèle DownVisu.
+00:03:00  Le modèle DownVisu, lui, en l'occurrence,
+00:03:02  c'est en général du coaching.
+00:03:04  On ne va pas rentrer dans le truc de formation,
+00:03:06  parce que formation c'est plutôt do it yourself.
+00:03:09  Sachant que quand je dis ça,
+00:03:10  il n'y a pas de jugement de valeur.
+00:03:11  Je fais du down with you,
+00:03:13  on a très très peu de down for you chez Echoystams, c'est un choix.
+00:03:15  Ce que je veux vous dire c'est que vous pouvez avoir un
+00:03:17  service à cinq-mille euros ici et ici un service à cinq-mille
+00:03:20  euros, ce sont deux modèles en étiquette,
+00:03:22  mais c'est deux choses avec une délivrabilité et un back-end
+00:03:24  complètement différent.
+00:03:25  Le down with you va nécessiter des équipes différentes que du
+00:03:28  down for you et inversement.
+00:03:30  D'ailleurs, en général,
+00:03:30  le downwizu va beaucoup plus se concentrer sur collecter du cash,
+00:03:33  c'est-à-dire que vous allez vendre l'information une fois
+00:03:36  et ensuite pour revendre de l'information,
+00:03:38  ça va être plus compliqué par la suite.
+00:03:39  En tout cas, il faudra creuser un nouveau gap,
+00:03:41  un gap qui sera plus important.
+00:03:42  En l'occurrence, le don for you, lui,
+00:03:44  va être plus facile à revendre pour la simplement raison que
+00:03:47  c'est du service.
+00:03:47  Je vous demande de passer à la suite et puis passer sur la
+00:03:50  partie back-end.
+00:03:53  Si vous allez en Bretagne pour aller chercher le poisson,
+00:03:55  vous avez deux manières d'aller chercher le poisson.
+00:03:57  Vous pouvez soit effectivement l'acheter à votre poissonnier
+00:03:59  qui tous les matins va aller pêcher à votre place le poisson
+00:04:01  et donc tous les matins vous allez avoir besoin tous les
+00:04:02  jours de poisson, c'est lui qui va le faire à votre place,
+00:04:05  besoin de récurrence et c'est du don for you donc vous allez
+00:04:08  faire payer votre poisson en général peut-être je ne sais
+00:04:10  pas à cinq dix quinze euros pas très cher,
+00:04:12  c'est pour ça qu'en général le don for you il est moins cher
+00:04:13  en plus cher en curing.
+00:04:15  Si en l'occurrence vous demandez à un pêcheur
+00:04:17  professionnel de vous emmener en mer sur son zodiaque de lui
+00:04:19  montrer dans une journée découverte et caetera,
+00:04:21  il peut vous facturer.
+00:04:30  Donc dans un cas,
+00:04:31  il y a plus de cash qui est collecté et vous savez faire vous-même.
+00:04:34  Dans un autre cas, vous ne savez pas faire vous-même,
+00:04:35  mais on le fait pour vous, vous gagnez du temps et par contre,
+00:04:37  vous avez un plus faible cash collecté, mais un plus gros, ok.
+00:04:41  Donc c'est les deux différences.
+00:04:42  Alors maintenant comment structurer
+00:04:44  ces services là Parce que dans les deux cas, c'est du service,
+00:04:46  c'est un service à l'information,
+00:04:47  un autre un service à la délivrabilité,
+00:04:49  donc de faire directement.
+00:04:50  Ce qui est sûr, c'est qu'on n'est pas sur une base de produits.
+00:04:53  C'est pour ça d'ailleurs que vous voyez,
+00:04:55  on parle tout le temps des SAS.
+00:04:57  Software ads service.
+00:04:59  Donc c'est quelqu'un qui a réussi à standardiser la partie service.
+00:05:02  Aujourd'hui, on n'est pas sur ce genre de méthodologie pour la simple
+00:05:05  raison qu'on a des clients en étiquette et en général,
+00:05:07  le high ticket, c'est plus de personnalisation,
+00:05:09  de la relation humaine.
+00:05:10  D'ailleurs en étiquette,
+00:05:11  les gens achètent beaucoup plus la relation qu'en réalité votre produit.
+00:05:14  C'est pour ça que votre capital confiance et votre capital
+00:05:16  communication est super important.
+00:05:18  Vous allez avoir besoin d'une équipe donc de C. S.
+00:05:20  Alors il y a plusieurs appellations pour ça.
+00:05:23  Il y a, je vais mettre équipe on va mettre équipe de délivrabilité
+00:05:26  ok équipe de vous me dites si vous voyez bien mon écran
+00:05:29  toujours tac c'est bon dé-li-li-té
+00:05:34  ok comment est-ce qu'on appelle une équipe de délivrabilité
+00:05:37  Cole Gordon appelle ça des account
+00:05:40  managers
+00:05:41  ou des c s c s c customer success customer
+00:05:48  success.
+00:05:50  Il y en a qui appellent ça des consultants.
+00:05:54  Il y en a qui appellent ça à l'époque d'Ormozid chez Jim
+00:05:56  Loach.
+00:05:57  Ils appelaient ça des business consultants,
+00:05:59  des BC business
+00:06:02  consultants.
+00:06:05  Vous avez également customer success manager, donc c s m.
+00:06:09  On va beaucoup réutiliser ces termes-là,
+00:06:10  vous allez voir customer success
+00:06:16  manager.
+00:06:16  Bref, c'est des personnes qui vont prendre en charge les clients
+00:06:19  que vous allez faire rentrer dans votre accompagnement,
+00:06:21  dans votre agence,
+00:06:22  qui vont les onboarder et qui vont les délivrer.
+00:06:24  Alors, il y a plein de manières de délivrer des clients.
+00:06:26  Si par exemple, vous avez une agence de site web,
+00:06:28  un customer success pourrait être quelqu'un qui est un
+00:06:29  développeur sur webflow, qui va on border la personne,
+00:06:32  communiquer avec votre client, comprendre ses besoins,
+00:06:34  lire son formulaire et délivrer en faisant le site web.
+00:06:37  Une autre manière de le délivrer,
+00:06:38  si vous avez un business d'accompagnement
+00:06:40  sur la confiance en soi, disons admettons,
+00:06:42  un coaching sur la confiance en soi,
+00:06:43  ça va être quelqu'un qui va accueillir la personne,
+00:06:45  non border ou lire son formulaire,
+00:06:47  c'est toujours un formulaire,
+00:06:47  on en parlera et commencer à le coacher avec des sessions one
+00:06:50  one avec des des étapes étape par étape.
+00:06:54  Donc il y a plusieurs manières de faire ça.
+00:06:56  Aujourd'hui, il y a un business qui fait un milliard de revenus par an,
+00:06:59  qui est dirigé par Tony Robbins,
+00:07:00  Anthony Robbins et Dean Graziosi qui fait un milliard
+00:07:03  de revenus par an, qui est littéralement du coaching.
+00:07:05  Et lui, il le délivre de deux manières.
+00:07:07  Vous avez soit du One to many,
+00:07:09  parce que tout le monde parle de One to many en webinaire.
+00:07:12  En réalité, le One to many peut être aussi sur la délivrabilité,
+00:07:14  c'est-à-dire que Tony Robbins,
+00:07:16  il fait soit du One to many en délivrabilité, soit c s m.
+00:07:19  Et s'il fait un milliard de revenus par an avec Dean
+00:07:21  Grazüthi.
+00:07:22  Donc One to many, c'est quoi C'est en fait,
+00:07:24  vous allez payer une conférence cinq mille euros et vous allez
+00:07:26  avoir accès à trois conférences en présentiel.
+00:07:29  Il va s'adresser à toute la salle.
+00:07:30  Il va passer dans les rangs, il va passer le micro,
+00:07:31  il va faire son pitch,
+00:07:32  il va faire son show entre guillemets.
+00:07:34  Il va délivrer son coaching avec mille personnes,
+00:07:36  cinq mille personnes, dix mille personnes dans la salle,
+00:07:38  dans les Doorium.
+00:07:39  L'autre manière, c'est vous allez travailler en one one avec les experts,
+00:07:42  avec les coachs de Tony Robbins, qui lui-même a coaché,
+00:07:45  que lui-même a formé et a traîné à ses méthodes.
+00:07:48  Nous, dans ces cas-là,
+00:07:48  ça va être du one one et ça va être du personnalisé,
+00:07:50  du sur mesure pour plus cher.
+00:07:52  Donc, on voit qu'il y a des business qui ne sont littéralement
+00:07:54  capables de faire.
+00:07:56  Bilion, c'est quoi C'est dix chiffres Oui,
+00:07:58  c'est dix chiffres, dix, c'est ça.
+00:08:01  Donc dix, dix, dix figures par an avec de la formation,
+00:08:05  avec des services de délivrabilité.
+00:08:07  OK, donc c'est à prendre un sérieux.
+00:08:09  Alors déjà pourquoi, je vais reprendre mes notes,
+00:08:13  pourquoi avoir une équipe de c s m
+00:08:16  Les c s m,
+00:08:16  c'est ce qui vont vous permettre de pouvoir scaler
+00:08:18  votre délivrabilité sans que vous soyez frustré,
+00:08:20  sans que vous ayez de la mettre,
+00:08:21  du mécontentement client,
+00:08:23  que vous ayez quelque chose qui implose.
+00:08:25  Quand vous faites rentrer des clients dans votre coaching,
+00:08:26  si vous essayez de tous les délivrer à la main et que vous
+00:08:28  commencez à faire rentrer un, deux, trois, quatre, cinq,
+00:08:30  six clients par semaine, là je parle dans le cas du coaching,
+00:08:33  c'est valable pour une agence, dans un business en étiquette,
+00:08:35  vous allez devoir apporter une attention particulière à chaque
+00:08:37  client qui rentre.
+00:08:38  Si vous essayez de tout faire tout seul,
+00:08:39  vous allez vous retrouver à faire du contenu, de la vente,
+00:08:41  de la délivrabilité,
+00:08:42  vous allez juste imploser et soit votre business sera plus
+00:08:44  en capacité puisque vous n'aurez plus le temps de faire
+00:08:46  rentrer les clients.
+00:08:47  Et donc là, c'est la pire des choses,
+00:08:48  c'est plus faire rentrer de cash ou alors vous allez
+00:08:49  commencer à faire rentrer les clients sans vous soucier la délivrabilité.
+00:08:52  Là, c'est le crash, mais juste quatre semaines plus tard.
+00:08:54  Donc dans tous les cas vous crachez donc c'est extrêmement
+00:08:56  important de savoir de pouvoir recruter les c s m.
+00:08:59  Je vais juste à des questions.
+00:09:01  Alors ouais ok trois comas c'est quoi
+00:09:03  exactement je n'ai pas Trois virgule donc un milliard tu
+00:09:06  vois genre one comas c'est une virgule donc mille.
+00:09:11  Ah je connaissais pas.
+00:09:11  Et tout comas club c'est du coup plus d'un million et truc
+00:09:14  comme ça c'est une virgule.
+00:09:15  C'est les virgules.
+00:09:16  C'est les virgules.
+00:09:17  C'est
+00:09:18  les virgules dans le chiffre tu vois en lyrique un au lieu de
+00:09:21  mettre un espace, banc mille,
+00:09:22  ils vont mettre une virgule et c'est les Coma.
+00:09:24  Ok.
+00:09:24  Je n'ai jamais compris pourquoi est-ce qu'ils appelaient ça
+00:09:27  tout Coma Club et donc maintenant je viens de comprendre.
+00:09:29  Ok, j'ai l'air con maintenant. Ok, ça marche.
+00:09:33  Alors on appliquer plusieurs sujets aujourd'hui vous allez
+00:09:35  voir donc là on a vu qu'est-ce que c'était un c s m on va
+00:09:37  pouvoir pourquoi et comment est-ce que vous allez pouvoir le faire.
+00:09:39  Quand est-ce qu'il faut que vous recrutiez des c s m,
+00:09:42  les responsabilités d'un c s m évidemment des exemples de
+00:09:45  comment est-ce que vous pouvez traquer ça et puis comment et
+00:09:47  quels sont les process pour faire des interviews de CSM et
+00:09:49  les onboarder avec des rampes-up dont je vous ai parlé,
+00:09:52  c'est super important parce que quand vous allez voir quand
+00:09:54  elle commence à recruter des CSM,
+00:09:55  si c'est la mauvaise personne et qu'il faut la désoneboarder,
+00:09:58  la offboarder en réalité en cinq semaines plus tard ou
+00:10:01  moins d'un mois plus tard,
+00:10:02  ça va vous coûter tellement cher en confiance en relation
+00:10:05  client en temps en énergie parce que la personne a
+00:10:07  recommencé à collecter plein d'informations sur votre
+00:10:09  business sur vos sur vos clients il faudra ensuite tout
+00:10:11  enlever tout reformer c'est un bordel pas possible donc on va
+00:10:14  rentrer dans les détails sur justement comment est-ce que
+00:10:15  vous pouvez éviter ça au quotidien pour que vous
+00:10:17  puissiez aller plus vite,
+00:10:18  gagner du temps et gagner de l'argent parce que c'est
+00:10:20  l'objectif, c'est gagner la thune.
+00:10:22  Ok Plusieurs manières pour les c s m de délivrer
+00:10:26  de délivrer du coaching.
+00:10:27  La première c'est évidemment de faire des coaching de groupe.
+00:10:31  Ok, coaching de groupe.
+00:10:32  Alors ce qu'on est en train de faire actuellement,
+00:10:33  j'en fais aussi moi sur mes produits étiquettes,
+00:10:35  c'est la première manière.
+00:10:36  La seconde chose, c'est de faire du coaching one one,
+00:10:39  one one en appel.
+00:10:42  Et la troisième manière, c'est de faire du coaching one one
+00:10:46  one mais sur un Slack ou sur un
+00:10:49  chat directement.
+00:10:51  Ok Ça ça va apporter beaucoup plus
+00:10:53  de communication, de rapprochement,
+00:10:55  de sentiments de de de rapprochement.
+00:10:58  Avait fait une étude sur toutes toutes ces activités qui
+00:11:00  étaient assez intéressantes,
+00:11:01  c'est que sur tous les business qui l'accompagnaient dans
+00:11:03  laquelle il avait des parts, les personnes,
+00:11:05  les clients qui étaient plus satisfaits sur le coaching
+00:11:07  étaient les clients qui avaient une meilleure communication
+00:11:09  avec les boîtes dans lesquelles il avait des parts et non pas
+00:11:11  de meilleurs résultats.
+00:11:13  C'est intéressant à regarder.
+00:11:14  C'est-à-dire que oui les résultats sont importants,
+00:11:16  oui c'est primordial,
+00:11:16  vous devez apporter les résultats à vos clients,
+00:11:18  certes c'est ultra important, c'est primordial,
+00:11:20  mais la communication prime.
+00:11:22  Il y a des personnes dont littéralement il a regardé
+00:11:24  entre deux boîtes,
+00:11:24  vous avez la boîte un qui a résultat qui fait je ne sais
+00:11:27  pas dix cas pour make money online et m o très classique
+00:11:30  ok, une boîte deux qui a vingt cas de résultats,
+00:11:33  je grossis le trait,
+00:11:34  la boîte un qui fait dix cas qui fait seulement dix cas de résultats,
+00:11:36  mais qui a une communication plus plus plus au quotidien
+00:11:39  avec des relances proactive, avec du tracking,
+00:11:40  avec de la visibilité sur les prochaines étapes sur comment
+00:11:42  faire quoi faire exactement,
+00:11:44  aura beaucoup plus de satisfaction client,
+00:11:45  d'avis positif est de cinq étoiles que la boîte qui fait
+00:11:48  vingt-quatre résultats avec une communication qui est médiocre,
+00:11:50  peu de tracking et un manque de visibilité.
+00:11:52  Si ça va droit à l'essentiel, même s'il a plus de résultats.
+00:11:54  C'est très étonnant, je vous l'accorde,
+00:11:55  moi-même j'étais un peu surpris,
+00:11:57  mais c'est important de le comprendre ça.
+00:11:58  Donc toujours primer sur la communication parce que c'est
+00:12:00  ça qui de toute façon vous permettra d'avancer et d'avoir
+00:12:03  beaucoup plus de clarté.
+00:12:03  Ok Concrètement communication,
+00:12:05  qu'est-ce que tu entends par là Alors communication,
+00:12:07  c'est de la relance au quotidien.
+00:12:08  Ça va être relancé les personnes dans les canaux,
+00:12:11  ça va être de poser des questions.
+00:12:12  Moi typiquement, une des premières règles que j'ai donné avec mes c s m,
+00:12:15  c'est quand on vous pose une question sur le canal,
+00:12:17  canal Slack, la meilleure manière d'y répondre,
+00:12:19  c'est de reposer une question en retour.
+00:12:21  Je te donne un exemple,
+00:12:22  comment est-ce qu'on fait une vidéo YouTube Tu en es où
+00:12:25  Est-ce que tu as déjà posté une vidéo YouTube C'est quoi
+00:12:27  l'objectif de cette vidéo Est-ce que tu peux me rappeler
+00:12:29  exactement quel quel est le type de caméra que tu as Est-ce
+00:12:31  que tu as déjà allumé un un logiciel de montage Est-ce que
+00:12:34  tu n'as pas envie de laisser le montage Tu as combien de temps Bref,
+00:12:36  de demander plus de précision pour avoir une réponse plus précise.
+00:12:39  C'est exactement comme sur un logiciel, comme sur un l m,
+00:12:42  un chat g p t, peu importe.
+00:12:44  C'est plus vous allez préciser la question,
+00:12:46  plus la réponse pourrait être précise.
+00:12:47  Parce que la majorité des gens se sentent frustrés quand ils
+00:12:49  posent des questions à des coachs,
+00:12:51  ont des réponses à côté de la plaque.
+00:12:52  Quand vous posez une mauvaise question de t g p t que vous
+00:12:53  donnez réponse à côté de la plaque,
+00:12:54  vous dites waouh de toute façon ce n'est pas encore prêt l'IA.
+00:12:56  Alors que l'IA c'est complètement prêt.
+00:12:57  C'est juste que vous avez posé la mauvaise question.
+00:12:59  Ok Donc c'est exactement pareil.
+00:13:01  Les c s m ils ont un rôle primordial et c'est vraiment la
+00:13:04  pierre angulaire de votre coaching,
+00:13:06  il y a plusieurs rôles.
+00:13:07  La première, c'est de réduire
+00:13:10  les.
+00:13:12  Les c'est une ligne comptable dans votre activité,
+00:13:15  dans votre business que vous devez prendre en compte et si
+00:13:17  vous fermez les yeux là-dessus,
+00:13:19  vous pouvez être surpris de quel point ça vous coûte cher à
+00:13:21  l'année parce que vous pouvez refonder et caetera.
+00:13:24  Les refonder sont une ligne comptable,
+00:13:25  c'est c'est quand vous commencez à scaler et caetera,
+00:13:27  il faut le prendre en compte et le c s m il a un rôle
+00:13:30  particulier, c'est de réduire ces refonder là.
+00:13:31  Donc juste déjà pour déjà le payer un c s m
+00:13:35  peut-être cent cas par an si vous faites je ne sais pas
+00:13:38  trois millions quatre millions peut-être que ça vous ça vous
+00:13:40  rapportera cent-quatre plus parce que vous allez avoir un
+00:13:42  pourcentage de refund qui est normal parce que voilà c'est le
+00:13:44  marché et caetera si vous voulez garder une bonne
+00:13:45  réputation ça c'est déjà une fonctionnalité particulière.
+00:13:48  Ensuite, ça a de augmenter évidemment les résultats clients,
+00:13:51  augmenter les résultats et vous savez pertinemment que si vous
+00:13:53  augmentez les résultats clients,
+00:13:55  vous pouvez les utiliser comme preuves et donc comme marketing.
+00:13:57  Donc encore une fois un c s m, un très bon c s m,
+00:13:59  vous allez voir qu'il y a deux catégories de c s m,
+00:14:01  un très bon c s m qui augmente les résultats clients,
+00:14:03  augmente forcément parce que si vous postez les résultats avec
+00:14:05  une interview de un gars que vous avez passé de x à y
+00:14:08  résultat avec un résultat rêvé,
+00:14:09  je peux vous assurer que ça va vous faire signer énormément de clients.
+00:14:12  J'étais dans un mastermind avec Thomas van der Ley qui a encore
+00:14:14  deux semaines de ça et lui il m'a expliqué ce que lui il est
+00:14:16  en gros c'est l'équivalent du Yummy Danceel sur le marché de
+00:14:19  Holdandais.
+00:14:19  Il fait quatre-cents cas par mois vingt-trois ans et
+00:14:21  vraiment très cher.
+00:14:22  Il m'a dit que toutes les femmes qui étaient rentrées
+00:14:23  dans leur accompagnement par leur closer,
+00:14:24  il a une offre quatre k avaient regardé la seule interview de
+00:14:28  femmes qu'il avait sur sa chaîne et que toutes sans
+00:14:30  exception avaient regardé cette interview-là.
+00:14:32  Les interviews sont ultra intéressantes, on en reparlera,
+00:14:34  mais donc ça permet d'avoir de meilleurs résultats.
+00:14:36  Les c s m, ça a un rôle aussi pour avoir plus de.
+00:14:40  C'est-à-dire que vous avez un des très bons c s m qui sont
+00:14:42  très bien train, vous avez littéralement plus de l t v.
+00:14:45  Et vous savez pertinemment que baisser le coût d'acquisition
+00:14:48  client, c'est bien, custom accession cost,
+00:14:50  il faut concentrer là-dessus,
+00:14:51  mais encore plus intéressant que de se focus à fond sur le
+00:14:54  custom accession cost, c'est d'augmenter la l t v,
+00:14:56  surtout en coaching.
+00:14:57  Et c'est comme ça que vous pouvez battre vos concurrents.
+00:14:59  Donc un CSM vous permet de réduire les différents,
+00:15:01  de augmenter la Zodat,
+00:15:01  d'avoir plus d'upsell et surtout d'avoir une
+00:15:03  différenciation produit,
+00:15:05  d'avoir des mécanismes uniques à l'intérieur de votre produit.
+00:15:07  Donc différenciation,
+00:15:09  ferranciation
+00:15:12  produit.
+00:15:29  Vous avez le front end avec ou en gros c'est la guerre,
+00:15:33  tout le monde fait des offres plus plus plus folles que les
+00:15:36  les unes que les autres.
+00:15:38  Vous avez des AD partout, des machins et caetera,
+00:15:40  vous avez le back end.
+00:15:42  La particularité du back-end, c'est que vous êtes pépère,
+00:15:44  vous êtes tranquille.
+00:15:44  La personne vous a donné la confiance.
+00:15:46  Si vous honorez cette confiance-là,
+00:15:47  vous pouvez revendre ce que vous voulez derrière.
+00:15:49  Une fois qu'il est passé chez vous, c'est bon, vous pouvez,
+00:15:51  c'est exactement comme si vous avez des personnes qui
+00:15:53  passaient dans la rue,
+00:15:53  tout le monde criait pour venir en disant rentre dans le restaurant.
+00:15:55  Une fois que la personne mange est insérée dans le restaurant,
+00:15:58  vous pouvez après le le sur plein de trucs,
+00:16:00  vous pouvez lui parler au calme.
+00:16:01  Donc front-end, sel steam, back-end,
+00:16:07  c s m.
+00:16:09  Et c'est pour ça que dans les calls, vous savez qu'une c l,
+00:16:11  c l, tout le monde dit ouais,
+00:16:12  il faut prendre au moins un call par jour,
+00:16:14  plusieurs calls hebdomadaires, il faut faire des points,
+00:16:16  vérifier des K p I,
+00:16:17  donner des objectifs avec des des des primes aux résultats.
+00:16:19  Une c l c l c l c l c l c l c l c l c l c l c l c l c l c l c l
+00:16:20  c l c l c l c l c l c l c l c l c l c l c l c l c l
+00:16:24  parce qu'ils vont délivrer et prendre des calls avec les
+00:16:26  personnes pour les.
+00:16:27  Je vois qu'il y avait peut-être des questions dans le chat,
+00:16:29  je vais voir si je peux y répondre.
+00:16:31  Le c s m forme le prochain stipulant dans le contrat.
+00:16:33  Alors ça, c'est valable, moi je le fais pour mes assistantes,
+00:16:35  le c s m moi en général en l'occurrence j'aime bien
+00:16:37  l'avoir moi directement parce que ce qui peut se passer je
+00:16:41  vous donne un exemple ça c'est bien pour les assistantes je
+00:16:43  crois d'ailleurs que c'était toi qui m'a donné la le le
+00:16:46  cette technique-là Valère d'ailleurs ça se permet
+00:16:49  la chercher parce que je passe d'une assistante à une autre et
+00:16:50  ça elle a formé ça c'est incroyable en l'occurrence
+00:16:53  quand vous avez un c s m vous allez devoir peut-être ce
+00:16:56  qu'elle est votre team de c s m de un à cinq c s m en l'espace
+00:16:58  de cinq semaines ou en l'espace de huit semaines ou neuf
+00:17:00  semaines, ce qui est encore pire.
+00:17:02  Votre c s m numéro un va former votre c s m numéro deux
+00:17:06  avec deux pour cent,
+00:17:06  ce qui n'est pas grand chose de différence parce qu'il va avoir
+00:17:09  adapté ça, il va avoir la flemme sur un petit truc,
+00:17:11  il va pousser un autre au contraire un autre truc.
+00:17:13  Bref, il va former avec ce que lui pensait de bon.
+00:17:16  Puis le système numéro deux va former un autre, puis un autre,
+00:17:18  puis un autre, puis un autre, puis un autre, et à la fin,
+00:17:20  vous allez avoir un truc qui est cinquante pour cent de
+00:17:21  différence sur la manière dont vous allez coacher donc évitez
+00:17:25  les les réactions en chaîne maintenant vous pouvez vous
+00:17:26  dire oui on a un CSM donc un manager qui forme tout ça oui
+00:17:30  dans ce cas-là ok mais sur un rôle aussi
+00:17:33  important que le CCM moi je préfère encore le faire
+00:17:34  moi-même Maintenant quand effectivement
+00:17:36  votre boîte comme Colgordon fait un million deux millions
+00:17:38  trois millions par mois, il ne le fait pas à la main,
+00:17:41  il le fait avec le manager,
+00:17:41  mais par contre il prend école régulièrement avec ses managers
+00:17:44  comme comme CS.
+00:17:45  OK,
+00:17:47  Est-ce que les refound sont forcément liés à une garantie
+00:17:49  genre si vous n'avez pas atteint x,
+00:17:50  vous ne payez pas Non, pas du tout.
+00:17:51  Non, ça ça,
+00:17:54  en général,
+00:17:56  alors il faut avoir sur la partie sales,
+00:17:58  mais déjà les gens qui appuient trop sur les garanties,
+00:17:59  il ne faut pas les closer parce qu'ils vont vous faire chier,
+00:18:01  mais vraiment trop trop trop.
+00:18:03  Et ensuite les, non non,
+00:18:04  vous n'avez pas besoin d'avoir une garantie pour avoir des réformes.
+00:18:06  Si votre produit n'est pas adapté,
+00:18:08  ne répond pas aux bonnes problématiques, ça va,
+00:18:10  il y a des gens qui vont demander de toute façon.
+00:18:12  Donc ça n'a rien à voir avec les garanties.
+00:18:14  Alors effectivement une garantie trop agressive va
+00:18:16  attirer les mauvaises personnes, ça c'est évident.
+00:18:17  Mais si vous avez une garantie qui est un minimum normal, ça va.
+00:18:21  Le c s m peut aider à améliorer le produit comme proche client sur les traines.
+00:18:25  Bien sûr, moi je demande toutes les semaines de savoir exactement
+00:18:27  quelles sont les problématiques,
+00:18:28  les urgences pour que je puisse faire plus de contenus sur des
+00:18:30  sujets spécifiques, voir exactement quels sont les besoins.
+00:18:33  Bref, les c m sont les c s m c'est les racines de votre arbre,
+00:18:36  ils sont au contact directement de de de vos clients au quotidien.
+00:18:40  Donc même de leur faire des formulaires,
+00:18:41  vous faites un job form que vous envoyez toutes les quatre
+00:18:43  semaines à vos c s m,
+00:18:44  ça va permettre de pouvoir envoyer ça à la sel sim,
+00:18:46  de faire un lien entre les deux,
+00:18:47  de comprendre les objections, comprendre les problématiques,
+00:18:50  c'est super intéressant.
+00:18:51  Ok, c'est des retours directs.
+00:18:53  Je n'ai pas compris que CSM c'est ton équipe, il me semble, ouais ok.
+00:18:57  Avec les interviews, alors les interviews,
+00:18:58  c'est les interviews clients,
+00:18:59  les interviews pardon de recrutement.
+00:19:02  Peut-être que tu ou alors tu parlais d'une autre interview
+00:19:06  je sais pas si j'ai il y a deux types d'interviews les
+00:19:08  interviews avec les clients pour les résultats c'est-à-dire
+00:19:11  que vous aimez un client avec qui par exemple vous avez fait
+00:19:12  cent-mille euros par mois si vous avez une offre encore une
+00:19:14  fois mec menu je prends des noms très simple vous allez
+00:19:15  faire une interview sur YouTube c'est ça de dont ça dont tu
+00:19:17  parlais je pense.
+00:19:19  Vous allez faire une interview sur YouTube en disant alors
+00:19:21  machin comment est-ce que tu es passé à
+00:19:22  cent-quatre-vingt-quatre-vingt-quatre-vingt-quatre-vingt-quatre-vingt-quatre-vingt-quatre-vingt-quatre-vingt-quatre-vingt-dix-sept-cent-quatre-vingt-quatre-vingt-dix-sept-
+00:19:31  et donc ouais il faut vraiment penser il faut penser à ça il y
+00:19:34  a trois grandes étapes dans votre activité de toute façon
+00:19:36  vous avez en étiquette sept heures closer
+00:19:42  et c s m je crois qu'il y a même des closer dans ce live-là.
+00:19:46  L'idée
+00:19:48  l'idée du closer, c'est de créer l'opportunité, opportunité.
+00:19:52  Les closer, c'est de convertir l'opportunité.
+00:19:56  Et les c s m,
+00:19:57  c'est de délivrer cette opportunité
+00:20:01  et de les faire monter en l t v.
+00:20:06  C'est les trois rôles que vous avez principalement dans votre boîte.
+00:20:08  Ok Création, conversion, délivrabilité
+00:20:12  plus monteur l t v,
+00:20:13  ce que les américains appellent assène opportunity,
+00:20:15  donc en fait faire exploser,
+00:20:17  prendre cette opportunité et transformer quelque chose de
+00:20:18  beaucoup plus gros.
+00:20:19  Et ce que juste avant que je passe à la suite,
+00:20:20  vous avez déjà des questions là-dessus parce qu'il y a
+00:20:22  beaucoup d'informations,
+00:20:23  c'est dense et donc peut-être qu'il y a des choses sur
+00:20:24  lesquelles vous avez des questions tout simplement.
+00:20:27  Moi j'ai une question,
+00:20:28  c'est quoi la qualité principale d'un bon c s m avant
+00:20:30  le recrutement Très bonne question.
+00:20:33  Alors on va justement enchaîner là-dessus,
+00:20:34  ça dépend de quel c s m tu veux recruter.
+00:20:36  Il y a deux catégories de c s m.
+00:20:37  Vous avez les connecteurs et les experts.
+00:20:40  Ok Les connecteurs, c'est ceux qui vont,
+00:20:43  alors vous allez voir
+00:20:45  expert.
+00:20:46  Ça va dépendre des besoins exactement ce que vous avez.
+00:20:48  Les connecteurs doivent connaître parfaitement votre
+00:20:49  produit sur le bout des doigts, vos résultats,
+00:20:52  vos informations, vos process, absolument tout.
+00:20:55  Ils vont coûter en général un petit peu moins cher que des
+00:20:57  experts, même deux fois deux fois moins cher.
+00:20:59  Ils vont connecter les clients aux ressources que vous avez
+00:21:02  déjà créées en fonction des besoins.
+00:21:03  Par exemple c'est comme comme quelqu'un qui je ne sais pas
+00:21:08  un très très bon sommelier qui connaît juste en fonction des
+00:21:11  besoins des clients quelle bouteille il doit donner,
+00:21:12  mais il ne connaît pas exactement il n'est pas expert dans ça.
+00:21:14  Il est, c'est juste mécanique, il apprend par coeur.
+00:21:16  Un connecteur connaît parfaitement votre module
+00:21:17  délivrabilité, votre module machin.
+00:21:19  Et quand il y a une problématique spécifique,
+00:21:20  tiens, va voir cette vidéo-là, tiens, donne,
+00:21:22  je te donne ce process, tiens, connais ça.
+00:21:24  Il connecte les éléments. Ok, il communique avec eux.
+00:21:27  Il connecte avec des formulaires,
+00:21:28  il connecte des ressources.
+00:21:29  Les experts, c'est des gens qui ont fait.
+00:21:31  C'est des gens qui sont passés par là où les clients sont
+00:21:33  passés, qui ont eu les mêmes problématiques,
+00:21:35  qui connaissent exactement et donc qui vont pouvoir
+00:21:37  conseiller de leur propre
+00:21:39  de leur propre expérience.
+00:21:40  Donc ça dépend.
+00:21:41  Si tu veux recruter un expert,
+00:21:42  regarde quelqu'un qui a fait dans un domaine spécifique,
+00:21:44  si tu veux recrute un connecteur,
+00:21:46  recrute quelqu'un qui a de la discipline,
+00:21:48  qui a de la mémoire et qui a de l'assiduité.
+00:21:51  Ok, en fonction de ça, voilà.
+00:21:52  Alors les experts en général, vous allez recruter,
+00:21:54  il faut des, il faut un mélange des deux dans notre équipe.
+00:21:56  Moi, dans mon équipe,
+00:21:56  j'ai des personnes qui ont généré des millions avec
+00:21:58  copywriting pour leurs clients en tant qu'opiriters,
+00:22:00  mais qui n'ont jamais donc sur des pages de vente,
+00:22:02  sur des webinaires, mais qui n'ont jamais voulu être
+00:22:04  exposés, jamais publié du contenu.
+00:22:06  Ils ont peur, ils n'ont pas envie de ça.
+00:22:08  Ils ont une excellente expertise dans leur domaine,
+00:22:09  ça peut être une expertise sur le copywriting,
+00:22:11  une expertise sur la partie par exemple création funnel,
+00:22:13  une ou même les ads ou même sur un domaine sur la partie
+00:22:16  closing, mais le fait de se montrer, de faire du contenu,
+00:22:18  de faire une offre, de mettre une garantie,
+00:22:20  de créer des contrats, de délivrer,
+00:22:21  de s'exposer à toute la pression qu'il y a autour de
+00:22:23  tout faire parce qu'un business, ce n'est pas rien,
+00:22:25  ils ne veulent pas le faire.
+00:22:26  Ils veulent le plus de sérénité,
+00:22:27  ils veulent apprendre des choses,
+00:22:28  sont dans un objectif de collaborer avec des personnes
+00:22:30  qui sont intéressantes au quotidien.
+00:22:32  Si d'ailleurs je vous pose la question, à votre avis,
+00:22:35  quelles est les les trois premières raisons de de
+00:22:39  démission dans le monde,
+00:22:40  des boîtes en ligne ou pas en ligne
+00:22:42  Pourquoi est-ce que les gens se barrent des boîtes Quelles sont
+00:22:44  les premières raisons de ces de ces raisons-là Donnez-moi les
+00:22:47  les réponses en en tchat, les réponses que vous pensez.
+00:22:49  Je répondrai ensuite après juste aux clients,
+00:22:50  aux aux clients pardon aux réponses.
+00:22:54  Quelles sont les trois premières raisons Est-ce que
+00:22:55  vous avez vous pensé des,
+00:22:56  quelles sont les raisons pour lesquelles les gens
+00:22:57  démissionnent et se barrent Manque de sens, ok,
+00:23:01  salaire, ok,
+00:23:04  manque de considération, ennui, ok,
+00:23:08  mauvaise relation avec les membres de l'équipe,
+00:23:09  reconnaissance, ok,
+00:23:13  Communication, ok, peu formée, ok.
+00:23:16  Mais les bonnes réponses,
+00:23:17  je pensais que vous allez dire beaucoup plus revenus, salaires.
+00:23:19  Parce que c'est en général, les gens donnent.
+00:23:21  Donc là, félicitations, c'est vraiment ces choses-là.
+00:23:23  C'est-à-dire que c'est en premier les personnes avec qui vous bossez.
+00:23:27  Regardez même autour de vous,
+00:23:28  moi j'ai moi j'ai une tante qui a démissionné de sa boîte
+00:23:30  pareil machin, ouais, mes collègues c'était des connards,
+00:23:32  je pouvais plus mieux supporter l'équipe.
+00:23:34  En fait, les gens pensent que c'est toujours l'argent l'argent
+00:23:36  l'argent c'est pour ça qu'ils posent la question, ah oui,
+00:23:37  mais si je paye mon CSM trois-mille euros,
+00:23:39  quatre-mille euros par mois,
+00:23:39  il pourrait peut-être essayer de faire plus à côté.
+00:23:41  Oui, mais ce n'est pas pour ça que les gens,
+00:23:43  les gens bossent pour l'argent, l'argent,
+00:23:44  c'est super important.
+00:23:45  Mais plus que tout, les gens bossent pour avoir des,
+00:23:47  un bon entourage, pour avoir de la sécurité,
+00:23:49  pour avoir de la reconnaissance,
+00:23:49  pour avoir de la la
+00:23:53  considération et de bosser avec des personnes avec qui ils
+00:23:55  kiffent bosser en fait.
+00:23:56  Des évolutions, des opportunités d'évolution.
+00:23:59  Donc à partir du moment où un système experte,
+00:24:02  vous allez le payer entre trois et cinq mille euros par mois.
+00:24:04  Ok Un système connecteur,
+00:24:06  vous allez payer entre deux et quatre k.
+00:24:09  Un experte ça met en général entre trois et cinq k voire
+00:24:12  plus s'il y a des prises d'intérêt moi j'ai des c s m
+00:24:13  sur des mois ils ont gagné jusqu'à huit neuf mille euros
+00:24:15  parce qu'ils étaient intéressés au pourcentage et quand il y
+00:24:18  avait plus il y avait plus de supply pour moins forcément il
+00:24:21  y avait plus de clients On dit d'ailleurs qu'un account
+00:24:24  manager un c s m peut gérer jusqu'à soixante-quinze
+00:24:27  comptes en tant que connecteur,
+00:24:30  connecteur
+00:24:32  et jusqu'à cinquante comptes en tant qu'expert.
+00:24:35  Donc ça vous donne, il y a quand même,
+00:24:37  ils peuvent accompagner une large panel de clients.
+00:24:39  En moyenne, même si on prend une base faible de cinquante personnes,
+00:24:42  vous avez un produit à cinq cas.
+00:24:44  Je n'ai pas le bac,
+00:24:45  mais ça vous fait deux-cent-cinquante cas
+00:24:48  closer, c'est ça Cinq fois cinquante,
+00:24:50  deux-cent-cinquante, ouais.
+00:24:52  C'est ça, ouais deux-cent-cinquante-mille euros
+00:24:55  pour quelqu'un que vous payez cinq-mille ou que vous pouvez
+00:24:57  même intéresser au pourcentage pour dix-mille,
+00:24:59  c'est ultra rentable.
+00:25:00  Ok.
+00:25:01  Et donc vous allez dire ouais, mais que cinq-mille euros, oui,
+00:25:02  il pourrait faire ça.
+00:25:03  Oui, mais en fait, ne vous rendez pas compte,
+00:25:05  surtout quand on est entrepreneur,
+00:25:06  pourquoi est-ce que les gens bossent pour vous Ils ont,
+00:25:08  vous pouvez mettre une, moi, ils ont un plancher,
+00:25:10  un salaire plancher entre guillemets,
+00:25:11  un revenu plancher tous les mois.
+00:25:12  Et puis, quand vous commencez à recruter comme moi,
+00:25:14  des personnes qui ont plus de trente ans, parce que moi,
+00:25:16  les personnes qui ont plus de trente ans, ils ont des gosses,
+00:25:18  ils ont plus de croyances limitantes,
+00:25:19  ils n'ont pas envie de s'exposer, ils ont,
+00:25:20  il y a plein de raisons pour lesquelles les gens n'ont pas
+00:25:22  envie de lancer un business en ligne.
+00:25:23  On n'est pas tous pareils et heureusement,
+00:25:24  le monde est plein de vérité.
+00:25:26  Donc ne pensez pas que c'est parce qu'il n'y a que l'argent
+00:25:28  et que ah oui,
+00:25:28  mais il pourrait faire peut-être trois-mille euros,
+00:25:29  cinq-mille euros plus ailleurs, peut-être,
+00:25:31  mais c'est un parcours complètement différent,
+00:25:32  ce n'est pas les mêmes.
+00:25:34  Ok Donc vous pouvez recruter des personnes talentueuses pour ces prix-là.
+00:25:37  Ok Donc comme je vous disais entre deux et quatre cas pour un connecteur,
+00:25:40  trois et cinq cas pour un expert et vous pouvez rajouter un pourcentage.
+00:25:43  Moi j'ai une grande partie, j'ai j'ai très peu de fixe,
+00:25:45  mais j'ai beaucoup de pourcentage,
+00:25:46  donc ils sont vraiment très intéressés là-dedans.
+00:25:48  Il faut respecter la pyramide de Maslow et son équipe.
+00:25:50  Ouais complètement,
+00:25:51  en fait il faut vraiment les considérer et
+00:25:54  évidemment que si vous êtes un un boss, un connard,
+00:25:55  vous êtes un tyran, ils vont se barrer.
+00:25:57  Si vous êtes un leader et que vous leur offrez des portes
+00:25:59  opportunités et des opportunités d'évolution.
+00:26:01  Moi, mes CSM maintenant, ils sont closer.
+00:26:03  Quand je dis closer, pas en front end,
+00:26:04  mais ils sont en closer en back end.
+00:26:05  C'est-à-dire que quand il y a un client qui rentre chez moi,
+00:26:07  ils prennent un pourcentage de ce client,
+00:26:08  il le voient évoluer, ils lui apportent des résultats,
+00:26:10  déjà c'est super satisfaisant et les mecs littéralement ils
+00:26:12  s'expatrient à Dubaï, ils les remercient,
+00:26:13  ils leur envoient des photos avec leurs meufs,
+00:26:14  ils ont changé l'avis de gens et en plus de ça,
+00:26:17  ils les reprennent en cours,
+00:26:17  ils leur vendent des offres à quinze, vingt-mille,
+00:26:20  puis des mastermind, puis les rencontres en physique,
+00:26:22  puis ils les checkent enfin.
+00:26:24  C'est
+00:26:24  des expériences qui sont et puis ils bossent de où ils
+00:26:26  veulent dans le monde, où ils veulent dans le monde,
+00:26:27  j'ai des des c s m qui sont juste à côté de la montagne,
+00:26:29  ils font deux jours de ski par semaine,
+00:26:31  ils s'organisent comme ça tant que les résultats sont bons et
+00:26:33  qu'ils arrivent à répondre autant, c'est bon.
+00:26:35  Donc voilà,
+00:26:36  il y a plein de manières de pourquoi est-ce qu'ils
+00:26:37  bosseraient avec vous.
+00:26:38  Un compte, cinq clients exactement.
+00:26:40  Sur quoi tu te bases pour savoir que qu'est-ce que si tu
+00:26:42  as besoin de recruter un nouveau connecteur plutôt qu'un
+00:26:44  expert Très bonne question.
+00:26:46  Déjà tes tes revenus, tes moyens au départ.
+00:26:47  Au départ, ça n'a vraiment pas les moyens.
+00:26:49  Il vaut mieux recruter un connecteur que par recruter du
+00:26:51  tout et c'est tout faire à la main.
+00:26:52  Quelqu'un qui connaît ton produit.
+00:26:54  Et ensuite,
+00:26:55  en fait dès que tu vas commencer à avoir plus de
+00:26:57  quinze pontagiers, entre d'ici quinze comptes.
+00:26:59  J'ai vu une étude sur plusieurs salariés français qui révèlent
+00:27:01  les gens sont gagner prêts en plus,
+00:27:02  ouais exactement ouais complètement.
+00:27:03  Les gens sont prêts à gagner moins avec une meilleure
+00:27:05  condition de travail, c'est vrai.
+00:27:09  Parler un peu plus sur le setting Instagram.
+00:27:11  Alors le setting Instagram, on n'abordera pas aujourd'hui.
+00:27:12  Aujourd'hui, c'est vraiment un live produit.
+00:27:15  Enfin, c'est c'est c'est de ça dont on parle et de sur ce qu'on se concentre.
+00:27:18  Comment s'assurer que notre MVP,
+00:27:19  un School apporte en maximum nos résultats aux clients,
+00:27:20  ça sera rapidement cinq clients.
+00:27:21  Alors si tu n'as pas de CSM directement typiquement Charlie
+00:27:24  Morgan il vend un school entre dix et quinze cas en fonction
+00:27:26  de quand est-ce, comment est-ce qu'il vend ok Il
+00:27:30  vend ça à une cible b to c, à des gens qui font zéro.
+00:27:32  Ok il vend un school littéralement.
+00:27:34  Et bien il a des c s m connecteurs qui prennent des
+00:27:36  lives tous les jours pour connecter les personnes en
+00:27:38  disant, je n'arrive pas à ça machin,
+00:27:39  j'ai les problèmes de mindset,
+00:27:40  j'ai les problèmes d'acquisition,
+00:27:40  j'ai problème de délivrabilité, va regarder ce module-là,
+00:27:43  fais-le une fois que tu l'as revu,
+00:27:44  tu reviens me voir dans le live de devant.
+00:27:46  Il ne va pas le conseiller en disant tiens en fonction de ta
+00:27:48  situation, je te dirais de faire ton offre comme ça.
+00:27:49  Non, ce n'est pas des experts.
+00:27:50  C'est des connecteurs qui va payer beaucoup moins cher,
+00:27:53  c'est pour ça qu'il fait beaucoup de marge, son équilibre.
+00:27:55  Mais par contre, tu as plein plein plein de connecteurs et tout le monde
+00:27:57  peut se poser des questions et il se base sur la bibliothèque
+00:27:59  de Charlie Morgan qui de toute façon est le leader pour
+00:28:02  justement rediriger vers un contenu pertinent et s'assurer
+00:28:04  qu'il a de la comptabilité.
+00:28:05  Si vous regardez littéralement le business de YC YC combinator,
+00:28:10  c'est littéralement un programme de coaching,
+00:28:11  mais un programme de coaching qui fait des milliards parce
+00:28:14  que c'est des personnes qui rentrent chez YC,
+00:28:15  ils investissent dans leur business, mais ça,
+00:28:17  c'est plus pour avoir des parts que de pouvoir lancer le business.
+00:28:20  Ils ont accès à une bibliothèque,
+00:28:21  la bibliothèque de WACI qui est très connue et toutes les deux semaines,
+00:28:23  ils font de la comptabilité en disant quels étaient vos
+00:28:24  objectifs Est-ce que ça a été atteint Voici les ressources
+00:28:26  dans lesquelles vous devez vous,
+00:28:27  vous devez retrouver les les problématiques, les solutions, voilà.
+00:28:30  Comment est-ce que tu montes la LTV sur ce modèle Comment
+00:28:30  est-ce que tu dois faire ton CSM Est-ce
+00:28:31  les solutions, voilà.
+00:28:32  Comment est-ce que tu montes la LTV sur ce modèle Comment
+00:28:33  est-ce que tu dois faire ton c s m, parce qu'il doit poser,
+00:28:34  closer pendant la délivrabilité.
+00:28:36  Il doit closer à la fin la délivrabilité à des moments
+00:28:38  très spécifiques sur les parties.
+00:28:39  Il y a plein de manières de faire des, des,
+00:28:41  des continuités, des abonnements, et caetera, et caetera,
+00:28:44  et ça va être à la fin on reparlera c'est plus plus poussé.
+00:28:49  Je pense à Adrien la sa boîte à côté.
+00:28:52  Ah oui pardon excusez-moi j'essaye d'un accompagnement
+00:28:54  ouais bien sûr Adrien à sa boîte à côté Il a sa boîte à
+00:28:56  côté, mais par exemple,
+00:28:57  il ne prend pas des personnes en ads comme ça à côté parce
+00:28:59  qu'il a, il n'a pas le temps,
+00:29:00  mais il a des gros clients qu'il a depuis longtemps,
+00:29:02  il a sa boîte à côté et ça marche super bien parce qu'il,
+00:29:06  du coup, il bosse plus et ça lui convient très bien comme ça.
+00:29:08  Faut-il créer une relation entre un c s m en particulier
+00:29:10  un client où les clients peuvent se faire coacher par
+00:29:12  différents c s m Non,
+00:29:13  les clients peuvent se faire coacher différents c s m.
+00:29:15  Nous par exemple,
+00:29:15  on a un système de fonctionnement
+00:29:17  où on a une équipe, attendez,
+00:29:19  je vois que j'ai encore de batterie, voilà.
+00:29:20  Et on a différentes expertises dans l'équipe.
+00:29:22  Et moi j'ai recruté des personnes qui étaient
+00:29:24  meilleures que moi dans les domaines dans lesquels j'ai recruté.
+00:29:26  Adrien par exemple, il a dépensé des millions en ads,
+00:29:28  je n'ai pas dépensé des millions en ads,
+00:29:29  je suis un mec de l'organique du setting.
+00:29:30  Nassim, c'est un mec du copy.
+00:29:32  Sabri, c'est un mec qui a fait des mastermind de raviabuhala,
+00:29:34  il a retourné chez Rossile Brandon en janvier.
+00:29:36  Donc, j'ai des personnes de mon équipe qui ont des spécialités
+00:29:39  différentes et qui vont pouvoir conseiller sur des
+00:29:40  problématiques différentes.
+00:29:42  Maintenant, chaque c s m doit avoir ce qu'on appelle un effet de tuteur.
+00:29:46  L'effet de tuteur, c'est quoi C'est quelqu'un,
+00:29:48  effet de tuteur alors il y en a d'autres qui appellent ça effet
+00:29:51  de parrain, c'est qu'on dit c'est ton parrain.
+00:29:55  Quand la personne rentre dans l'accompagnement elle a besoin
+00:29:57  de se sentir en confiance,
+00:29:58  d'avoir un sentiment où elle peut tout dire à la personne et
+00:30:01  c'est pour ça que vous devez avoir une personne dont elle
+00:30:02  est le CSM est le responsable d'un client en particulier.
+00:30:04  En tout cas, le client peut se référer à quelqu'un s'il a des questions,
+00:30:07  des doutes, des machins.
+00:30:09  Il doit avoir un parent entre guillemets sur lequel il peut
+00:30:10  se référer en coaching, ok
+00:30:14  Donc une personne toujours à laquelle il peut se référer,
+00:30:16  d'autres personnes s'il a besoin de problématiques.
+00:30:18  Quels outils utilises-tu pour gérer efficacement ta déverie,
+00:30:21  retenir toutes les informations des clients,
+00:30:22  leur avancement dans le programme,
+00:30:23  et caetera Alors on est sur Slack,
+00:30:24  on utilise Airtable avec Tally.
+00:30:26  En gros, lorsque la personne rentre sur Slack,
+00:30:28  ils ont tout de suite, donc ils arrivent sur le Slack,
+00:30:31  ils ont immédiatement des messages onboarding avec un tally,
+00:30:33  un formulaire qui doivent remplir et ce tally transmet
+00:30:35  les informations à une base hermétique airtable qui nous
+00:30:38  permet nous de comprendre exactement les contraintes de
+00:30:40  nos clients pour pouvoir axer ensuite sur des des stratégies personnalisées.
+00:30:43  Maintenant on est en train de refaire ça avec Titeform pour
+00:30:45  avoir plus de de possibilités.
+00:30:49  Tac tac tu recommandes un c r m en particulier,
+00:30:51  c r m pour la la délivrabilité.
+00:30:54  Honnêtement Airtable est vachement bien.
+00:30:56  Moi maintenant j'avais plein d'outils,
+00:30:58  je ne sais pas j'en pense Valère moi j'avais plein plein
+00:30:59  plein d'outils mais je passe tout sur Google sheet.
+00:31:03  Littéralement mon business a un empilement de Google sheet,
+00:31:05  mon média bailleurs sur Google sheet mais tout tout et je
+00:31:08  passe tout sur Google sheet en fait c'est juste c'est c'est
+00:31:11  voilà simple scale simple et puis en vrai,
+00:31:14  tu as plein de possibilités, voilà.
+00:31:16  C r m, je ne sais plus exactement de l'acronyme,
+00:31:19  mais c'est une data base qui va te permettre de pouvoir valider tout ça.
+00:31:22  Quand vous avez votre c s m,
+00:31:23  alors on continue parce qu'encore une fois,
+00:31:24  je suis désolé, il y a beaucoup de choses à voir.
+00:31:26  Votre team de c s m,
+00:31:27  elle doit être liée par ce qu'on appelle une source off
+00:31:31  trousses c s m.
+00:31:31  Et ça, c'est la méthode d'Iman.
+00:31:32  Iman, il a quand même fait cent dix,
+00:31:34  cent vingt millions d'infos produits,
+00:31:35  donc c'est intéressant de voir comment est-ce qu'il s'est structuré.
+00:31:38  La source of True, c'est la source de vérité.
+00:31:40  Et cette source de vérité, source de vérité,
+00:31:45  source de vérité,
+00:31:46  je peux peut-être même vous donner un exemple si ça vous intéresse.
+00:31:48  Je peux aller, j'ai j'ai un ancien tableau Airtable,
+00:31:49  c'était un autre,
+00:31:50  l'ancienne source vérité pour vous montrer à quoi ça
+00:31:51  ressemble si ça vous intéresse.
+00:31:53  Je vais arrêter de me partager l'écran deux secondes,
+00:31:55  je rebascule sur Airtable et pour que vous puissiez voir
+00:31:57  exactement concrètement comment est-ce que vous pouvez le
+00:32:01  matérialiser.
+00:32:02  Alors
+00:32:04  voilà, je vous donne, je vous partage
+00:32:08  ça, non ça nickel.
+00:32:09  Est-ce que vous voyez ça Est-ce que vous
+00:32:12  Donc ça c'est mon ancienne base sur Airtable,
+00:32:14  on a refait cette base là pour ça que je me permets de la
+00:32:16  partager, je ne la partagerais pas là comme ça.
+00:32:19  Elle était plus faible que beaucoup plus faible même qu'on a actuellement.
+00:32:23  Cette base là ça me permet de donner accès au s m qu'on
+00:32:25  onboard donc c'est la partie c s m,
+00:32:27  ça nos clients n'ont pas accès à ça.
+00:32:29  Donc ils arrivent là-dessus,
+00:32:30  quelqu'un qui ne connaît pas ou même un c s m qui se lève le
+00:32:32  matin et qui a besoin de faire quoi que ce soit,
+00:32:34  s'ils ont besoin de ils ont différents process en interne
+00:32:37  avec la phase zéro de le vraiment le suivi KPI clients.
+00:32:40  Et ici ils ont directement leur rôle tu vois alors là il y
+00:32:43  avait très peu d'autres rôles puisque c'est que pour les CSM
+00:32:44  donc tu pourrais mettre un autre rôle en l'occurrence
+00:32:46  c'est que pour la partie des libérabilités.
+00:32:47  Ils ont le Loom avec le s o p littéralement qui explique ça,
+00:32:50  le lien s'il y a besoin d'avoir un lien Google doc s o p et un
+00:32:52  document s'ils doivent l'envoyer ok
+00:32:56  Et donc ils savent typiquement, par exemple,
+00:32:58  sur la structure d'un appel de suivi, ça,
+00:32:59  c'est quelque chose qui n'est pas partageable.
+00:33:00  C'est que pour la team et ça,
+00:33:02  c'est quelque chose qui est partageable aux clients.
+00:33:03  Donc vous avez le document en interne de la team sur
+00:33:06  qu'est-ce qu'ils doivent faire exactement Donc le icebreaker
+00:33:08  introduire l'appel, c'est une consigne step best step,
+00:33:10  faire un point sur le ressenti global, les difficultés,
+00:33:12  les impasses, des victoires, les challenges,
+00:33:14  diagnostiquer les contraintes critiques, stratégie, exécution.
+00:33:17  Ça, c'est un truc qu'ils ne partagent pas,
+00:33:18  c'est un truc uniquement pour les c s m,
+00:33:19  vous voyez c'est marqué ici.
+00:33:20  Ok, qu'on a fait et ensuite ils vont partager un document qui
+00:33:23  lui est public entre guillemets pour la partie client que eux ils partagent,
+00:33:26  structure d'un membre avec d'un suivi en one one,
+00:33:28  voici ce que vous devez impérativement préparer avant
+00:33:30  un appel de suivi pour que le c s m lui ait toutes les armes
+00:33:33  pour qu'il puisse avancer rapidement en appel parce qu'au
+00:33:35  tout début des écosystèmes on n'est pas de structure comme ça
+00:33:37  donc les appels étaient un peu freestyle.
+00:33:38  Comment tu as avancé Super tiens il fallait que tu prépares ça.
+00:33:41  Donc on a tout de suite processisé ça c'est des trucs
+00:33:42  qui datent il y a très longtemps c'est même notre
+00:33:44  ancienne base pardon
+00:33:47  et voilà veuillez mettre à jour évidemment les le tableau de
+00:33:49  civile KPI vingt-quatre heures l'appel suit et donc ça permet
+00:33:51  au c s m quand vous avez des KPI peu importe que ce soit sur
+00:33:54  un business online, un business de perte de poids,
+00:33:57  vous devez suivre avec des chiffres précis pour que les c
+00:33:59  s m aient de la data.
+00:34:00  Si vos c s m se basent sur l'intuition ça ne va pas le
+00:34:02  faire ok il faut traquer de l'évolution donc voilà ça
+00:34:05  ressemble à ça une base de c s m scaling des zéro dix à
+00:34:08  cinquante cas et ils ont à voir exactement avec une map de
+00:34:11  théorie des contraintes précises par exemple ils vont
+00:34:12  avoir une map en interne qui ne partage pas Je vous donne un
+00:34:15  exemple avec ça.
+00:34:16  Ça, c'est quelque chose qui n'est pas partageable.
+00:34:17  Ils savent exactement en fonction de leurs chiffres
+00:34:19  basés sur les KPI qui est traduit alors même aujourd'hui
+00:34:21  maintenant on a rajouté un l m qui lie le le le goalshi très
+00:34:25  simple et qui disent exactement si c'est une question de front
+00:34:27  and cash collecté, de front, front and cash collecté,
+00:34:30  et caetera, de l t v, de cac et en fonction de ça,
+00:34:32  il y a juste des choses à voir.
+00:34:34  Et donc si par exemple, il y a une contrainte d'offre, eux,
+00:34:36  ils sont redirigés directement vers des ressources offres en
+00:34:38  interne, ils ont appliqué les framework step best,
+00:34:40  ils ont le lit quasiment juste à lire les documents.
+00:34:42  Comme ça il n'y a pas d'erreur possible ok Donc ça ça
+00:34:45  ressemble à ça une base une base CSM ok Et donc cette
+00:34:49  source de vérité, ça va permettre de faciliter les onboarding,
+00:34:51  d'avoir beaucoup plus de précision et d'avoir beaucoup
+00:34:53  plus de process en interne pour que les puissent se retenir à
+00:34:56  une seule chose parce que si vous n'avez pas cette source de
+00:34:57  vérité, ils vont partir dans tous les sens.
+00:34:59  Ok.
+00:35:00  Est-ce que vous avez des questions avant de passer à la
+00:35:02  suite On passe sur une autre étape maintenant.
+00:35:07  Quand est-ce qu'il faut recruter justement un c s m Il
+00:35:09  y avait cette question
+00:35:11  déjà.
+00:35:11  Pour améliorer son produit,
+00:35:12  faut-il voir ce que les concurrents font,
+00:35:14  voir les modèles similaires et voir le produit qui ont bien marché Bien sûr.
+00:35:16  Allez voir ce qui se fait, je veux dire aux US,
+00:35:18  mais même si elle est aux US,
+00:35:20  parce qu'en France c'est éclaté,
+00:35:21  mais allez voir ce qui se fait ailleurs, regardez,
+00:35:24  évidemment ne copiez pas, à la limite, voler,
+00:35:26  c'est-à-dire reprenez les concepts et adaptez-les vous à
+00:35:29  ce qui a marché pour vous avec votre propre expérience,
+00:35:32  que si vous copiez de toute façon ça ne marchera
+00:35:35  jamais.
+00:35:35  Mais vous pouvez regarder ce qui ce qui se fait d'être
+00:35:38  intéressant bien sûr.
+00:35:38  Tu conseilles d'avoir des équipes c s m avant même
+00:35:40  d'avoir supprimé ce point.
+00:35:41  Alors justement c'est le c'est le c'est le c'est le thème de ce chapitre-là,
+00:35:45  c'est quand est-ce qu'il faut recruter tes c s m.
+00:35:49  Attends tac nickel.
+00:35:51  Vous avez deux approches,
+00:35:53  l'approche de dire moi j'attends d'être complètement
+00:35:55  foule pour recruter des c s m et d'autres qui disent à partir
+00:35:57  de cinq clients vous recrutez.
+00:35:58  Moi je vous dis à partir de cinq clients vous recrutez.
+00:36:00  Dès le départ,
+00:36:01  j'ai commencé à recruter mon premier c c m qui était Nassim
+00:36:03  qui bosse toujours avec moi aujourd'hui,
+00:36:04  ça se passe super bien.
+00:36:06  Enfin c'est c'est et en plus de ça du coup ça fait un an et
+00:36:08  demi que j'investis dans ses compétences en lui parce que du
+00:36:11  coup j'achète des formations,
+00:36:12  je lui donne accès à des informations que moi j'ai.
+00:36:14  Donc ce qui fait qu'aujourd'hui c'est un vrai expert dans son
+00:36:16  domaine, c'est un killer,
+00:36:18  il a réponse absolument à toutes les questions et d'un
+00:36:20  autre côté je lui donne accès au mastermind en physique,
+00:36:22  à des de vérité, à des voyages.
+00:36:25  Nos c s m nous ils ont accès à des à des produits Apple et
+00:36:27  caetera donc c'est vraiment
+00:36:30  un investissement d'ailleurs j'ai vu un podcast là il y a
+00:36:32  deux jours de Mister Beast ultra intéressant je vous
+00:36:34  conseille d'aller voir ça vingt-six ans
+00:36:37  milliardaire il le dit milliardaire c'est-à-dire il
+00:36:39  est milliardaire à vingt-six ans il y a peu de personnes qui
+00:36:41  sont minables avant trente ans legit enfin après toutes
+00:36:45  les meilleures sont les gîtes mais voilà et et vraiment
+00:36:47  intéressant parce que lui dit j'investis des centaines de
+00:36:49  milliers de dollars dans mes employés et c'est le meilleur
+00:36:51  investissement que je fais,
+00:36:52  c'est que j'investis dans mes employés qui ensuite me le
+00:36:54  rapportent sur des dizaines d'années et d'avoir le retour
+00:36:55  sur investissement d'employés c'est incroyable et donc c'est
+00:36:57  vraiment ça que je vous conseille de À partir de vos
+00:36:59  cinq premiers clients,
+00:37:01  vous prenez un c s m et vous recrutez ça avec le final de
+00:37:04  recrutement que je vous présentais.
+00:37:06  Antipatiation du recrutement tout au long de l'année, oui,
+00:37:08  moi je recrute des,
+00:37:08  je poste des stories quand je n'ai pas besoin de recruter les c s m.
+00:37:10  Comme ça mon mon, mon, mon,
+00:37:12  il se remplit de contact que je contacte avec mon assistante
+00:37:15  que Tiffany contacte en disant,
+00:37:16  on a bien pris connaissance de votre profil.
+00:37:17  Pour l'instant, on a trouvé quelqu'un.
+00:37:19  Mais par contre, dès qu'on a besoin de vous,
+00:37:20  on vous recontacte pour voir si vous avez la disponibilité.
+00:37:22  Ça nous permet de stocker ça et dès qu'on a besoin,
+00:37:24  s'il y avait un remplacement ou qu'on était en période
+00:37:27  hyperscale, de pouvoir la recruter.
+00:37:30  Tu recrutes comment les c s m à travers closing mastery C'est
+00:37:32  quoi closing mastery Il
+00:37:38  ne forme pas de c s.
+00:37:39  Non. Ok non non non.
+00:37:41  Isma il forme que des
+00:37:44  mais je enfin je ne sais pas je n'ai pas de retour d'expérience
+00:37:48  particulier mais ça doit être très bon quoi,
+00:37:49  Isma je trouve chaud mais non non pas du tout Isma il n'est
+00:37:52  pas dans ce domaine-là.
+00:37:52  Non les c s m vous allez recruter il y a plusieurs
+00:37:54  manières d'appellation vous pouvez les appeler c s c s m
+00:37:58  D'ailleurs c'est marrant,
+00:37:58  mais au workshop d'Alexis Laure Mausi,
+00:38:01  au tout premier donc il y a quasiment un an,
+00:38:02  j'ai fait tout le tout tout premier, ils ont donc une CSM,
+00:38:05  je ne sais plus comment est-ce que ça plaît signifie,
+00:38:06  qui est spécialisée pour tous les portefeuilles d'Alexis
+00:38:09  Laure Mausi et aujourd'hui ils vendent des workshops à
+00:38:12  cinquante mille à soixante-dix mille dollars,
+00:38:13  ce n'est même plus la équipe d'acquisition de notre com qui s'occupe,
+00:38:16  c'est elle qui a structuré une équipe de CSM pour délivrer les
+00:38:19  personnes qui paient soixante-dix mille dollars pour
+00:38:20  être avec l'équipe d'Ormozic en fait l'équipe de CSM d'Ormozic.
+00:38:24  Donc c'est marrant, ça vraiment,
+00:38:25  ça a une importance énorme et c'est un c'est un c'est un rôle
+00:38:29  qui est super important ok Donc voilà pour quand est-ce que
+00:38:32  vous devez recruter des c s m.
+00:38:34  Des questions avant de passer à la suite comme ça on y va step
+00:38:37  by step step by step pardon.
+00:38:43  Non c'est bon Ok.
+00:38:44  Alors premier, les responsabilités d'un c s m.
+00:38:47  Les responsabilités elles sont plusieurs,
+00:38:49  mais elles sont assez simples.
+00:38:51  En général, ça va être de on border.
+00:38:53  Les clients qui rentrent au sein du programme.
+00:38:55  Encore une fois, peu importe si c'est du service ou autre onboarding les clients.
+00:38:59  Ensuite, ça va être de communiquer avec eux pour les rassurer.
+00:39:03  Communication,
+00:39:04  hop, je ne sais pas, alors attendez, communie pardon,
+00:39:12  communication rassurée.
+00:39:13  Et ensuite, le seul rôle de vos c s m,
+00:39:16  c'est de faire passer le client de l'étape zéro au point
+00:39:18  d'activation numéro un, au point d'activation numéro deux,
+00:39:20  au point d'activation numéro trois.
+00:39:22  C'est la méthode Colcorden.
+00:39:23  Les points d'activation,
+00:39:24  c'est quoi C'est les balises de transformation de vos clients.
+00:39:27  C'est quoi C'est en gros,
+00:39:29  vous avez des steps dans les road map,
+00:39:31  c'est comme vous quand vous jouez aux jeux vidéo.
+00:39:32  Vous savez, il y avait le premier château à atteindre,
+00:39:34  puis le deuxième château, et caetera.
+00:39:35  Ou même quand si vous jouez, vous jouiez à à Mario,
+00:39:38  tant petit, vous avez des points de sauvegarde.
+00:39:40  Là, c'est pareil.
+00:39:41  C'est les grandes étapes par lesquelles vont passer vos
+00:39:44  clients au-delà de toutes les micro étapes qui vont devoir
+00:39:46  faire au quotidien en termes d'input pour y arriver,
+00:39:48  les grandes étapes par lesquelles ils vont passer pour y arriver.
+00:39:50  Imaginons que vous avez un coaching dans part de devoirs,
+00:39:52  la première grande étape, ça va être, ça peut être par exemple,
+00:39:54  je ne sais pas, je dis n'importe quoi,
+00:39:56  courir trente kilomètres.
+00:39:57  Le deuxième point d'activation, c'est d'avoir perdu dix kilos.
+00:39:59  Ça peut être des choses différentes.
+00:40:00  Vous voyez en termes d'input, d'output.
+00:40:02  Mais votre c s m et ça après,
+00:40:04  il faut les examiner dans votre offre,
+00:40:05  c'est un travail d'offre et autre chose encore c'est la
+00:40:06  partie structuration de votre produit,
+00:40:08  mais le le c s m il s'assure juste que vos clients
+00:40:12  connectent les points d'activation correctement
+00:40:13  atteignent ces points d'activation parce que s'ils
+00:40:15  les atteignent alors ils auront des résultats,
+00:40:16  c'est pour ça qu'il faut bien les choisir.
+00:40:18  Si vous choisissez des points d'activation qui n'ont pas de
+00:40:19  sens, qui sont, qui ne sont pas importants,
+00:40:22  ils vont atteindre des des points qui ne servent à rien que les pauvres.
+00:40:26  Donc voilà, faites attention à ça.
+00:40:27  Ok Et ensuite évidemment de faire la rétention et de faire
+00:40:31  de l'upsell après,
+00:40:32  parce que ça va vous permettre tout simplement de d'augmenter ça.
+00:40:36  Une bonne manière d'avoir des sessions qui sont impliquées au
+00:40:38  quotidien dans dans dans les business de vos clients,
+00:40:40  alors je dis business parce que moi en l'occurrence mes clients ont des
+00:40:44  business, mais ça peut être dans la,
+00:40:46  la, bref dans la délivrabilité client,
+00:40:48  c'est de justement leur mettre une bonne perspective au terme de de l'upsell.
+00:40:51  Vous avez un à trois fois le prix,
+00:40:53  oui ils vont prendre quinze pour cent et ils peuvent
+00:40:56  littéralement faire fois deux sur ce qu'ils ont pris
+00:40:57  initialement sous le client fois trois s'ils arrivent à
+00:40:59  apporter les résultats et là les.
+00:41:02  C'est une super North star parce qu'ils peuvent faire le calcul.
+00:41:04  Il faut rentrer dix clairement dans le mois,
+00:41:05  ils arriveront en obsède cinq, c'est comme s'ils faisaient en,
+00:41:07  ils en faisaient rentrer trente sans avoir besoin de bosser plus.
+00:41:11  Intéressant.
+00:41:12  Ok Donc toujours driver
+00:41:15  par par les les objectifs et résultats plutôt qu'avec des
+00:41:17  pics derrière quoi.
+00:41:18  Ok
+00:41:22  L'idée du c s m de manière générale,
+00:41:24  vu que c'est un humain et que ce n'est pas une IA et que vous
+00:41:26  le payez cher quand même.
+00:41:28  Alors après par rapport à ce qu'il va vous rapporter,
+00:41:30  ce n'est pas cher mais vous allez le payer plusieurs
+00:41:31  milliers d'euros.
+00:41:32  Il faut qu'il lui a,
+00:41:33  il faut qu'il apporte énormément de clarté et de
+00:41:36  communication de visibilité.
+00:41:37  Clairté
+00:41:39  plus visibilité,
+00:41:43  visibilité à vos clients, ultra important
+00:41:46  et plus que ça,
+00:41:49  je vais oublier ce que je veux dire.
+00:41:51  Clairté, visibilité et je vais prendre mes notes.
+00:41:54  Oui c'est ça.
+00:41:55  Faire gagner les quick win le plus rapidement possible.
+00:41:57  Quand vous avez une formation,
+00:41:58  quand vous avez du du du do it yourself, quick win,
+00:42:01  c'est super dur en tout cas c'est pas facile facile
+00:42:03  d'apporter des quick win,
+00:42:04  donc quick win c'est les résultats rapides pour ceux
+00:42:05  voilà qui va permettre de voir tout
+00:42:07  de suite l'évolution des clients,
+00:42:08  c'est c'est classique en marketing,
+00:42:10  c'est si la personne voit un résultat immédiat,
+00:42:12  elle va tout de suite se sentir engagée dans le process et elle
+00:42:14  va avoir une perception de votre produit,
+00:42:15  de votre programme,
+00:42:16  de votre de votre prestataire qui va être complètement différent.
+00:42:18  L'avantage, c'est que vous avez un humain qui peut leur parler.
+00:42:20  Donc les quick-win peuvent être encore beaucoup plus faciles.
+00:42:23  Donc faites en sorte d'avoir des quick-win qui peuvent être développés.
+00:42:26  Lucas Perrin,
+00:42:29  d'accord C'est c'est sans contexte.
+00:42:33  Comment Je l'ai vu hier en plus Lucas à Dubaï.
+00:42:36  Ah oui à la soirée.
+00:42:38  Ok je rentre le quick win j'arrive
+00:42:41  toujours pas à comprendre dernièrement je suis désolé.
+00:42:43  Il faut faire des phrases on
+00:42:46  gamuche l'accompagnement exactement
+00:42:49  exactement exactement.
+00:42:52  Donc ouais donc c'est super important justement de de de
+00:42:55  mettre en place tout ça parce que c'est ce qui va vous
+00:42:56  permettre avec vos c s m de pouvoir avoir beaucoup plus de résultats.
+00:42:59  Ok et puis évidemment de pouvoir compléter les paiements
+00:43:02  si vous avez paiement plusieurs fois de s'assurer que vous avez
+00:43:04  bien des paiements du un taux de cash collecté qui est
+00:43:06  beaucoup plus important de recevoir des résultats désirés
+00:43:09  tout ça c'est super important et c'est des CSM qui vont vous
+00:43:12  permettre de l'avoir ok donc donc voilà
+00:43:16  est-ce qu'il y a des questions là-dessus ou est-ce qu'on passe
+00:43:18  encore une fois à la suite j'y vais progressivement pour être
+00:43:20  sûr qu'on ne se prennent pas toutes les questions à la fin
+00:43:22  et que part dans tous les sens.
+00:43:29  Non, Good je vous laisse encore trente secondes le temps juste
+00:43:31  de le si jamais.
+00:43:32  Tu peux développer les quick-win Ouais bien sûr alors
+00:43:34  quick-win c'est un c'est un truc qui date d'il y a
+00:43:37  depuis le début du marketing.
+00:43:38  J'ai Abraham en parlait dans ses bouquins qui était repris par sa mauvaise.
+00:43:42  Tu gagnes en parlait même déjà sur le marché français il y a
+00:43:44  sept huit ans très rapidement.
+00:43:45  D'ailleurs tu gagnes et je me souviens que dans un live il en parlait,
+00:43:48  il montrait qu'un mec aux US il a analysé une page de vente,
+00:43:51  un mec aux US qui vendait de l'accompagnement sur le
+00:43:54  développement financier, la comment investir en bourse,
+00:43:57  la quick win de ce gars là,
+00:43:59  c'était de faire ouvrir un compte quatre cent un,
+00:44:02  donc investissement en gros p e l et de mettre cent euros cent
+00:44:05  dollars sur l'investissement.
+00:44:06  Et ça ça pouvait faire symbole de quick win.
+00:44:07  C'est-à-dire que la personne tout de suite avait fait passer
+00:44:09  à l'action et avait déjà mis cent dollars de côté et donc il
+00:44:12  parlait déjà du système de quick win à l'époque.
+00:44:15  Donc c'est typiquement ce ce genre de truc.
+00:44:17  Pour les paiements plutôt Stripe ou virement,
+00:44:19  ça dépend si vous avez Stripe et qu'ils ne vous font pas chier go Stripe
+00:44:23  mais virement c'est bien.
+00:44:25  L'histoire du comptement quest c'est un truc qui qui qui date
+00:44:27  de de de de dire.
+00:44:29  Il prenait quickwin via automatisation exemple
+00:44:31  vingt-quatre heures par l'accompagnement tu as un
+00:44:32  rendement personnalisé.
+00:44:34  Alors il prône, ah oui tu veux dire ah tu parles de ok tu parles de Luca
+00:44:37  Perrin.
+00:44:39  Ouais ok ah oui d'accord, il en parle très bien.
+00:44:43  Les questions qui ne sont pas en rapport direct avec la
+00:44:45  thématique qu'on aborde, on les pose à la Peut-être vaut mieux,
+00:44:48  on va avoir une grosse session en QNAI après.
+00:44:50  Tu as l'exemple de quick win pour tes clients.
+00:44:53  Très bonne question.
+00:44:54  Nous en fait quand ils rentrent au sein de l'accompagnement,
+00:44:55  alors nous il n'y a pas d'automaticiens
+00:45:00  qui peuvent délivrer des road maps en vingt-quatre heures.
+00:45:03  Mais typiquement lorsqu'ils rentrent dans l'accompagnement
+00:45:04  en moins de vingt-quatre heures ils ont un appel personnalisé
+00:45:06  de lancement avec l'équipe où on présente exactement toutes
+00:45:09  les prochaines étapes et reçoivent toutes les accès à la
+00:45:11  information et leur met en place maintenant dans le
+00:45:13  nouveau système de libre habité d'ailleurs Hugo si tu es là,
+00:45:15  tu le verras là de lundi,
+00:45:17  un système avec une warmap en fait on a six catégories de
+00:45:20  business avec les problématiques différentes ils
+00:45:21  vont recevoir une warmap remplie la warmap de ce mauvais
+00:45:24  qui est connu avec déjà les étapes à faire et comment
+00:45:28  est-ce que vous pouvez faire les premières choses à setup
+00:45:30  pour vous puissiez tout de suite avoir entre guillemets la
+00:45:32  structure mise en place pour ce qui est.
+00:45:34  Donc là, ils vont recevoir de l'information et des choses
+00:45:36  qu'ils peuvent copier coller pour avoir en fait de la
+00:45:37  visibilité sur la prochaine semaine.
+00:45:38  Donc ça c'est une quick queen.
+00:45:41  Comment est-ce que tu définis les trois meilleurs points
+00:45:42  d'activation pour tes clients niche, mindset, en B to c.
+00:45:45  En fait le point d'activation où c'est très simple d'avoir
+00:45:49  des des des points d'activation,
+00:45:50  c'est de faire du reverse tu vois C'est-à-dire que de se
+00:45:54  dire ok, je ne sais pas par exemple,
+00:45:56  je vous donne un exemple très simple de, je vulgarise,
+00:45:59  vous voulez faire dix cas par mois, ok, machin.
+00:46:01  Vous avez une offre à deux cas cinq.
+00:46:04  Vous posez une question,
+00:46:04  ça peut être si la personne envoie deux cents messages par
+00:46:06  jour, je dis n'importe quoi.
+00:46:08  Deux cents messages par jour qu'elle publie.
+00:46:10  Deuxième point d'activation,
+00:46:10  il faut qu'elle ait publié vingt vidéos.
+00:46:12  Troisième point d'activation, il faut qu'elle ait dépensé,
+00:46:13  je n'en sais rien, deux-mille euros en ads.
+00:46:16  Alors s'il passe par tous ces points-là,
+00:46:18  qu'il le fallait de manière correcte,
+00:46:19  il arrivera à générer dix-mille euros de serre.
+00:46:22  Ok, alors deux-mille euros, peut-être pas parce que du
+00:46:24  coup, ça peut importe, c'est, vous voyez l'idée,
+00:46:27  c'est vraiment quels sont les points par de toute façon
+00:46:29  lesquels elle va devoir passer si on va le faire encore plus
+00:46:31  simple la personne l'objectif c'est de courir un marathon il
+00:46:34  faut d'abord qu'elle court un semis il faut d'abord qu'elle
+00:46:37  court cinq kilomètres si la personne n'a jamais couru de sa
+00:46:38  vie il faut qu'elle apprenne à courir cinq mètres puis dix
+00:46:40  puis quinze puis vingt, puis quarante.
+00:46:42  Donc c'est ça les points d'activation.
+00:46:43  Premier point d'activation, courir cinq mètres.
+00:46:45  Deuxième dix kilomètres,
+00:46:46  plutôt qu'axer sur les output que les autres.
+00:46:48  War maps, objectif par semaine, c'est super bien,
+00:46:49  on va bien passer avec nos équipes.
+00:46:51  Hugo, yes and morning est bien fait,
+00:46:52  ça m'a signé et j'ai tenborddé avant de faire le premier paiement.
+00:46:54  Exactement.
+00:46:55  Nous on onboard avant même de recevoir le problème alors des
+00:46:57  fois les gens le font en live des fois ils le font trois
+00:46:59  heures après mais ils sont onboard immédiatement ils ont
+00:47:02  cinq étapes dans le slack avec un canal privé ce qui leur
+00:47:04  permet de tout avoir des informations quoi.
+00:47:07  Jodie cavalier toujours des noms sans phrases et je comprends pas.
+00:47:11  C'est,
+00:47:15  donc voilà, s'il n'y a pas d'autres questions au-dessus de ça, je j'avance.
+00:47:19  Alors je suis désolé,
+00:47:20  je devrais peut-être avoir moyen de brancher
+00:47:22  mon iPad ou mon téléphone parce que je n'ai plus beaucoup de de de de batterie.
+00:47:26  Alors, il y a deux manières de faire du c s m,
+00:47:29  de faire du support.
+00:47:30  Vous avez dans ce qu'on appelle du réactif
+00:47:34  et du proactive,
+00:47:36  de manière proactive, de manière réactive,
+00:47:37  on va dire ça comme ça.
+00:47:38  Vous avez des c s m dont le seul rôle est d'être un
+00:47:42  support, vous avez la moindre question,
+00:47:44  vous avez une problématique, on est là, on est en réaction.
+00:47:46  Donc vous attendez que quelque chose se passe pour réagir,
+00:47:48  principe d'une réaction.
+00:47:50  La proactivité, c'est que ça vient de la personne qui délivre et donc de
+00:47:54  relancer au quotidien.
+00:47:54  Il n'y
+00:47:56  a pas de bonne ou de mauvaise manière de délivrer.
+00:47:59  Il y a juste une manière claire de le faire,
+00:48:01  c'est-à-dire que si vous annoncez que vous êtes dans la
+00:48:03  réaction, soyez dans la réaction.
+00:48:04  Si vous avez annoncé dans la productivité,
+00:48:06  soyez dans la productivité, c'est juste ça.
+00:48:09  Voilà si si votre produit c'est,
+00:48:11  on on a une formation et en plus si vous avez moins de
+00:48:13  questions, on a votre disposition,
+00:48:14  vous avez la réaction et dans ces cas-là,
+00:48:15  vous mettez les personnes qui doivent être là pour répondre à vos questions.
+00:48:18  Si vous êtes dans, on est dans le coaching et tous les jours,
+00:48:19  on vous donne des étapes, soyez dans la productivité.
+00:48:22  Voilà, et vos c s m vont réagir de cette manière-là.
+00:48:25  Mais c'est ultra important de comprendre les deux,
+00:48:26  d'être clair là-dessus et de donner les informations.
+00:48:28  Moi, quand mes c s m, ça arrive.
+00:48:30  Ils font pas des relances à temps parce que c'est des c'est
+00:48:32  des humains c'est des équipes donc il faut les manager si
+00:48:35  s'auto manager tout seul il y a un ex auto manager mais c'est
+00:48:37  c'est compliqué tout le monde a besoin d'être manager
+00:48:41  et ben c'est c'est un des premiers points que je vérifie
+00:48:43  c'est est-ce que toutes les relances ont été faites au
+00:48:44  moins sur quarante-huit et caetera et quand il y a un
+00:48:46  canal qui n'est pas relancé,
+00:48:48  là ils sont tapés sur les doigts parce que c'est une
+00:48:49  vraie problématique ok.
+00:48:52  Où est-ce que vous pouvez trouver des bons CSM On y
+00:48:54  vient, partir recrutement.
+00:48:57  Vous avez évidemment tous les réseaux classiques ok.
+00:49:00  Vous pouvez mélanger les deux,
+00:49:01  oui vous pouvez mélanger les deux bien sûr cent pour cent,
+00:49:02  il n'y a rien qui vous l'empêche.
+00:49:06  Qu'est-ce que je veux vous dire du coup pardon Oui,
+00:49:07  où trouver des c s m Vous pouvez les trouver sur LinkedIn,
+00:49:11  vous pouvez les trouver sur Facebook,
+00:49:14  vous pouvez trouver sur Insta,
+00:49:16  vous pouvez trouver sur Facebook groupe f c b groupe,
+00:49:20  vous pouvez trouver en
+00:49:22  ads, vous pouvez aussi trouver sur des groupes school,
+00:49:25  vous pouvez les trouver potentiellement dans vos clients.
+00:49:27  Vous pouvez les
+00:49:29  trouver en postant des formulaires
+00:49:33  sur des blogs ou même tout simplement en shootant des
+00:49:36  newsletters ou des bases mails.
+00:49:39  Par exemple vous cherchez je ne sais pas un coach,
+00:49:43  un coach mindset disons je parle je n'importe quoi
+00:49:46  vous allez shooter newsletter de dix-mille personnes qui est
+00:49:48  dans autour du sujet du développement personnel
+00:49:51  la newsletter va faire je ne sais pas trente pour cent de
+00:49:53  clics quarante pour cent de clics d'ouverture pardon et va
+00:49:56  faire ensuite sur ces voilà il va faire un deux pour cent de clic
+00:50:01  et vous allez avoir quelques dizaines voire centaines de
+00:50:03  personnes qui vont qui vont cliquer.
+00:50:05  Débauchant
+00:50:09  oui pourquoi pas.
+00:50:11  Moi je ne suis pas très fan du du débauchage,
+00:50:14  tu sais c'est un peu comme si tu débauches chez quelqu'un
+00:50:18  avec la personne du jour au lendemain elle a dit oui,
+00:50:20  peux aussi vite te faire débaucher quoi.
+00:50:23  Tu vois c'est des profils qui ne sont pas très loyal,
+00:50:25  un peu comme dans les relations.
+00:50:27  Donc faire attention à ça,
+00:50:29  mais why not why not honnêtement why not après
+00:50:33  encore une fois moi je je même chez mes concurrents
+00:50:36  j'irai pas trop débauché il y a certains où j'aurais pas de
+00:50:39  problème mais vu qu'ils sont nuls en vrai non du coup mais
+00:50:42  les concurrents les bons concurrents sur le marché
+00:50:45  j'irai pas trop débauché parce que après je les connais enfin
+00:50:48  peu importe en vrai c'est ma relation personnelle à ça j'ai
+00:50:51  peut-être tort de ne pas le faire, il faut enfin voilà,
+00:50:53  Valère vous dire peut-être quelque chose de différent.
+00:50:54  Ouais, moi je ne l'ai pas fait,
+00:50:55  je je ne sais pas faire débaucher,
+00:50:56  j'ai du mal à voir quelqu'un comme ça,
+00:50:58  mais je recrute de manière ouverte.
+00:51:00  En fait je recrute des players comme une équipe de foot.
+00:51:02  Exactement, votre équipe n'est pas une famille,
+00:51:04  On vire pas quelqu'un d'une famille,
+00:51:05  on ne recrute pas quelqu'un,
+00:51:06  on pourra recruter quelqu'un d'une famille si quelqu'un
+00:51:07  rentre, mais vous avez compris.
+00:51:09  Votre équipe n'est pas une famille,
+00:51:09  votre équipe est une équipe de sport.
+00:51:12  C'est la meilleure analogie.
+00:51:13  Vous avez un trophée à chercher,
+00:51:15  vous avez des équipes concurrentes,
+00:51:16  vous avez des personnes qui sont plus payées que d'autres dans l'équipe,
+00:51:18  un Michael Jordan ou un Lionel Messi va être évidemment dix
+00:51:21  fois plus payé que l'autre parce qu'il a de meilleurs
+00:51:23  résultats qu'il apporte proportionnellement de plus de
+00:51:24  résultats à l'équipe au club de manière générale.
+00:51:26  Vous avez des KPI, vous avez des rôles, l'avant, l'ailier,
+00:51:29  le défenseur, le machin.
+00:51:30  Vous avez des ligues, vous avez des stratégies,
+00:51:33  donc vous avez quelqu'un qui peut être sur le banc aussi.
+00:51:36  Donc voilà, un une selle Steam comme une équipe de c s m,
+00:51:39  c'est une putain d'équipe de sport.
+00:51:41  Ok et vous devez réfléchir comme ça,
+00:51:43  c'est ultra important.
+00:51:46  Ok et pour recruter les bons c s m,
+00:51:48  intéressez-vous plus pour moi à la personne qu'à son expérience
+00:51:51  sauf si vous cherchez quelqu'un d'expérience de vraiment de de
+00:51:54  d'expert sur un sujet spécifique,
+00:51:57  intéressez-vous à la personne en elle-même ce qu'elle veut
+00:51:59  faire et ne mentez jamais sur l'évolution potentielle ou sur
+00:52:01  les opportunités que vous lui donnerez.
+00:52:03  Parce que vous devrez faire le travail inverse.
+00:52:04  La pire des choses que vous pourriez avoir dans votre activité,
+00:52:07  c'est d'avoir un c s m que vous avec lequel vous bossez depuis
+00:52:09  trois mois, vous devez en former tous les prochains sur place,
+00:52:11  ils gèrent plus de cinquante à quarante manages et du jour au
+00:52:14  lendemain, ils vous disent je me barre.
+00:52:15  Donc il faut aller voir cinquante clients,
+00:52:17  on leur explique qu'il faut tout réexpliquer à quelqu'un d'autre.
+00:52:19  Faire les changements, repayer une personne,
+00:52:21  ça va vous coûter deux fois plus cher.
+00:52:24  Donc assurez-vous que vous les recrutez bien.
+00:52:26  Et justement, on va y venir.
+00:52:27  Dernier point là-dessus, la team,
+00:52:28  la la la technologie de rampe-up.
+00:52:30  Alors ça, c'est valable pour les closer comme pour les CSM,
+00:52:32  parce qu'encore une fois, c'est très similaire.
+00:52:34  Rampe-up, c'est quoi C'est le fait de monter la personne sur une rampe.
+00:52:37  Ok
+00:52:39  Et en fait, vous allez avoir, pour moi,
+00:52:41  je fonctionne en quatre semaines, semaine un, tac, semaine deux,
+00:52:46  semaine trois et semaine quatre.
+00:52:48  Et en fait, sur chaque semaine,
+00:52:49  je vais avoir des choses particulières.
+00:52:50  Je vais reprendre mes
+00:52:53  notes pour y aller progressivement.
+00:52:55  Les sept premiers jours,
+00:52:56  je vais surtout faire l'onboarding avec moi,
+00:52:58  faire des appels en one one et il va consommer toute la
+00:53:01  plateforme du school.
+00:53:02  Donc onboarding du CSM,
+00:53:05  appel one one, formation,
+00:53:09  training.
+00:53:11  Deuxième semaine,
+00:53:12  il va participer aux aux aux aux call d'équipe.
+00:53:16  On va faire du.
+00:53:17  Si un client te dit ça,
+00:53:18  qu'est-ce que tu dis Si un client s'énerve,
+00:53:20  qu'est-ce que tu fais Si je lui pose des questions et je lui
+00:53:23  fais passer à la fin de la semaine deux informe juste pour
+00:53:26  voir si tout est bon à ce niveau-là.
+00:53:27  Et c'est à partir de semaine trois,
+00:53:29  il va pouvoir commencer à prendre vingt pour cent des
+00:53:31  clients qui rentrent, puis semaine quatre,
+00:53:33  cinquante pour cent et après du mois,
+00:53:34  dès qu'il passe au mois prochain,
+00:53:35  il peut prendre cent pour cent des clients qui rentrent.
+00:53:38  Ok Ça permet d'y aller progressivement,
+00:53:40  je suis un peu parano aussi sur mes équipes enfin au départ
+00:53:43  quand je connais pas les personnes ce qui est normal
+00:53:45  parce que dans le business en ligne surtout dans la sphère
+00:53:48  actuelle il y a beaucoup de petits malins
+00:53:50  donc le fait de faire des systèmes comme ça c'est long et
+00:53:53  j'aurais le temps de sentir d'avoir une intuition de cramer
+00:53:55  la personne si elle fait quoi que
+00:53:57  soit ok et c'est vraiment important de le faire
+00:53:59  graduellement et d'y aller progressivement ultra important
+00:54:02  ok au quotidien avec vos c c m annoncez les winds donc les
+00:54:05  victoires faites les annonces moi tous les soirs dans le
+00:54:08  canal général de la team pour répondre à ta question Nathan
+00:54:09  est-ce que j'ai des groupes de discussion de toutes les équipes,
+00:54:11  c'est important de diviser un groupe de récent Oui bien sûr,
+00:54:13  j'ai des groupes de discussion avec toutes mes équipes,
+00:54:15  je n'ai pas mélangé mes équipes sales et mes équipes CSM,
+00:54:18  en l'occurrence mes équipes sales ont accès aux résultats
+00:54:19  des membres pour qu'ils soient motivés,
+00:54:20  qu'ils voient que notre produit appelle,
+00:54:22  apporte vraiment des des résultats.
+00:54:25  Mais oui j'ai un canal
+00:54:29  de la team où je fais un appel par avec eux par semaine,
+00:54:31  un appel de points et tous les soirs je fais un point sur les
+00:54:33  personnes qui sont rentrées, les priorités,
+00:54:35  les annoncesments,
+00:54:35  les nouveautés et comment est-ce qu'eux vont voir ça.
+00:54:39  Quand tu dis des petits malins,
+00:54:40  tu as des exemples d'erreurs de recrutement pourquoi ça n'a pas
+00:54:41  marché Non mais c'est juste vous le voyez sur les
+00:54:43  formulaires iCloud tu vois regarde,
+00:54:44  tu utilises iCloud il me semble.
+00:54:47  Les personnes qui vont essayer de funnel hack en regardant ça,
+00:54:50  il y a des personnes qui peuvent potentiellement essayer
+00:54:52  de funnel hack votre funnel de recrutement ou votre vos équipes
+00:54:56  si si vous prenez de la place sur le marché
+00:54:59  donc donc voilà ok tu viens de décrire ton processus
+00:55:04  d'intégration mais comment est-ce que tu détectes s'il est
+00:55:05  bon alors ça c'est fonction de moi mes critères,
+00:55:08  j'ai mes standards, c'est mon produit,
+00:55:09  c'est c'est propre à mon produit spécifique donc ça va
+00:55:11  être ça va dépendre de chacun et ça va dépendre aussi
+00:55:13  beaucoup de mon intuition.
+00:55:15  Léa Amosi qui a recruté la majorité des personnes qui
+00:55:18  bossent dans les bois de leur portfolio qui font par an même
+00:55:20  chez Léa Mathouz.
+00:55:22  Valère était intervenue chez Orion cet été,
+00:55:23  mon mastermind fait une super présentation.
+00:55:26  Chez Léa Mathouz était intervenue la RH avec c'est
+00:55:27  Laurent Moszic a bossé pour DHL qui a fait le recrutement
+00:55:29  d'Amazon aussi.
+00:55:30  Elle a dit que évidemment qu'il y avait tous les standards que
+00:55:32  tout était processé qu'il y avait plein de questions mais
+00:55:34  que de Cherry's on the cake, la cerise sur le gâteau,
+00:55:36  c'était vraiment l'intuition et comment est-ce que vous sentiez
+00:55:38  la personne en face de vous.
+00:55:39  La première intuition chez l'humain ne trompe pas,
+00:55:41  c'est dans nos gènes.
+00:55:43  C'est, on est câblé pour détecter si un individu qui rentre dans un
+00:55:46  groupe va en gros, excuse-moi de nous nous le terme,
+00:55:48  mais nous baiser ou S'il va nous voler notre viande,
+00:55:50  est-ce qu'il va il va déchiqueter, enfin voilà,
+00:55:53  c'est c'est vraiment c'est la la première impression que vous
+00:55:55  avez sur la personne en général c'est la bonne.
+00:55:57  Vous pouvez vous tromper,
+00:55:57  il ne faut pas faire attention aux apps.
+00:55:59  Alors on ne juge pas un bouquin de sa couverture,
+00:56:00  mais quand même, vous avez le le un sixième sens.
+00:56:03  Donc voilà.
+00:56:05  Dans le processus d'intégration, ce n'est pas
+00:56:07  payé, c'est seulement la fin, dans quatre semaines,
+00:56:08  tout est bien passé.
+00:56:09  Exactement, il est payé uniquement à la fin des quatre semaines,
+00:56:10  si tout s'est bien passé.
+00:56:12  Et il ne va pas rechigner sur ça parce qu'avec le temps que
+00:56:15  je passe avec lui,
+00:56:15  il ne va pas être en mode essaie de profiter de moi, non,
+00:56:17  parce que je vais passer plus de temps avec lui que lui
+00:56:19  passe, donc de toute façon il prend l'information.
+00:56:21  Donc il n'y a pas de pas de pas de problème avec ça, ok.
+00:56:27  Des questions sur le day to day management, et caetera.
+00:56:31  On peut passer aux questions de manière générale.
+00:56:38  Je vais juste charger mon téléphone,
+00:56:39  j'en ai plein de secondes comme ça je vous laisse commencer à
+00:56:40  écrire les les questions et j'arrive de suite.
+00:56:44  C'est pas mal.
+00:57:00  Est-ce que tu as du churn sur ta c s m en moyenne combien de
+00:57:03  temps dans ta boîte Non j'ai pas de churn du tout sur ma c s
+00:57:05  m parce que du coup suite à
+00:57:09  mon à mon qui est,
+00:57:10  pour l'instant j'ai pas eu à faire de churn,
+00:57:12  je mets vraiment du temps avant de recruter quelqu'un,
+00:57:15  j'en tire beaucoup,
+00:57:15  c'est la chose sur laquelle je prends le plus de temps dans ma boîte.
+00:57:18  J'ai du churn sur mes closer,
+00:57:19  j'ai très peu de churn sur mes setter,
+00:57:21  pareil je prends du temps.
+00:57:23  Mais les sales teams, j'ai du churn, pas sur le c s m.
+00:57:26  Ça va dépendre un pas des teams.
+00:57:29  Comment que penses-tu de pouvoir de promouvoir des
+00:57:31  élèves en interne Tu veux dire de les promouvoir en
+00:57:33  tant
+00:57:35  que
+00:57:37  CSM
+00:57:39  Oui et coach et coach, c'est-à-dire pardon,
+00:57:43  je comprends pas excuse-moi comment qu'est-ce que tu
+00:57:46  appelles par promouvoir de recruter tu veux dire ou de
+00:57:50  peu c'est-à-dire promouvoir
+00:57:55  un accompagnement dans un business physique ok alors du
+00:58:00  coup je veux bien juste que tu clarifies le certains élèves
+00:58:02  obtiennent de bons résultats ok ça marche ouais ok
+00:58:09  Du coup, je te laisse finir la phrase, c'est en j.
+00:58:11  Je vais répondre à Evra dans le temps.
+00:58:16  Si un test système devrait partir pour x y raison,
+00:58:18  comment est-ce que tu gérais la transition On devrait la transition.
+00:58:21  Alors bonne question.
+00:58:25  Quand pour offborder un c s m,
+00:58:27  il faut s'assurer qu'il y a une bonne relation avec lui,
+00:58:29  évidemment que vous avez un maximum de confidentialité.
+00:58:31  Et ça, ça passe par avoir une bonne relation humaine.
+00:58:33  C'est vraiment ça de lui donner des opportunités ailleurs,
+00:58:36  de l'aider et de l'accompagner là-dedans et de ne pas de faire
+00:58:39  de manière brute.
+00:58:40  C'est-à-dire que progressivement être à l'écoute
+00:58:41  et de le faire la plus humaine possible.
+00:58:44  Du coup je n'ai pas compris ta question en J,
+00:58:46  c'est se dire quoi juste promouvoir parce que j'ai
+00:58:47  compris qu'il y avait des élèves,
+00:58:48  que tu avais un accompagnement physique, et caetera.
+00:58:49  Mais qu'est-ce que tu entends par le verbe promouvoir Y
+00:58:52  a-t-il des indicateurs de performance spécifique pour le
+00:58:54  c s m Oui, le n p s,
+00:58:55  le score de satisfaction client,
+00:58:57  en fonction des résultats que le c s m obtient et des notes
+00:59:01  que les clients vont mettre au c s m à la fin d'accompagnement
+00:59:03  via un formulaire et aux moitié de l'accompagnement.
+00:59:05  Le c s m il a également un second rôle,
+00:59:07  alors j'ai plus beaucoup de batterie sur mon iPad déjà pas
+00:59:08  un chargeur à proximité donc je vais devoir faire comme ça mais
+00:59:11  c'est pas un c'est pas un problème.
+00:59:13  Le quand vous faites un accompagnement de coaching,
+00:59:16  vous avez l'étape zéro ok.
+00:59:18  Ensuite vous allez avoir l'étape un la semaine un on va
+00:59:20  dire semaine deux on va dire moins un plutôt moins un moins
+00:59:22  deux moins trois hop
+00:59:27  moins quatre ok le c s a mis un rôle de marquer dans la pierre
+00:59:31  tout ce qui va se passer pourquoi c'est exactement
+00:59:33  peut-être que quand vous étiez petits vos parents faisaient ça,
+00:59:34  ils marquaient votre taille vous savez sur une porte au
+00:59:36  crayon de bois et pour vous vous voyez grandir.
+00:59:39  Les manières qu'on fait une transformation physique vous
+00:59:41  prenez votre une photo avant dans le miroir et une photo après.
+00:59:43  Vous ne vous voyez pas évoluer parce que vous avez une
+00:59:45  évolution qui est constante et très lente.
+00:59:47  Donc vous ne voyez pas prendre du poids ou alors vous ne voyez
+00:59:49  qu'au bout de deux ans et peut-être un bien trop mangé ou
+00:59:51  vous ne voyez pas forcément évoluer.
+00:59:53  C'est pour ça que pour la satisfaction client,
+00:59:55  c'est ultra important de prendre la température autour
+00:59:57  de l'accompagnement,
+00:59:58  de le marquer dans le marbre et d'en faire littéralement un
+01:00:01  enregistrement vidéo, le c s m le note et au bout du moins un,
+01:00:05  même si on n'a pas encore atteint les objectifs finaux,
+01:00:08  c'est de dire est-ce que tu te rappelles d'où est-ce que tu es
+01:00:10  parti Tu es parti de là, tu as fait toute cette évolution-là,
+01:00:13  on est rendu là et voici tout ce qui arrive avant,
+01:00:16  maintenant, après, toujours recontextualiser.
+01:00:18  Parce qu'il y a des personnes qui peuvent arriver au moins
+01:00:19  deux moins trois être pas autant satisfait alors
+01:00:22  qu'elle a eu une évolution la personne est passée je ne
+01:00:25  sais pas je prends un exemple très classique du m m o mais de
+01:00:27  trois mille à quinze mille sauf que vu qu'elle est en
+01:00:30  permanence sur trois mois entouré de personnes qui font
+01:00:32  vingt mille qui font trente-mille,
+01:00:33  elle ne se voit pas évoluer,
+01:00:34  elle a l'impression qu'elle fait de la merde.
+01:00:36  Elle a oublié, on oublie très très vite.
+01:00:38  Je peux vous assurer que ce que je vous dis,
+01:00:40  vous allez dire maintenant elle passait trois-mille à
+01:00:41  quinze-mille, je vous assure que c'est c'est déjà arrivé.
+01:00:43  Personne qui passe de dix-mille à vingt,
+01:00:45  trente-mille qui ne se voit pas évoluer,
+01:00:46  qui ne se rend pas compte dans la situation.
+01:00:48  Si vous ne rappelez pas de vous,
+01:00:49  ne recontextualise pas d'où part la personne,
+01:00:50  d'où est-ce qu'elle est maintenant et ce qui arrive,
+01:00:53  vous pouvez impacter la la la satisfaction de la personne,
+01:00:56  alors que vous avez des résultats de dingue.
+01:00:57  Donc le c s m est là pour recontextualiser,
+01:00:59  pour lui faire rendre compte de ça.
+01:01:00  Ok
+01:01:02  Ma question n'a aucun rapport avec le sujet actuel,
+01:01:04  bien sûr tu peux la poser quand même.
+01:01:05  J'ai promu
+01:01:09  l'un de mes élèves comme coach,
+01:01:10  ok ok donc ça c'est c'est ok j'ai compris pour répondre aux
+01:01:13  questions des élèves car elle le faisait de base avec
+01:01:14  beaucoup de plaisir.
+01:01:15  Oui complètement.
+01:01:16  Il faut juste s'assurer qu'il le fasse pour la bonne raison.
+01:01:18  Est-ce qu'il le fait
+01:01:21  Il faut s'assurer qu'il le fait pour la bonne raison de un et
+01:01:24  de deux s'assurer qu'il est pertinent parce que ce n'est
+01:01:26  pas parce qu'il est super gentil
+01:01:29  et qu'il a beaucoup de temps et qu'il prend du temps sans tout
+01:01:31  demander même de l'argent que c'est intéressant pour ton
+01:01:33  business qui le fasse.
+01:01:35  Admettons, il prend dix heures par jour.
+01:01:38  C'est le mec le plus gentil que tu connaisses.
+01:01:40  Il prend dix heures par jour gratuitement pour répondre à
+01:01:41  toutes les questions de tes clients.
+01:01:43  Sauf qu'il foire parce qu'il n'est pas bon dans ce qu'il
+01:01:44  fait ou alors qu'il te donne des conseils un peu à l'envers,
+01:01:47  il foire x pour cent de la délivrabilité de la
+01:01:49  délivrabilité, enfin des résultats de tes clients.
+01:01:51  Ça va impacter toute ta réputation, tout ton marché,
+01:01:53  les, la LTV de tes clients, la satisfaction, les résultats, les interviews.
+01:01:57  Donc parfois vaut muter quelqu'un cinq-mille balles par
+01:01:59  mois, qui t'apporte plein de résultats,
+01:02:00  qui baisse ton taux de défendre,
+01:02:01  plutôt que quelqu'un qui dit,
+01:02:03  qui arrive trois semaines plus tard en disant tiens,
+01:02:04  il y a quelqu'un qui de ta team que tu as promu,
+01:02:06  qui m'a conseillé de faire ça, je n'ai pas eu de résultats,
+01:02:08  j'ai envie d'avoir un machin et caetera.
+01:02:10  Donc n'allez jamais à l'économie.
+01:02:12  S'il le fait qu'il est intelligent et qu'il a les
+01:02:14  bonnes réponses, go,
+01:02:15  mais il ne le fait pas parce qu'il prend du temps,
+01:02:16  fais-le parce qu'il est intéressant.
+01:02:19  À quelle fréquence fais-tu l'école avec tes CSM et quelles
+01:02:21  structures de tes call Je l'ai fait une fois par semaine,
+01:02:23  on fait tous les points sur tous les problématiques,
+01:02:24  les urgences, ce que nous on appelle les red
+01:02:26  flags, donc les les priorités.
+01:02:28  Ensuite, on fait du trading avec des roleplay, je montre quel,
+01:02:30  comment est-ce que j'aurais répondu à ça et ensuite je
+01:02:32  j'annonce les nouveautés et quelles sont les prochaines étapes.
+01:02:34  Un call par semaine suffit, au départ j'en avais plus,
+01:02:36  il faut éliminer les calls,
+01:02:37  ça ne sert à rien d'avoir trop de call d'équipe,
+01:02:38  par contre on a un point à l'écrit sur Slack tout le le soir,
+01:02:41  que je peux faire à vingt-trois heures comme à minuit comme à
+01:02:42  une heure du matin et qui vaut le lendemain matin.
+01:02:44  Tu marches à combien sur ton modèle actuel sur The
+01:02:46  Ecosystème Je n'aurais pas les chiffres exacts,
+01:02:48  mais on est à plus de quatre pour cent de marge avec des
+01:02:50  systèmes où on prend le pourcentage derrière,
+01:02:51  c'est aussi ce qui nous permet de pouvoir forcément.
+01:02:53  Comment est-ce que tu priorises le variable et le fixe avec les
+01:02:55  closer c s m, est-ce que tu arrives bien de s'en sortir,
+01:02:57  tu peux donner les chiffres, ça serait cool.
+01:02:58  Je ne vais pas te donner les chiffres exacts parce que même
+01:02:59  pour eux, ce n'est pas voilà.
+01:03:00  Les closer par contre je peux donner, c'est du dix pour cent,
+01:03:02  les c s m ils sont entre eux,
+01:03:03  il y a des fixes et du variable,
+01:03:05  mais on a quatre pour cent de marge au total, plus
+01:03:08  marge.
+01:03:08  Un framework la structure a donné aux clients qui ont des
+01:03:10  résultats pour des retours vidéo exceptionnels.
+01:03:13  Un truc qui est assez intéressant quand vous faites un
+01:03:18  un tu parles pour les résultats attends résultat
+01:03:22  ouais ce qui est intéressant alors moi je ne l'ai pas fait
+01:03:24  sur mes interviews clients sur sur YouTube mais ça c'est un
+01:03:27  truc que disait Sam Ovens,
+01:03:28  les gens retiennent beaucoup plus toujours le mal que que le bien,
+01:03:31  vous allez avoir un truc qui ne s'est pas bien passé par
+01:03:33  rapport à tout truc donc ce qu'il faut c'est commencer par
+01:03:35  poser la question de qu'est-ce que j'aurais pu améliorer
+01:03:38  Qu'est-ce sur quoi est-ce qu'on aurait pu s'améliorer, et caetera.
+01:03:40  Il va vider entre guillemets son pub, dire bon, tiens ça,
+01:03:43  ça a pu être bien, ça sera mieux, ça va machin.
+01:03:45  Maintenant, quelles sont les résultats que tu as eu Qu'est-ce qui a été
+01:03:48  bien là elle va pouvoir vous donner de manière apaisée sans
+01:03:50  avoir de la rancœur sur un petit truc tout ce qui a été
+01:03:52  bien et donc de pouvoir garder aussi
+01:03:55  le truc qui n'a pas été bien,
+01:03:56  vous le gardez en interne pour l'améliorer, changer,
+01:03:58  vous pouvez partager les résultats qu'il a Je
+01:04:01  confirme j'avais fait un fois deux sur mon CA,
+01:04:03  mais je m'étais juste arrêté sur le fait qu'il manquait une
+01:04:05  vente pour avoir fait dix cas et Adrien m'a dit mais regarde
+01:04:06  tu as fait tes KPIA et tu as fait foi zéro sur terre.
+01:04:08  Voilà exemple concret Hugo.
+01:04:12  Enfin c'est énorme tu vois,
+01:04:14  c'est et effectivement le fait de qu'Adrien recontextualise ça
+01:04:17  te permet de pouvoir prendre conscience de ton évolution et
+01:04:18  pas de te démotiver aussi tu vois.
+01:04:21  Donc il a bien fait, c'est c'est bien de rire.
+01:04:25  Quels sont les principes premiers sur lesquels tu te
+01:04:27  focus ton business Atquisition produit,
+01:04:30  vente, management, enfin c'est c'est très basique,
+01:04:32  ce n'est que des bases.
+01:04:33  Mais en gros les taux de remplissage sur mon activité,
+01:04:35  les taux de closing,
+01:04:36  les taux de show-up et puis les taux n p s avec les
+01:04:39  améliorations de produits.
+01:04:40  Pour améliorer les relations avec ton équipe,
+01:04:41  penses-tu faire des séminaires vacances dans lesquels vous
+01:04:44  travaillez Je ne suis pas sûr sûr de ça pour la simple et
+01:04:47  bonne raison que mes équipes,
+01:04:48  je pense que s'ils ont du temps à passer en vacances,
+01:04:51  ils préfèrent leur passer avec leurs gosses qu'avec moi.
+01:04:54  Et je pense que manager des équipes,
+01:04:56  c'est aligner les égoïsmes.
+01:04:57  Tu vois Tout le monde est égoïste et il
+01:05:00  ne faut pas s'en cacher.
+01:05:00  Moi je leur dis Léa, je sais très bien,
+01:05:02  vous avez une équipe, vous avez une famille à nourrir.
+01:05:05  Vous bossez pour moi aussi pour l'argent parce que vous
+01:05:07  apprenez des choses, je ne suis pas con,
+01:05:08  je ne suis pas je ne suis pas un nom des bisounours.
+01:05:09  Donc
+01:05:11  par contre quand je fais des mastermind comme le mastermind
+01:05:13  cet été cet été Orion effectivement je l'ai tout fera
+01:05:15  payer, je les ai fait venir.
+01:05:17  Ils ont pu regarder des interventions,
+01:05:18  ils ont pu parler avec des gens,
+01:05:19  ils ont pu même avoir des retours de gens avec qui on a changé la vie,
+01:05:24  ça quand même même si ça bouffe,
+01:05:25  ça ne paye pas les bouffes, ça ne paye pas la bouffe pardon,
+01:05:28  ça donne un sentiment de sens à sa vie.
+01:05:31  Pour t'assurer que ton client implique ce que tu lui dis,
+01:05:32  tu utilises des structures d'accompagnants particulières, on le
+01:05:36  littéralement.
+01:05:36  Non non évidemment on le structure d'accompagnement,
+01:05:39  c'est-à-dire que ce qu'on va faire c'est on va suivre une
+01:05:41  roadmap précise avec des points d'activation comme je vous disais précis,
+01:05:44  ça se fait parce que j'ai j'ai l'impression de parler comme
+01:05:48  quand je fais ça.
+01:05:51  Mais alors quand tu dis structure
+01:05:54  d'accompagnement, c'est point d'activation,
+01:05:55  c'est des call précis, c'est une war map,
+01:05:58  c'est quoi exactement Non attends désolé je je ça
+01:06:01  m'intéresse justement,
+01:06:02  je réponds à la question par une question pour plus de précision.
+01:06:05  Fais-tu parfois des call communs avec tes c s m et tes
+01:06:07  sales pour connecter les deux pôles Non pas spécialement,
+01:06:10  c'est moi le pôle commun en fait.
+01:06:13  Pas parce que je ne veux pas qu'ils connectent,
+01:06:15  mais parce qu'on perdra du temps, pas de besoin.
+01:06:17  Comment tes c s m gèrent tes clients mécontents
+01:06:20  Alors un client qui est mécontent,
+01:06:22  il faut d'abord accepter comme au closing.
+01:06:25  C'est-à-dire que vous n'êtes pas là pour entrer en
+01:06:26  confrontation, ça ne sert à rien.
+01:06:28  Vous acceptez, vous entendez, vous êtes dans l'écoute,
+01:06:29  je comprends parfaitement, ok ça marche.
+01:06:32  Pour qu'on puisse trouver une solution et avancer dans un
+01:06:34  sens comme dans l'autre,
+01:06:35  est-ce que tu peux me dire exactement ce qui n'a pas été
+01:06:38  Et vous notez ok ça marche et là vous commencez à comprendre
+01:06:41  et diagnostiquer la situation.
+01:06:42  Vous posez des questions ok.
+01:06:46  Est-ce que tes c s m gèrent la collecte des paiements en
+01:06:48  plusieurs litiges associés au paiement plusieurs fois Non ça
+01:06:50  c'est exactement mon assistante qui gère ça avec la partie pôle
+01:06:52  comptabilité et le fait que mon assistante
+01:06:54  gère avec le pôle comptabilité des fois ça peut être moi,
+01:06:57  mais le fait qu'on a intrigué un peu le comptable avec une
+01:06:58  personne qui s'occupe en gros de la partie finance machin,
+01:07:01  ça donne aussi une preuve d'autorité externe.
+01:07:04  Ça permet que mon assistante ne se prenne pas tout sur la
+01:07:06  gueule quand on réclame des paiements.
+01:07:08  C'est c'est pas moi, c'est le pôle compta.
+01:07:10  Et eux par contre en l'occurrence ils ont ils ont les droits,
+01:07:12  ils ont les possibilités d'engager des procédures de
+01:07:13  recouvrement s'il le faut donc c'est avec eux qu'ils disent et
+01:07:16  ça permet d'avoir une barrière et de mettre un filtre pour pas
+01:07:18  que le pôle compta soit au contact et que là on met jamais
+01:07:20  de problème ou autre quoi ok même s'il y a rarement des
+01:07:25  problèmes là-dessus.
+01:07:26  Je
+01:07:29  me suis permis d'épingler s'il faut je me désépingle.
+01:07:41  Allez-y les gars si vous avez des questions,
+01:07:43  faites des phrases sujet compléments et let's go, c'est le moment.
+01:07:48  Comment lui donner l'information avec appel vidéo
+01:07:50  message et comment se réorganiser son sujet,
+01:07:51  excellente question.
+01:07:53  On a des messages à l'écrit, processisés,
+01:07:55  des appels hebdomadaires qui leur permettent de pouvoir en
+01:07:57  plus du suivi quotidien pour actif,
+01:07:59  donner des infos dans le dans les appels et d'avoir
+01:08:01  maintenant un système de qui arrive lundi là où en gros en
+01:08:03  fait les personnes auront juste à appliquer des choses qui sont prémâchées.
+01:08:10  À quel point tu penses que ton pricing qui est élevé impacte
+01:08:13  ton taux de closing
+01:08:16  Comment tu parles de mon pricing ou de pricing en
+01:08:19  général c'est-à-dire qui est élevé
+01:08:25  Ah le mien, je ne trouve pas qu'on est élevé,
+01:08:26  je trouve qu'on n'est pas cher.
+01:08:29  D'ailleurs, il faut, on teste des nouveaux prix plus,
+01:08:31  enfin les offres plus chères qu'on teste se vendent plus.
+01:08:34  Donc c'est quelque chose qu'on doit maintenir,
+01:08:35  c'est qu'on teste différents pricing.
+01:08:38  Ça va dépendre encore une fois, ça dépend de ta cible,
+01:08:41  le pricing peut jouer contre ou avec toi
+01:08:45  quelqu'un qui facture trop peu cher c'est louche quelqu'un qui
+01:08:47  facture trop cher c'est compliqué de vendre donc ça va
+01:08:49  dépendre faut trouver juste mieux faut tester c'est comme
+01:08:51  dans tout comme dans les ads quand on est final il faut
+01:08:53  tester les pricing.
+01:08:55  Avec plaisir, super.
+01:08:57  Merci beaucoup Hugo, ça fait plaisir.
+01:08:59  Incroyable, ça fait trop plaisir.
+01:09:03  Comment parfaitement différencier les deux rôles des
+01:09:05  deux principaux profils qui bossent avec moi,
+01:09:08  tâches, affaires, rôles, et caetera,
+01:09:09  différenciation symbiose, c e o, c e o, c e o, c e o, c e o,
+01:09:12  c e o, c e o, c e o, c e o, c e o, c e o, c e o, c e o, c e o,
+01:09:12  c e o, c e o, c e o, c e o, c e o, c e o, c
+01:09:20  Je pense que valeur ça peut être pertinent parce que lui on
+01:09:21  l'a recruté pour un ou plusieurs sites business,
+01:09:24  mais CEO, c'est avoir une une c'est un rôle qui se paye cher
+01:09:28  pour la simple et bonne raison qu'il a une tâche qui est
+01:09:30  rapportement de valeur ou qui peut détruire la valeur
+01:09:32  d'entreprise, c'est-à-dire la prise de décision.
+01:09:34  Et quand vous avez une boîte qui tourne,
+01:09:36  la prise de décision peut vous emmener à Marrakech comme à
+01:09:38  Tokyo.
+01:09:39  Vous voyez c'est le syndrome de l'avion,
+01:09:40  si vous deviez un avion qui part de New York,
+01:09:43  si vous deviez trois pour cent, sa trajectoire,
+01:09:44  il peut atterrir effectivement à Marrakech ou il peut atterrir à Tokyo, voilà.
+01:09:47  Donc petite décision peut tout faire
+01:09:50  peut tout changer, c'est pour ça que CEO particulier.
+01:09:52  C m o, pour moi il a plus un rôle de innovation,
+01:09:56  de le marketing évolue en
+01:09:59  permanence et il y a des trends.
+01:10:00  Et donc le c m o n'est pas forcément quelqu'un qui est
+01:10:03  expert, il doit être un sport marketing,
+01:10:05  il ne soit pas être un génie de marketing,
+01:10:06  il doit coordonner toutes les tâches, toutes les équipes,
+01:10:08  mais surtout il doit être aware de ce qui se passe sur le
+01:10:10  marché et de comprendre l'évolution du marché pour moi,
+01:10:12  c'est surtout ça.
+01:10:13  C'est de quoi le marché en a marre Ok le marché en a marre
+01:10:15  des infopreneurs, bam coaching,
+01:10:16  ok le marché en a marre du coach, on fait quoi Mentoring,
+01:10:19  quel marché en a marre des mentoring, incubateur,
+01:10:21  investissement, j'en sais rien.
+01:10:22  Vous voyez c'est ça, c'est de comprendre,
+01:10:23  c'est comprendre ça, son rôle à mon avis,
+01:10:25  c'est mon humble avis parce que je suis pas encore à des
+01:10:27  millions par an quoi.
+01:10:30  Et le Mathis tac tac tac, je viens de démarquer,
+01:10:33  je vais vite te trouver un sujet,
+01:10:34  pourquoi est-ce que pour toi le livre de sur les gym est mieux
+01:10:36  que One Millionoffer Non honnêtement,
+01:10:39  enfin c'est c'est,
+01:10:41  vous ne pouvez pas vous permettre de faire le choix entre les deux.
+01:10:43  C'est des livres qui sont petits,
+01:10:44  qui ne coûtent rien lire, donc lisez les deux en une semaine.
+01:10:46  Jim Hoffer, c'est un peu plus,
+01:10:48  mais les deux sont très très bons, voilà.
+01:10:50  Penses-tu que le produit de Dan Henry pour voir
+01:10:54  je sais pas j'hésite à le prendre honnêtement j'hésite à
+01:10:56  le prendre mais en vrai ce qui m'intéresse le plus c'est pas
+01:10:59  son système de Paid Presentation parce que c'est
+01:11:01  des webinaires un peu plus long payant enfin c'est pas c'est
+01:11:04  Rossel Brandson qui fait ça depuis sept ans mais c'est de
+01:11:06  voir son système de closing à l'écrit sur des offres à plus de vingt cas.
+01:11:09  Comment est-ce qu'il close des mecs à vingt cas à l'écrit,
+01:11:11  ça ça m'intéresse.
+01:11:13  Donc je verrai si je le prends ou pas.
+01:11:15  Est-ce que tu aurais des fichiers process à me donner
+01:11:17  uniquement pour business OS Je verrai ça avec valeur,
+01:11:19  j'ai pas mal de scans que je peux vous donner des choses que
+01:11:21  vous pourrez uplo directement.
+01:11:23  Conseillère-tu de l'ancienne chaîne YouTube destinée à aider
+01:11:25  une niche dans le domaine physique,
+01:11:26  même si mon expérience est encore limitée,
+01:11:27  je suis convaincu pour apporter un révélateur ajouté.
+01:11:29  Alors on dévie un peu du sujet,
+01:11:30  mais honnêtement et c'est mon avis et c'est voilà.
+01:11:34  Faire du contenu, ça vous apportera du bénéfique surtout.
+01:11:36  Même ne serait-ce que juste documenter,
+01:11:38  ça vous fait une présence en ligne,
+01:11:39  ça augmente la confiance, votre capital sympathie,
+01:11:40  votre capital confiance, votre capital autorité,
+01:11:42  votre capital crédibilité,
+01:11:43  ça vous permet d'avoir plus de rentabilité sur les ads,
+01:11:45  plus de réponses dans les settings.
+01:11:46  De manière générale, des personnes qui peuvent vous
+01:11:48  apporter, d'ouvrir de plus grandes opportunités,
+01:11:49  tu n'auras jamais aucun à faire du contenu.
+01:11:52  Sauf si tu fais des contenus très extrêmes,
+01:11:54  provocateurs et qui peuvent te mettre dans le bain.
+01:11:56  Mais globalement ce truc comme ça, tu n'as aucun de le faire.
+01:12:00  Ok ça marche, ça marche Amine.
+01:12:02  Du coup repose la question s'il y a un truc spécifique,
+01:12:04  mais du coup voilà mon mon oeil là-dessus.
+01:12:06  À propos de livres quels sont les livres qui t'ont le plus
+01:12:08  aidé dans ce parcours entrepreneurial J'ai lu peu de
+01:12:09  livres en vrai,
+01:12:11  je pense que les Dormosies ont une très très belle synthèse
+01:12:15  et après c'est bizarre à dire les livres qui m'ont j'ai j'ai
+01:12:18  lu le livre sur Cybernetics,
+01:12:20  Psychologie Cybernetics c'est super,
+01:12:25  ça vous ancre des biais que vous avez à vie après et des réflexes
+01:12:30  c'est une masterclass sur la relation humaine sur comment
+01:12:32  faire parler les gens d'eux-mêmes et qu'ils aient
+01:12:33  l'impression de c'est les classiques.
+01:12:35  Donc ça, c'est évident que c'est c'est c'est super.
+01:12:39  Mais de manière générale,
+01:12:40  de lire des choses autres que du business,
+01:12:41  de la science-fiction, de la fantasy pour moi,
+01:12:43  ça me permet d'ouvrir ma créativité et d'avoir plus de
+01:12:46  d'idées dans le marketing de manière générale et et donc voilà.
+01:12:52  Tu pourrais me donner vraiment les process où tu diras on
+01:12:54  verra pour repousser une no offense Très bonne question.
+01:12:57  Non non, je vous dirais vraiment alors qu'est-ce que,
+01:12:59  après ça dépend ce que vous donnez comme ce que vous dites comme process.
+01:13:01  Je vous donnerai toutes des notes écrites de Cole Gordon
+01:13:03  durant ce que j'ai sur lesquels je me suis basé pour ce live
+01:13:06  que je passerai à Valère.
+01:13:07  Les process, je ne sais pas ce que tu appelles pas process exact et
+01:13:10  je te dirai si oui ou non je je les ai ou pas déjà et si c'est
+01:13:14  trop perso ou pas, mais mais ce qui est sûr,
+01:13:15  c'est que vous aurez des des supports physiques beaucoup
+01:13:17  plus détaillés encore de ce que j'ai dit que vous pourrez
+01:13:19  relire après le live ou poser et des choses qui sont encore plus poussées.
+01:13:24  Si on trouve par a plus b qu'on va apporter les résultats à son
+01:13:26  client sans créer de confiance au préalable,
+01:13:27  ça se vend quand même.
+01:13:29  Sans créer de confiance au préalable.
+01:13:30  Ce n'est pas trop à toi de fixer ça.
+01:13:34  En fait c'est ton client qui devait dire ce que si tu
+01:13:35  prouves par a plus b mais qu'il n'a pas confiance,
+01:13:37  il passera pas à l'action quand même.
+01:13:40  Donc ton rôle c'est juste de mettre toutes les chances de
+01:13:41  ton côté en essayant de faire un maximum pour créer un
+01:13:43  capital confiance.
+01:13:44  Tu vois Et tu ne peux pas,
+01:13:46  je ne peux pas te dire si oui ou non ça se vend,
+01:13:48  c'est le marché qui ça se vend donc il faut tester.
+01:13:50  Power stratégie, well one nature humaine, green ou goat,
+01:13:53  classique dans le prochain marché, ok intéressant.
+01:13:56  Comment savoir sur quoi lancer un school en étiquette,
+01:13:58  expertise passion et comment légitimité Sur quoi tu es
+01:14:01  curieux Sur quoi tu as envie de le faire Sur quoi tu as une expérience
+01:14:05  sur quoi tu peux te sentir légitime de le faire, tu sais,
+01:14:08  c'est qui dit arrêtez avec votre syndrome de l'imposteur,
+01:14:12  appelez juste de l'inexpérience et commencer par faire des choses.
+01:14:16  Je je je j'ai l'impression d'être à l'imposteur là-dessus,
+01:14:19  mais parce que tu l'es, ce n'est pas grave de l'être,
+01:14:20  il faut qu'on juste, enfin si c'est grave de l'être,
+01:14:22  mais ne le soit pas quoi,
+01:14:24  fais des choses et parle de ces choses-là et do she it et talk
+01:14:26  about them quoi.
+01:14:28  C'est quoi mes tips en productivité
+01:14:31  Je ne suis pas le mec le plus productif sur terre,
+01:14:32  il y a des périodes où je, en fait,
+01:14:33  il y a des périodes comme en ce comme en ce moment où je peux
+01:14:36  bosser vraiment non-stop jusqu'à deux heures du mat et
+01:14:37  je ne suis pas dégoûté et je vais à fond,
+01:14:39  les périodes où j'ai du mal à à me concentrer.
+01:14:41  Là en l'occurrence je reviens à Dubaï rapidement la semaine
+01:14:43  prochaine, mais là je suis en Europe,
+01:14:44  si je fais de l'Europe là depuis quelques semaines,
+01:14:47  en vrai se coucher aux mêmes heures comme dit valeur manger
+01:14:50  des aliments non transformés ça change tout enfin là de
+01:14:53  respirer de l'air frais boire de l'eau
+01:14:56  et d'être concentré sur une sur un objectif très carré au
+01:14:59  persil il a des périodes où j'étais très productif où je
+01:15:02  buvais de la monster, je dormais quatre heures par nuit,
+01:15:04  j'étais à Dubaï, je ne sais pas si j'étais jour ou la nuit,
+01:15:07  mais parce que j'étais ultra drivé.
+01:15:08  En vrai, je pense que c'est surtout une question mentale,
+01:15:10  c'est si vous avez un objectif flash,
+01:15:11  je me suis redonné des objectifs énormes et avec un
+01:15:13  vrai vrai vrai une vraie vision dans le truc,
+01:15:16  je veux faire vingt cas par jour avec une villa sur la
+01:15:17  palme par exemple voilà,
+01:15:20  c'est trop bien, c'est un vrai jeu vidéo ok.
+01:15:22  Donc je pense que c'est plus à tout ça.
+01:15:23  C'est le mec de closer de ouais ouais c'est ça.
+01:15:25  Tu parles souvent sophistication de marché,
+01:15:26  je peux entrer plus en détail.
+01:15:27  Sophistication de marché, c'est le livre,
+01:15:29  c'est l'explication de Eugene Schwartz qui a été réadaptée
+01:15:31  par plein de gens,
+01:15:32  c'est comprendre à quel stade votre marché en a marre ou pas
+01:15:35  de certaines promesses,
+01:15:35  de certains mécanismes et de comprendre à quel point il a
+01:15:38  été exposé à un marketing particulier ou à un type de
+01:15:40  produit pour comprendre en gros où est-ce que vous pouvez vous
+01:15:42  positionner sur une part de marché qui n'a pas encore été exploitée.
+01:15:45  Quelles sont les tendances sur le marché cinquante par les
+01:15:47  valeurs et commis
+01:15:51  J'ai du mal,
+01:15:52  en fait le marché web deux il ressemble un peu plus,
+01:15:54  enfin de plus en plus quand là en ce moment avec l'explosion
+01:15:57  de l'étiquette entre guillemets,
+01:15:58  ça ressemble de plus en plus au web trois où toutes les
+01:16:00  semaines, tous les mois, il y a un cycle qui passe,
+01:16:02  donc ça évolue tellement rapidement,
+01:16:04  je ne saurais pas trop te dire,
+01:16:05  mais je pense qu'on va vers de plus en plus de façon de
+01:16:06  capital confiance avec de la personne brain, ça c'est sûr.
+01:16:09  Qui sont les personnes que tu souhaites avoir dans ton réseau
+01:16:11  et comment tu comptes faire En vrai,
+01:16:15  j'ai beaucoup de personnes que et
+01:16:17  qui me plaisent là,
+01:16:18  en fait moi les personnes de mon réseau c'est personne à qui
+01:16:19  je m'entends bien avec qui je me sens bien et après pour le
+01:16:21  vraiment le réseau pro,
+01:16:23  en vrai vous ne tirez pas trop profit de personnes qui sont
+01:16:25  dans le même secteur enfin.
+01:16:26  Avec Valère on s'apporte de l'info on sait on sait échanger
+01:16:28  des infos des formations des machins des trucs
+01:16:31  mais les personnes qui peuvent vraiment vous sauver le cul
+01:16:33  quand je dis ça c'est des comptables des banquiers des
+01:16:36  avocats des contacts dans les administrations de pays ça
+01:16:39  c'est du vrai réseau alors après oui on connecte,
+01:16:42  on a un groupe par exemple à trois sur différents avec
+01:16:44  d'autres potes, même avec Jérémy Coleman,
+01:16:46  on s'échange de l'info, des trucs sur Tai Lopez.
+01:16:48  C'est bien, c'est de l'optimisation,
+01:16:49  c'est les pourcentages de chiffre d'affaires gagnés,
+01:16:50  mais ce n'est pas des trucs qui pourront faire toute la
+01:16:52  différence si vous êtes dans une situation problématique.
+01:16:54  Ok, à mon sens.
+01:16:56  Selon
+01:16:59  toi faut-il être un expert dans un domaine pour faire de
+01:17:01  nombreux outils de contenu, pas forcément un expert,
+01:17:03  mais d'avoir quelque chose qui vous est propre avec une
+01:17:05  expérience que vous avez pu expérimenter,
+01:17:06  que vous souhaitez partager.
+01:17:07  Il vous suffit juste d'avoir une expérience même si vous par
+01:17:10  exemple, on vous dit vous avez pas besoin d'être un expert,
+01:17:12  vous testez un régime particulier pendant
+01:17:14  quatre-vingt-dix jours et vous dites comment est-ce que vous
+01:17:15  avez eu des impacts sur,
+01:17:16  comment ça a eu un impact sur votre corps Si ça n'a pas eu
+01:17:18  d'impact du tout, partagez-le.
+01:17:20  Vous dites, j'ai testé le régime, je n'en sais rien,
+01:17:22  je n'y connais rien.
+01:17:23  Carnivore pendant quatre-vingt-dix jours et vous
+01:17:25  l'avez vraiment fait, vous avez tout documenté,
+01:17:26  vous avez pris des vidéos, vous êtes pesés,
+01:17:27  vous avez vraiment bouffé que de la viande pour le machin
+01:17:29  avec certains et vous dites, ça n'a eu aucun effet.
+01:17:32  Ça, c'est une information intéressante.
+01:17:34  Ce n'est pas forcément que parce que c'est l'info que c'est une info,
+01:17:39  De dire que ça n'a eu aucune aucun changement sur mon quotidien,
+01:17:43  ça va informer des gens que ce n'est pas forcément nécessaire
+01:17:45  pour eux de le faire.
+01:17:45  S'ils sont comme lui jeune, ça, c'est une info.
+01:17:50  Est-ce que tu as des tips pour faire qu'un client soit super
+01:17:52  content de ton produit de service hormis les résultats que
+01:17:55  tu
+01:17:57  apportes
+01:17:58  Je le dis pour moi c'est communication plus résultats.
+01:18:00  Communication quotidien plus
+01:18:02  résultats.
+01:18:02  Comment tu fais pour avoir et puis Over Deliver si vous
+01:18:04  pouvez dévorer un peu plus avec des surprises,
+01:18:05  c'est encore mieux.
+01:18:06  Comment tu pourrais avoir un bon positionnement sur le marché
+01:18:09  Le meilleur positionnement,
+01:18:10  ce marché il est unique parce que unique n'est pas comparable,
+01:18:13  donc c'est essayer d'avoir un mécanisme qui te différencie de toute ta
+01:18:17  concurrence.
+01:18:18  Le mieux c'est d'avoir un mécanisme marketing donc d'être
+01:18:21  reconnu par un format sur une verticale particulière par
+01:18:23  exemple je ne sais pas format vidéo la manière dont tu le
+01:18:26  fais tu sais que c'est fait comme ça et un format
+01:18:28  délivrabilité avec un spécifique produit.
+01:18:36  Ouais, momentum exactement, ouais, moi, on a une.
+01:18:38  Si je parle d'un don for you en productivité,
+01:18:40  tu t'attend à quoi exactement comme produit comme suivi Un
+01:18:42  don with you Ah bah c'est compliqué parce que la productivité,
+01:18:45  c'est quelque chose que tu t'appliques à toi-même,
+01:18:46  donc c'est compliqué,
+01:18:47  il y a des choses que tu ne peux pas faire aux autres personnes.
+01:18:50  Un don for you en perte de poids, la personne,
+01:18:52  elle a beau courir dix kilomètres,
+01:18:53  c'est toi qui dois aller courir si tu veux perdre du poids.
+01:18:55  Elle ne peut pas aller courir pour toi, tu vois.
+01:18:57  Donc il y a des choses sur lesquelles c'est un peu
+01:19:00  compliqué.
+01:19:00  Est-ce que tu penses faire de l'art ou prévu d'en faire On a
+01:19:02  des youtubeurs qui commencent lundi.
+01:19:04  On a le click funnel est quasiment fait.
+01:19:07  Mon média bailleur, on est en train de record des ads.
+01:19:08  On a YouTube ads, elles sont toujours un peu décalées,
+01:19:10  mais on arrive enfin sur la fin des optimisations et des montages.
+01:19:12  On va tester plein ads lundi après on a fait Meta.
+01:19:14  Oui,
+01:19:17  comment est-ce que je vais me prendre pour attaquer mon
+01:19:18  marchand d'adz Vous verrez,
+01:19:20  on va bien se marrer, je me suis trop marrer,
+01:19:22  c'était trop drôle avec toi.
+01:19:23  Avec qui tu aimerais t'associer pour du contenu pour l'autorité
+01:19:27  Les plus gros du marché,
+01:19:28  de toutes les personnes aux US que je n'ai pas encore
+01:19:30  l'occasion de faire si je passe aussi mon contenu avec Dan
+01:19:33  Henry encore plus avec Ormosi avec des grandes Cardones avec
+01:19:35  des Tai Lopez, c'est encore encore mieux.
+01:19:38  Continuez à faire les plus gros.
+01:19:39  Combien notifier un problème spécifique urgent chez une
+01:19:41  audience pour créer une offre qui s'impose comme une solution incontournable.
+01:19:45  Parler à ton audience, parler à ton audience, ça c'est mieux.
+01:19:49  Moi, si demain j'étais politique et que j'étais maire ou président,
+01:19:53  j'irais et que je voulais vraiment en tout cas plaire
+01:19:55  parce que ce n'est pas forcément ce dont les gens parlent au bar.
+01:19:57  Les problématiques de plusieurs gens,
+01:19:58  je n'arrive pas à composer ça.
+01:20:00  Mais si je voulais plaire à une audience en politique,
+01:20:03  j'irais au PMU m'asseoir cinq à la demi-journée dans une
+01:20:06  semaine et écouter toutes les discussions.
+01:20:08  Il y en a marre des chantiers sur la voix machin, il y a des,
+01:20:14  écoutez les discussions qu'ont les gens et leur poser des
+01:20:16  questions, discuter avec eux.
+01:20:17  C'est eux l'avatar.
+01:20:21  D'ailleurs c'est un peu ce qu'a fait Trump,
+01:20:22  il y en a marre du wokisme, il y en a marre de l'inflation,
+01:20:25  il y en a marre d'aider l'Ukraine,
+01:20:26  c'est ce que disait les gens littéralement partout aux US.
+01:20:30  Tu
+01:20:33  le vois où dans deux trois ans business perso
+01:20:36  Je dois pouvoir prendre ma retraite à vingt-cinq ans,
+01:20:38  ça ne veut pas dire que j'apprendrai mais
+01:20:40  avec plusieurs au moins dix millions après je ne sais pas
+01:20:42  trop en vrai ça, c'est un million de retraite si tu penses.
+01:20:44  Non non non non non non mais au moins dix millions mais vingt
+01:20:47  cinq ans, c'est dans quatre ans et plus.
+01:20:49  Donc j'espère au moins pour moi pour prendre la retraite,
+01:20:51  il faut vingt millions.
+01:20:52  Vingt millions la retraite, ok.
+01:20:54  C'est le minimum pour prendre la retard, ouais.
+01:20:57  YouTube
+01:21:00  ads demande max.
+01:21:02  Pareil, je n'ai pas compris, excusez-moi.
+01:21:03  Pas
+01:21:05  compris.
+01:21:08  Aurélia, c'est une bonne idée, oui, c'est très bonne idée.
+01:21:11  En organique, en organique ou en posant des questions,
+01:21:13  en envoyant des messages, en allant sur les groupes,
+01:21:14  en allant sur les groupes Facebook,
+01:21:15  en allant sur les les profils LinkedIn,
+01:21:17  aller partout et lui poser les questions.
+01:21:20  Quelle est la chose que tu sais vraie que tout le monde pense
+01:21:21  faux ou que je plutôt pense vrai que tout le monde pense
+01:21:23  faux Parce que je ne sais pas si je sais quelque chose qui
+01:21:25  est vrai que tout le monde pense faux, ça serait,
+01:21:26  ça veut dire que j'ai un avantage dans un job.
+01:21:28  Je ne sais pas
+01:21:33  Avec
+01:21:35  le monde des podcasts de l'entrepreneuriat,
+01:21:36  c'est de plus en plus difficile de penser à un truc vrai que
+01:21:39  tout le monde pense faux parce que tout le monde pense un peu
+01:21:40  dans la sphère des choses un peu similaires.
+01:21:46  J'ai, c'est compliqué à prendre conclusion.
+01:21:47  J'ai peur de donner une mauvaise avance.
+01:21:47  Je ne sais pas Je peur de donner une mauvaise avance.
+01:21:52  Je ne sais pas trop.
+01:22:00  Le fait que tout le monde se conditionne mentalement sur les
+01:22:03  pour moi c'est des nouveaux conditionnements sur Dubaï sur
+01:22:06  l'entrepreneuriat en vrai tu fais ce que tu veux ça n'a pas
+01:22:09  trop d'importance c'est bien de faire l'argent faire de
+01:22:11  l'argent mais en vrai tu vis où tu veux tu fais ce que tu veux
+01:22:13  ta vie on est un peu matrix avec le marketing et j'en fais
+01:22:16  partie il faut faire plus d'argent vivre à Dubaï machin
+01:22:19  s'expatrier oui c'est vrai alors barrer la,
+01:22:20  barrer la France c'est un minimum mais je veux dire après
+01:22:23  dans le monde il y a plein d'autres endroits qui sont sympas,
+01:22:25  il y a plein d'autres manières de vivre qui sont sympas et
+01:22:27  j'ai rencontré des jeunes qui sont jeunes et vraiment riches
+01:22:30  et qui vivent de manière très très très très cool de plein de
+01:22:32  manières différentes avec plein d'approches différentes donc en
+01:22:35  en vrai il ne faut pas se prendre au sérieux et il faut
+01:22:37  se rappeler qu'on est dans une simulation de toute façon donc
+01:22:41  comment approcher des personnes du gabarit doucement moi je lui
+01:22:44  envoie un message sur Instagram il m'a répondu.
+01:22:49  Qu'est-ce
+01:22:51  quelque chose tu fais que
+01:22:53  personne ne fait que tu sais que ça va me faire de venteage
+01:22:56  Prendre du crack.
+01:22:58  Non
+01:23:00  honnêtement je ne sais pas
+01:23:05  Qu'est-ce que je fais
+01:23:08  J'essaie de me former une heure par jour pour avoir toutes les
+01:23:10  infos sur le marché et vu que c'est un game d'information
+01:23:13  comme dirait Luc Belma ou Tell Lopez, No Lage,
+01:23:16  C'est celui qui a le plus d'infos qui gagne,
+01:23:18  en tout cas l'info la plus pertinente sur un secteur spécifique.
+01:23:20  Vu que moi je vends de l'information,
+01:23:21  c'est normal que je me forme une heure par jour et trop peu
+01:23:23  de gens encore consomment l'information pour moi.
+01:23:26  Ce n'est pas très basique, c'est un truc plus basique,
+01:23:29  J'aime bien les coachings et les échecs pour l'instant je fais tout solo,
+01:23:31  ça serait quoi le seuil où je commence à déléguer la partie
+01:23:32  durabilité À partir du moment où ça trompe plus de quarante
+01:23:34  pour cent de ton temps.
+01:23:35  Parce que ce qui me fait peur,
+01:23:36  c'est le problème que je résous stagnation d'échec pour me la réhabiliter.
+01:23:38  Donc pour moi plus de quarante pour cent de ton temps foutu délègue.
+01:23:40  C'est c'est quoi ton pourquoi Pourquoi est-ce que je
+01:23:42  travaille à faire tout l'argent être vraiment libre,
+01:23:44  passer du temps avec mes proches et explorer ma
+01:23:46  créativité à travers mon travail.
+01:23:48  C'est trois piliers de pourquoi est-ce que je veux bosser aujourd'hui.
+01:23:51  Quelle chose tu fais que personne auquel ça j'ai répondu,
+01:23:53  elle valait et Bran nous est arrivée comme les mousquetaires
+01:23:55  info pendant hier.
+01:23:56  Ouais je ne sais pas, mais peut-être.
+01:23:59  Mais comment est-ce que tu fais pour avoir une distance de
+01:24:01  trois ans sur la concurrence Je ne sais pas si j'ai une
+01:24:03  distance de trois ans sur la concurrence.
+01:24:04  C'est la première question à se poser,
+01:24:05  je n'ai pas l'impression.
+01:24:07  Mais
+01:24:10  ouais, OK
+01:24:19  David
+01:24:29  À trois-mille euros quatre-vingt-dix jours avec une
+01:24:30  garantie de remboursement intégrale, une fois que mes clients
+01:24:33  sont satisfaits que j'ai livré ces étapes,
+01:24:35  vous prendrez vous clients signés en quatre-vingt-dix jours,
+01:24:37  j'aimerais leur proposer une offre supplémentaire d'obsels
+01:24:39  quand on est inscrit à l'activité.
+01:24:40  Ok,
+01:24:42  sachant que dans le lit juridique,
+01:24:43  je parle également la possibilité de rémunérer
+01:24:45  directement au résultat, donc de rendez-vous clients signés,
+01:24:47  comment est-ce que puis soutenir une offre d'upsell
+01:24:48  personne dans vos avocats,
+01:24:49  ça peut modifier au pricing de l'offre.
+01:24:52  Compliqué.
+01:24:53  Tu ne fais pas au résultat,
+01:24:56  C'est simple, tu mets un fixe plus plus cher.
+01:25:00  Ce que dit Colgordon,
+01:25:00  le meilleur manière de faire justement Colgordon avec les
+01:25:02  obscelles, vous voulez faire un obscel très simple.
+01:25:04  Vous vendez deux fois la perte de l'accompagnement pour deux fois le prix.
+01:25:07  Vous avez un accompagnement de quatre-vingt-dix jours pour
+01:25:09  trois mille euros,
+01:25:10  tu vends cent quatre-vingt jours pour six mille euros.
+01:25:13  Tu as de la confiance, tu tu revends.
+01:25:16  L'autre manière de faire, ce serait de faire un mastermind.
+01:25:19  Bryan, mon cadeau aux US, il a rien,
+01:25:20  il a une offre en don for you pour YouTube,
+01:25:22  il a basculé en don with you, il avait une offre super,
+01:25:25  il a encore quelques don for you.
+01:25:26  Il a ensuite sur un mastermind qui s'appelle Ad Men qui vend à
+01:25:29  quinze mille euros et ça marche super bien.
+01:25:31  Voilà il a des,
+01:25:31  il a des fois il vend deux jours seulement à cinq euros,
+01:25:33  mais à cinq mille euros mais voilà.
+01:25:35  Donc mastermind avec des groupes d'avocats où ils
+01:25:36  peuvent avoir des informations exclusives ou tout simplement
+01:25:38  tu ne prends pas la tête, tu prends mon chat accompagnement.
+01:25:41  À partir de combien tu commences à faire des leads
+01:25:42  qualifiés sur YouTube À partir de la première vidéo.
+01:25:46  Quels sont les modèles jeunes des US
+01:25:48  Ah tes modèles jeunes US.
+01:25:50  Moi j'aime bien Breiz Scale aux US,
+01:25:52  je trouve qu'il a une approche assez sexy.
+01:25:54  C'est un jeune qui est qui est pas mal.
+01:25:56  Et après les jeunes aux US, je ne regarde pas trop,
+01:25:58  je regarde plutôt
+01:26:00  les les les Tai Lopez, les Saint-Mohenz et caetera.
+01:26:03  Enfin je regarde plus les jeunes aux US, tu as raison,
+01:26:05  ça serait ça serait vraiment intéressant de regarder ce qui se fait.
+01:26:09  Qu'est-ce que vous pensez en qu'en plus d'un secteur on voit
+01:26:10  des emails Shopify puisqu'on email au petit général quoi le jour.
+01:26:18  Ah oui c'est automatique vraiment
+01:26:21  l'email après la prise au rendez-vous.
+01:26:24  Tu as même SMS, il s'appelle comme ça Breizh Scale.
+01:26:30  Nous, on a eu des séquences pour maximiser le show up avec des
+01:26:33  quinze minutes, une heure avant les call, et caetera.
+01:26:37  Bombardé ça.
+01:26:38  Moi j'avais ça aussi sur go et level avant et quand je passe sur éclose,
+01:26:41  il m'a donné les stats qu'il est sur éclose et il testait
+01:26:44  lui aussi beaucoup il avait dix appels avant en l'espace de
+01:26:46  trois jours tu vois enfin dix appels dix emails pardon il est
+01:26:49  passé à un email à la confirmation et un email avant
+01:26:52  avec un SMS et ça convertis encore mieux.
+01:26:54  Donc je suis passé sur ça et ça convertit encore mieux en termes de.
+01:26:57  Donc c'était intéressant avant j'en avais énormément et
+01:26:59  maintenant je n'ai quasiment plus.
+01:27:01  Enfin j'en ai quelques trucs très très peu quoi.
+01:27:03  C'est quoi tes exemples Dis pour qu'au début tu faisais
+01:27:05  quoi sur ton ordi Formation beaucoup,
+01:27:09  tu testes beaucoup de trucs au départ,
+01:27:10  tu pars un peu dans tous les sens,
+01:27:11  tu as beaucoup de tâches éclatées et caetera,
+01:27:12  tu n'arrives pas trop à prioriser,
+01:27:14  mais beaucoup de formations et beaucoup de tests sur le marketing.
+01:27:22  Quels sont les mecs que je suis de près aux US, Cole Gordon,
+01:27:24  Tai Lopez, Charlie Morgan, Ryan Mokada, l'état de marché.
+01:27:28  En vrai tout ce que vous pouvez voir sur le YouTube US classique.
+01:27:31  Si tu devais partir dès aujourd'hui,
+01:27:32  quels sont tes stratégies sont compétences actuelles pour
+01:27:34  faire zéro à dix quinze quand on est joueur
+01:27:38  C'est, ouais je te jure.
+01:27:44  Je vendrais un service, pas un produit,
+01:27:49  je ferai une offre hardcore avec une grosse garantie que je
+01:27:53  n'ai rien à perdre.
+01:27:55  Et après, franchement,
+01:27:57  aller voir des vidéos zéro à zéro dix-quatre en
+01:28:00  quatre-vingt-dix jours sont plus pertinentes encore.
+01:28:02  Mais je ferai une offre dans le service avec une offre,
+01:28:05  une vraie offre irrésistible.
+01:28:07  Un truc dans le sens.
+01:28:09  Bonne offre en étiquette en make money,
+01:28:10  conseil d'éviter les présentations settings et pour le copywriting.
+01:28:13  Non, tous les, tous les funnels marchent.
+01:28:14  Ça dépend juste de à quel point est ouvert ta cible.
+01:28:17  Comment est-ce que tu as l'habitude de fonctionner,
+01:28:17  est-ce que ça marche avec toi,
+01:28:19  est-ce que tu as besoin de plus tutoyer et quelle est ta ton
+01:28:21  ton de marché.
+01:28:24  Si ton marché est très aware et connaît ton contenu,
+01:28:26  moi typiquement je n'ai pas de page de vente parce que mon
+01:28:28  marché est aware, mon contenu qu'une page de vente à mon
+01:28:31  sens, la ferait plus chic qu'autre chose.
+01:28:32  Ils préfèrent arriver sur un formulaire,
+01:28:33  ne pas perdre de temps,
+01:28:34  remplir trois questions et prendre un appel, voilà.
+01:28:38  Pour revenir sur la question d'email avant le call,
+01:28:39  tu penses quoi faire un email,
+01:28:40  un mail de chauffe avant le call ou on partage à aux autres
+01:28:41  clients Oui, oui bien sûr, mais nous on a même plus que ça,
+01:28:43  c'est-à-dire qu'on a une cinq pages quand ils bouclent le
+01:28:45  call, ils tombent sur un client client
+01:28:49  et ils tombent sur le school avec des résultats clients.
+01:28:51  Et par ce groupe WhatsApp, il fait mon closer,
+01:28:53  maintenant ils envoient aussi des des liens vers une page de
+01:28:56  résultats clients.
+01:28:57  Quel process dater pour délivrer correctement un
+01:28:59  service de coaching Alors justement on revient dans
+01:29:01  le passé, c'était tout le sujet du live.
+01:29:03  Donc tu as l'enregistrement
+01:29:05  à ce propos-là, c'est tout le process que je viens de donner avec les c s m
+01:29:09  c s m.
+01:29:11  Tu penses que parce que tu étais seul dans ton marché qui
+01:29:13  a partagé le plus value.
+01:29:15  Tu penses que parce que tu étais le seul dans ton marché
+01:29:17  qui a partagé le plus de value et je pense par rapport à quoi
+01:29:20  pardon excuse moi.
+01:29:21  Je pense déjà que tu n'étais pas le seul dans ton marché.
+01:29:23  Oui, alors déjà première chose,
+01:29:24  je n'étais pas tout seul dans le marché,
+01:29:26  mais je n'ai pas compris le sens de la question.
+01:29:29  Mais je n'étais pas le seul du tout du marché.
+01:29:31  Ouais, en gros,
+01:29:32  tu étais celui qui partageait le plus de valeur quoi.
+01:29:35  Et c'est pour ça que tu as réussi, je pense
+01:29:37  ça.
+01:29:37  Ok, je ne sais pas.
+01:29:38  Non, c'est juste parce que c'est un format qui a bien matché
+01:29:41  au bon moment, au bon endroit aussi.
+01:29:43  Je pense qu'il y a une grosse question de timing parce qu'aujourd'hui,
+01:29:45  beaucoup de gens essaient de faire le format avec lequel même moi,
+01:29:49  j'ai fonctionné un peu vraiment value brute sans queue trop et
+01:29:54  je pense que tu en penses toi moi j'ai l'impression c'est un
+01:29:56  peu light en fait j'ai l'impression on a pris un peu la vague
+01:30:00  toi et moi sur le marché français.
+01:30:05  Alors après il y a aussi un autre truc, c'est que
+01:30:09  ouais non si je te raconte et c'est que les gens enfin moi
+01:30:12  quand je regarde un peu ce qui s'est sur le marché,
+01:30:14  en vrai de vrai les gens ils reprennent
+01:30:17  vraiment des fois bêtement sans vraiment donner la valeur quand
+01:30:20  les gens pensent donner de la valeur parce qu'ils font une
+01:30:21  vidéo de quarante minutes en expliquant mes méthodes mais il
+01:30:24  n'y a rien de personnel ils donnent pas vraiment quelque
+01:30:25  chose qui leur est propre enfin c'est enfin tu vois il y a il y
+01:30:28  a faire des vidéos aux valeurs et faire des vidéos aux valeurs
+01:30:29  aussi je trouve quoi c'est que s'il suffit pas de
+01:30:33  faire un format value à cette ou comme toi tu as pu faire
+01:30:36  enfin format raw pour faire un format raw et que ça va marcher
+01:30:40  c'est parce que tu as une crédibilité sur le marché parce
+01:30:42  que tu as il y a plein d'éléments qui font autre que ça,
+01:30:44  ça c'est juste la forme et les gens reprennent juste la forme.
+01:30:50  Avec plaisir, c'est trop cool.
+01:30:51  Tu lances une campagne de en remarketing,
+01:30:54  on refait remarketing Google Ads,
+01:30:57  on a pris l'audience de de ma chaîne et on commence
+01:30:59  sur le retargeting tranquillement, tout doucement.
+01:31:04  C'était par rapport à partir de combien tu commençais à faire
+01:31:05  des leads qualifiés dessus.
+01:31:06  Moi c'était encore une fois ma première vidéo et je pense
+01:31:08  parce que c'était ma ma vidéo vraiment même aujourd'hui elle
+01:31:12  est toujours pertinente,
+01:31:12  ma première vidéo sur YouTube elle est ultra pertinente.
+01:31:15  Si vous voulez avoir la clarté sur les trois manières de faire
+01:31:17  de la question à l'étiquette,
+01:31:18  vous allez regarder ma toute première vidéo sur YouTube avec
+01:31:20  la croissance mécanique, la croissance inertie,
+01:31:21  la croissance CC,
+01:31:23  enfin je l'applique toujours actuellement dans mon business.
+01:31:28  Alors je ne suis pas spécialisé l'auto ticket,
+01:31:31  il doit avoir des raisons spécifiques,
+01:31:32  c'est normal d'avoir des blocages,
+01:31:34  nous nos clients sont pleins aussi,
+01:31:37  c'est une opportunité de faire encore plus de croissance donc
+01:31:39  il faut regarder je pense avec Valère ou de manière générale,
+01:31:42  poser plus de questions.
+01:31:45  Je suis coincé dans la conversion dans mon lot ticket
+01:31:47  de high sur mon school.
+01:31:50  Je sais, tu n'as pas de réponse.
+01:31:52  En fait, les gens, des fois,
+01:31:52  ils pensent qu'ils ont un problème de ou de setting ou de
+01:31:54  process de sales, alors qu'ils ont un problème de marketing,
+01:31:56  de visibilité et de confiance.
+01:31:59  C'est-à-dire que le même message de setting envoyé par
+01:32:03  Alex Hormosi ou un inconnu, j'extrapole dans la rue,
+01:32:07  je ne pas y répondre de la même manière,
+01:32:08  un inconnu je ne peux pas lui répondre du tout,
+01:32:10  même s'il m'envoie un émoji crotte, je lui réponds,
+01:32:12  est-ce que c'est Ramboz Non mais c'est vrai parce que c'est Ramboz,
+01:32:15  c'est vraiment toi parce qu'il a un excellent marketing,
+01:32:18  qu'il a une super visibilité, qu'il a la capital confiance, et caetera.
+01:32:20  Donc c'est aussi ça et surtout ça des fois.
+01:32:24  Pour créer des s o p,
+01:32:25  tu utilises toujours la même framework,
+01:32:26  si oui tu utilises le s o p s'il te plaît.
+01:32:28  Est-ce que je peux envoyer une vidéo YouTube ou pas dans le
+01:32:30  chat parce que j'ai tout été en dessous.
+01:32:31  Ouais vas-y vas-y.
+01:32:33  Franchement sinon vous devez avoir des valeurs,
+01:32:34  vous avez fait des process j'imagine des s o p qui sont
+01:32:38  qui sont super avancés,
+01:32:39  je vais voir si je l'ai là sinon je parle,
+01:32:41  je vais en faire la valeur après, on verra, attends.
+01:32:50  C'est, tac.
+01:32:54  C'est cette vidéo là pour les s o p.
+01:32:58  J'ai cinq personnes dans mon groupe qui n'ont pas acheté mon
+01:33:00  l'étiquette, mais qui n'arrivent pas convertir en rails.
+01:33:02  Ok, s p. Ça doit être, ça va essayer que ça va être ajouté.
+01:33:13  Même moi il y a plein de trucs sur lequel je dois ajouter dans
+01:33:15  mon school, j'ai pas le temps avec les boutons de marché.
+01:33:21  C'est ouais.
+01:33:23  Selon toi, c'est quoi un contenu de valeur Perso j'ai conçu cette formule,
+01:33:26  tu en penses quoi Quelle était du contenu,
+01:33:28  il faut dire raison du prospect, il faut nouveau,
+01:33:30  ouh là là, l'équation.
+01:33:35  Quelle est le sentiment de l'égal,
+01:33:36  raison du prospect fois nouveauté dans le proche, ok,
+01:33:40  plus créer des messages fois contexte application fois impact temporel.
+01:33:45  Plutôt du coup au plus au lieu d'impact en proche,
+01:33:47  je mettrai Activability dans les vingt-quatre ou
+01:33:49  quarante-huit prochaines heures,
+01:33:50  mais c'est ce que tu veux dire, c'est une excellente équation.
+01:33:58  Comment tu utilises l'URL dans ton business Assez peu,
+01:34:00  j'utilise pour mes ads.
+01:34:03  On est en train de regarder s'il y a un l l m qu'on peut
+01:34:04  former sur les infos que j'ai données pour qu'il puisse avoir
+01:34:06  encore plus de leur activité que les c s m et faire un
+01:34:09  support réactif et les c s m seront uniquement support
+01:34:11  proactif comme fait Col Borden.
+01:34:13  En gros il y a un channel spécifique,
+01:34:15  la personne pose la question,
+01:34:16  elle a des réponses avec moi mes informations
+01:34:19  mais pour l'instant je n'ai pas tellement de ça alors après il
+01:34:20  y a elle est un peu plus de plus en plus partout dans les
+01:34:23  sas que vous utilisez dans tous les trucs là,
+01:34:25  mais elle n'est pas ultra intégrée pour l'instant.
+01:34:29  Vu que c'est un business très coaching et tout,
+01:34:31  ce n'est pas les business où c'est plus facile d'intégrer
+01:34:32  l'IA au départ, il y a plein de business plus facile.
+01:34:35  Tu penses que les gens qui ont un manque de capital de
+01:34:36  confiance par rapport à ouais complètement,
+01:34:38  ouais c'est ça Jonathan, je pense que c'est vraiment ça.
+01:34:42  Est-ce que tu fais de l'email marketing pour booker plus de
+01:34:43  cours Si oui comment J'ai lancé une newsletter là sur mes
+01:34:46  réseaux récemment, je n'ai pas fait beaucoup de rentrées,
+01:34:48  j'ai fait rentrer cinq-cents personnes,
+01:34:49  donc on va commencer de plus en plus l'email marketing.
+01:34:55  C'est que Alex ne doit pas être assez pertinent que ton offre
+01:34:57  ne fait pas assez envie.
+01:34:59  Si les gens ne prennent même pas de temps de consommer et
+01:35:01  d'interagir sur votre contenu gratuit,
+01:35:02  ils ne prendront pas du tout le temps pour acheter votre offre payante.
+01:35:06  Votre contenu est votre première offre,
+01:35:07  c'est votre offre gratuite.
+01:35:09  C'est l'offre qu'ils payent avec leur temps,
+01:35:10  avec leur attention.
+01:35:11  Soyez sûrs qu'ils payent avec leur temps et leur attention
+01:35:13  avec beaucoup de de temps d'attention.
+01:35:16  Mes conseils là-dessus de filmer huit prochaines vidéos à l'avance.
+01:35:18  Les programmes, huit, c'est peut-être un peu beaucoup.
+01:35:20  Ça va être se déconnecte un peu du du timing et du momentum.
+01:35:23  Deux ou trois c'est bien.
+01:35:25  Les programmes tu vas automatiquement être en
+01:35:26  particulier si je veux que tu connais tableau blanc avec
+01:35:28  format principal exemple de de de de de personnel.
+01:35:34  Il faut que tu regardes le format dans lequel tu as tu as
+01:35:36  l'impression d'apporter le plus de valeur et ce qui marche le plus.
+01:35:40  Par exemple j'ai un ami à Sanders stage, il a formé,
+01:35:42  il a testé plein de formats et il a vraiment avec sa sous-là
+01:35:45  qui fait exploser le format,
+01:35:45  puisqu'il a une vidéo qui a fait qui a pété à trois cent
+01:35:48  soixante-huit-mille vues alors qu'il y a une chaîne YouTube à
+01:35:49  cinquante-mille vues et qui a vraiment tout le monde s'est
+01:35:51  mis à faire des vidéos derrière même Yumi vu que lui en faisait
+01:35:54  du coup il sait bien faire.
+01:35:55  Donc il faut juste tester différentes choses.
+01:35:56  YouTube c'est pas grave.
+01:35:57  Une vidéo ne marche pas de toute façon si ça ne marche pas
+01:36:00  c'est par définition pas que personne ne l'aura vu.
+01:36:01  Donc vous en foutez, vous pouvez reposter le lendemain,
+01:36:03  elle marchera peut-être.
+01:36:04  Donc la meilleure des choses, c'est de tester,
+01:36:06  d'y aller comme des bourrins.
+01:36:07  On n'a pas la science infuse,
+01:36:09  on peut vous induire sur des techniques,
+01:36:11  mais la meilleure chose c'est de tester et de voir comment le marché réagit.
+01:36:14  Si je m'étais posé la question sur mon point de vue de savoir
+01:36:16  si ça ça allait marcher plutôt qu'une de face cam plutôt
+01:36:18  qu'une vidéo avec montage et que j'aurais attendu six mois
+01:36:20  de plus pour poster la vidéo,
+01:36:21  j'ai un peu j'aurais eu aujourd'hui.
+01:36:25  Ouais donc oui tu peux faire la data sur l m o bien sûr.
+01:36:27  Comment est-ce que tu gères les c t a entre une newsletter sur
+01:36:30  YouTube Je fais quatre-vingt,
+01:36:32  quatre-vingt-dix pour cent de valeur,
+01:36:33  dix à vingt pour cent de c t a, j'essaie de mettre de de,
+01:36:36  le marketing c'est trouver l'équilibre juste et la
+01:36:38  friction entre le fait de donner de la valeur,
+01:36:39  d'apporter la valeur,
+01:36:40  de créer de la connexion et de faire des vers la vers la vente.
+01:36:45  Tu penses que la format vlog et le format value sur YouTube
+01:36:48  pour pour le moment pour commencer Ouais complètement,
+01:36:50  pourquoi pas Assure-toi juste que ça tire
+01:36:53  les bonnes personnes.
+01:36:54  Merci quel est ton indicateur pour te dire ok ce format est top,
+01:36:58  s'il me rapporte des leads Parce qu'en fait mon indicateur
+01:37:01  numéro un c'est le cash.
+01:37:03  Je préfère faire une vidéo qui fait cinq-cent vues et qui me
+01:37:04  rapporte cinquante-mille balles,
+01:37:05  une vidéo qui en fait cinquante,
+01:37:07  mille vues qui me rapporte cinq-mille balles.
+01:37:08  Donc je ne suis pas influenceur,
+01:37:09  je suis entrepreneur,
+01:37:10  j'essaie vraiment de former là-dessus même si des fois ça
+01:37:12  fait mal à l'égo.
+01:37:12  Parce que je sais que je vais poster des vidéos qui vont être plus techniques,
+01:37:14  par exemple des études de quatre grandes cadeaux de
+01:37:15  Thermosi, je vais faire, je sais que je fais un moins de
+01:37:17  vue, c'est moins putaclic, c'est moins mass market,
+01:37:20  effectivement c'est sûr je fais un point de vue,
+01:37:21  par contre ça bout des échos très qualifiés et j'ai close
+01:37:23  des offres à quinze, vingt cas comme ça.
+01:37:24  Donc c'est ça que je regarde,
+01:37:25  même si des fois il faut il faut savoir décorréler de ça de de son égo.
+01:37:32  Sur le closing tu joues plus sur l'émotion plus de plus de
+01:37:34  manière cathénésienne, c'est un mix de rationnel émotionnel.
+01:37:37  Si tu es trop rationnel,
+01:37:38  tu n'arriveras pas à close dire en one cold close.
+01:37:39  Si tu es trop émotionnel,
+01:37:40  la personne raisonnement arrive un après parce qu'elle a pris
+01:37:42  de mauvaises décisions.
+01:37:43  Donc il faut faire les deux, il faut un petit peu des deux.
+01:37:45  Tout est une question d'équilibre dans la vie.
+01:37:47  Tout est, le poison est dans la dose,
+01:37:49  dans tout ce que vous faites.
+01:37:50  Quelle est ta douleur qui te demande le plus dans ton business
+01:37:53  Moi,
+01:37:55  plus d'argent et il me coûte plus d'argent encore.
+01:37:58  Non non, il m'en faut qu'on passe à vingt à trente cols par jour.
+01:38:02  C'est pour ça qu'on lance les ads pour passer de dix à vingt
+01:38:04  à trente à quarante.
+01:38:06  Qu'est-ce qu'un vrai contenu sans c t a est un contenu perdu
+01:38:08  Est-ce qu'un vrai contenu sans c t a est un contenu perdu Non,
+01:38:11  un contenu sans c t a crée de la confiance en compte sans c t
+01:38:13  a augmente ton capital autorité crédibilité et il te
+01:38:17  servira dans une prochaine vidéo ou dans un prochain
+01:38:18  contenu tu feras un c t a rien au contraire pas du tout,
+01:38:21  c'est pas du tout le monde perdu.
+01:38:25  Pour toi c'est mieux d'avoir des s o p pour te former des
+01:38:27  players ou recruter des players, recruter des players.
+01:38:29  Si mettez trois personnes super intelligentes dans une pièce et
+01:38:31  que vous leur donnez un problème une problématique spécifique,
+01:38:33  au bout de trois jours pour vous ressortir le problème.
+01:38:35  Alors que si vous donnez,
+01:38:36  vous mettez trois imbéciles dans une pièce avec un problème spécifique,
+01:38:38  vous devrez rajouter des s o p tous les jours pour essayer
+01:38:40  d'aller faire quelque chose qui marche.
+01:38:42  Donc l'idéal c'est de faire des bons soppy pour ne pas que la
+01:38:44  personne s'écarte trop de votre étoile du Nord,
+01:38:47  mais quand même d'avoir des personnes qui sont ultra pertinentes.
+01:38:50  Combien de jours maximum dans le futur pour laisser un lead réservé,
+01:38:53  créneau d'appels Le mieux c'est de me laisser trente-six heures
+01:38:55  si vous permettez.
+01:38:56  Si vous n'avez pas de créneau à trente-six heures,
+01:38:57  rajoutez des jours.
+01:38:58  Mais plus court, c'est mieux c'est.
+01:39:01  Quelles sont les erreurs fréquentes quand tu remarques
+01:39:02  dans la déverrouiller en étiquette
+01:39:04  Un manque de structure sur la c s m, les gens en général,
+01:39:07  ils ont une super et une très mauvaise et ils n'ont pas
+01:39:09  compris qu'ils pourraient faire encore plus d'argent en c s m qu'avec une.
+01:39:12  Ce n'est même pas par bonds, tu es chrétienne ou par charité,
+01:39:13  c'est juste pour faire plus de thune,
+01:39:15  mais pour faire plus de thune,
+01:39:16  il faut avoir des clients satisfaits.
+01:39:17  Tu génères combien de call par mois en moyenne
+01:39:19  Deux-cent-soixante-dix, deux-cent-quatre heures,
+01:39:22  Ça va dépendre des mois.
+01:39:23  Quel est le process quand la personne refuse la vente
+01:39:26  Lui envoyer des vidéos YouTube sur WhatsApp pour qu'elle
+01:39:28  continue à rester dans le process et la follow plus tard.
+01:39:31  SOP, c'est système d'opération procédure,
+01:39:33  c'est une opération anglaise pour dire que c'est un process
+01:39:35  qui permet d'écrire tous les éléments comme si c'était un
+01:39:37  gosse de cinq ans et que la personne puisse avoir toutes les étapes.
+01:39:41  Est-ce que tu conseilles forcément le paiement téléphone
+01:39:42  pour le closing Si c'est une offre en dessous de six-mille euros,
+01:39:44  c'est faisable en one cold close et donc je le conseille oui.
+01:39:47  Tu penses quoi que le plus important sur YouTube c'est de
+01:39:49  connaître sa cible pour le deuxième pour cent.
+01:39:50  Le plus important sur YouTube c'est de faire un contenu
+01:39:52  vraiment qualitatif pour que la personne ne reste pas sur un mauvais goût.
+01:39:54  Si la personne tombe sur une nouveau vidéo et tombe sur une
+01:39:56  mauvaise vie vidéo,
+01:40:00  elle risque de ne pas revenir.
+01:40:04  Ok, quelle stratégie pour augmenter son shwap et d'augmenter
+01:40:06  l'endocrinisation sur la thank you page
+01:40:08  Le shwap, c'est très simple,
+01:40:10  c'est contacter immédiatement la personne par WhatsApp,
+01:40:11  avoir une thank you page pour la faire confirmer le le Gmail
+01:40:14  calendar sur son calendrier,
+01:40:16  parce que si elle le met dans son calendrier avec un rappel
+01:40:17  sur son iPhone, elle ne se présentera.
+01:40:19  Lui envoyer SMS plus email avant et voilà.
+01:40:24  Si elle a sur son calendrier que vous avez créé un groupe de
+01:40:26  ça et qu'elle a des SMS plus email,
+01:40:28  ça va le faire.
+01:40:31  Juste dans cinq minutes fois, j'ai préparé mon ex-appel,
+01:40:33  donc j'ai encore cinq, cinq minutes, ça ne marche pas.
+01:40:36  Ok.
+01:40:39  Objectif future private equity, je n'en suis pas encore là.
+01:40:41  Je j'ai tendance à être trop,
+01:40:44  à trop envie de lancer de nouveaux projets,
+01:40:46  je me concentre à ce qu'elle est mon business à vingt-quatre
+01:40:48  par jour et après on verra.
+01:40:50  Avec une offre à deux cas déjà existante,
+01:40:51  prouver que full proof si je relance massivement
+01:40:53  mécaniquement les contenus,
+01:40:53  je dois viser quoi comme chiffres en termes de nouveaux
+01:40:55  leads par semaine,
+01:40:55  le jour pour atteindre les dix cas rapidement.
+01:40:57  Ça dépend en tout cas.
+01:40:58  Si tu veux faire un million d'euros par an,
+01:41:00  ça fait quatre-vingt-trois-mille euros par mois.
+01:41:01  Admettons que tu aies une offre à deux cas cinq,
+01:41:03  quatre-vingt-trois-mille euros par mois, ça fait
+01:41:05  deux-mille-sept-cent-soixante-dix-sept
+01:41:07  euros par jour.
+01:41:08  Si tu as un taux de closing à vingt pour cent,
+01:41:09  il faut compter, allez vingt pour cent tu as dix calls,
+01:41:13  tu as soixante-quinze pour cent de cash collectés,
+01:41:16  tu as quatre-vingts pour cent de, un bon taux de,
+01:41:18  donc tu as huit personnes qui se présentent par jour.
+01:41:20  Tu as en gros une virgule cinq personnes qui closent sur une
+01:41:23  offre à deux, donc il faut douze calls par jour,
+01:41:26  sept jours par semaine, mais vingt pour cent c'est faible,
+01:41:29  deux cas cinq c'est faible pour faire quatre-vingt-trois-mille euros par mois.
+01:41:33  Donc moi je te conseille d'avoir plutôt une offre à
+01:41:35  quatre-mille, enfin ça dépend, mais toi tu vois tu fais le,
+01:41:39  tu prends en compte taux de cash, taux, taux, nombre de call,
+01:41:41  closing et tu regardes le nombre de call go dont tu as besoin par jour.
+01:41:43  Tu te bats sur des statistiques.
+01:41:45  Est-ce que tu conseilles de se faire coacher Oui,
+01:41:47  mais finalement, elle vous permet de gagner du temps.
+01:41:50  Vous pourrez avoir des mauvaises expériences,
+01:41:51  j'en ai eu et ce n'est pas grave.
+01:41:53  C'est la, c'est la vie, on s'en fout.
+01:41:57  Enfin vous perdez rien en vrai, perdre de l'argent.
+01:41:59  Moi j'ai j'ai payé trois mille dollars trente minutes avec Tai
+01:42:01  Lopez.
+01:42:01  En réalité j'en ai eu que quinze parce qu'il était sur
+01:42:03  son téléphone ça bugguait, j'en t'en,
+01:42:04  tu n'en es pas en Thaïlande sur son iPhone.
+01:42:06  Bon ben c'est pas grave, j'en veux pas,
+01:42:07  je rachèterai d'autres de ces mastermind,
+01:42:08  il n'était pas dispo, j'ai payé trois mille dollars,
+01:42:09  c'est cool qu'il a déjà essayé de faire une note comme ça.
+01:42:13  J'en veux aux gens au contraire,
+01:42:14  j'essaie de donner l'abondance,
+01:42:15  de faire le meilleur produit possible et de continuer à
+01:42:17  réinvestir sur moi-même.
+01:42:18  Je pense qu'il n'y a que vers du plus, tu vois.
+01:42:22  Qui sont mes coachs, j'ai payé des mastermind,
+01:42:23  j'ai payé Arya Bouvard, j'ai payé Armosi,
+01:42:25  j'avais payé à l'époque Sanders stage,
+01:42:26  j'étais à Lopez en appel.
+01:42:28  Enfin j'avais fait plus jeune,
+01:42:30  j'ai fait les bootcamp de qui met dans son marketing.
+01:42:32  C'est quoi le truc à régler pour passer le trente,
+01:42:34  qui a pas moins cent-cinquante pour moi Le nombre de call,
+01:42:36  le volume, alors pas jusqu'à
+01:42:39  cent-cinquante, mais de trente à cent,
+01:42:40  c'est globalement volume de call et de cent à
+01:42:42  cent-cinquante jusqu'à deux-cent,
+01:42:43  c'est la partie sales Steam et structurer,
+01:42:44  mais en fait c'est zéro à cent volumes de sales,
+01:42:48  cent à deux-cent structures de sales et structures de dérivabilité,
+01:42:51  deux-cent et plus pour moi c'est management et comment
+01:42:53  est-ce que tu structures les, tu manages les structures,
+01:42:55  ce n'est pas tu ne peux plus manager toute seule.
+01:42:57  Comment est-ce que vous êtes au plus chez Echoystème Sur la non
+01:42:59  préqualification parce qu'on préqualifie pas nos call,
+01:43:02  on est entre vingt et vingt-cinq pour cent,
+01:43:04  ce qui si on faisait en préqualification avec dix-sept
+01:43:06  heures euros en plus de sept heures il se rapprochait les
+01:43:07  trente-cinq et quarante, ce qui est bon.
+01:43:09  Ce fait un quart de décembre pour.
+01:43:13  Maladica ça fait deux-mille-cinq-cent
+01:43:15  euros par semaine,
+01:43:15  deux-mille-cinq-cent euros par semaine avec une offre à
+01:43:17  deux-mille-cinq-cent euros,
+01:43:18  ça fait une offre vendue tous les sept jours.
+01:43:20  Donc ça veut dire un taux de closing à quinze pour
+01:43:24  cent.
+01:43:24  Donc enfin tu vois c'est ultra simple,
+01:43:27  c'est super simple.
+01:43:28  Comment concilier, c'est pas facile, c'est différence.
+01:43:32  Il faut bosser et il faut se prendre des portes et caetera,
+01:43:33  mais il n'y a rien de compliqué, c'est super simple.
+01:43:35  C'est mathématique, même scientifique.
+01:43:37  Comment conseiller marketing vente et personal branding
+01:43:40  Les trois sont en train de se condilier.
+01:43:42  Avec plaisir.
+01:43:43  C'est-à-dire que le le marketing ne va pas sans la
+01:43:45  vente, il ne va pas sans Personal branding.
+01:43:46  Les trois sont liés, il faut que tu lis les trois.
+01:43:48  Les éléments qui bloquent en dessous des un million par mois,
+01:43:50  en dehors des contraintes majeures clause d'absorption et acquisition.
+01:43:52  C'est ces contraintes-là.
+01:43:54  En fait les gens pensent qu'il y a des secrets qui nous
+01:43:55  bloquent avec des choses, mais non,
+01:43:56  c'est juste que faire plus de volume sur ça,
+01:43:58  savoir encaisser plus de volume sur l'acquisition,
+01:44:01  la vente et et et et oui sur la structure.
+01:44:04  Faire un million par mois c'est juste parfaitement exécuter les
+01:44:08  bases, mais à de plus grosses fréquences,
+01:44:09  plus grosses rapidité avec plus gros,
+01:44:10  avec des plus gros volumes.
+01:44:11  Voilà.
+01:44:12  Quand tu lances dans l'étiquette,
+01:44:13  c'est quoi les vingt,
+01:44:14  les vingt quatre-vingts le plus important La partie offre,
+01:44:16  la partie vente, la partie produit.
+01:44:17  Quelle trahison, tu n'as pas la leçon la plus précieuse.
+01:44:20  Mes deux anciennes associés deux fois,
+01:44:22  je ne suis pas un mec, la leçon la plus précieuse,
+01:44:24  c'est que je me suis fier à moi-même que je suis assez
+01:44:26  intelligent faire l'argent,
+01:44:26  que je n'ai pas j'ai besoin de personne pendant ce niveau-là
+01:44:29  pour faire des dizaines de millions,
+01:44:29  centaines de millions,
+01:44:30  je ne sais pas pour faire déjà dix vingt millions,
+01:44:32  je peux faire tout seul largement et c'est super parce
+01:44:34  que j'ai tout seul et voilà.
+01:44:37  Que pour s'il faut me dire d'appel alors du coup je vais
+01:44:38  devoir vous laisser parce qu'il faut que je cherche sur notre
+01:44:39  rappel, je suis désolé,
+01:44:40  je je ne prends pas toutes les questions sans se comprendre pas.
+01:44:42  D'abord où est-ce qu'on te retrouve est-ce que tu veux
+01:44:44  qu'on te mette un lien juste en dessous c'est quoi la what next
+01:44:47  En vrai juste chaîne YouTube si vous voulez voir c'est cool ça suffit largement
+01:44:52  très simple, le bon funnel de, je rigole.
+01:44:56  Non non c'est cool d'aller voir machine si ça vous intéresse,
+01:44:59  vous n'êtes pas obligé et je ne dis pas que des trucs cons et
+01:45:02  merci pour votre temps pour vos questions,
+01:45:04  vous étiez super impliqué,
+01:45:04  ça me fait trop plaisir et merci pour tout le love et tout.
+01:45:08  Et voilà.
+01:45:09  J'en fais encore quelques années call,
+01:45:11  mais c'est maintenant,
+01:45:11  on a une équipe de trois trois personnes, donc c'est cool.
+01:45:14  C'est le plaisir.
+01:45:16  Mathis, écoute, merci à toi, merci pour ton temps.
+01:45:18  Merci pour la value, ça me fait vraiment plaisir.
+01:45:21  Merci pour l'accueil c'était trop cool c'est une communauté
+01:45:24  c'est vous êtes des tueurs c'est trop plaisir des
+01:45:26  questions vraiment point de pointue et poussées et voilà
+01:45:30  et puis voilà je vous laisse sur ce merci beaucoup je vais
+01:45:32  quitter là je te laisse peut-être conclure de ton côté
+01:45:35  et je vais tout le monde merci beaucoup.
+01:45:37  Salut
+01:45:38  Mathieu.
+01:45:40  Ciao.
+01:45:41  Mais
+01:45:43  écoutez les gars je me mets juste en grand pour la Audif
+01:45:48  ça m'a fait plaisir d'avoir Mathis c'est ce que vous avez
+01:45:50  kiffé c'est cool à chaque fois qu'on
+01:45:52  a des invités ça me fait vraiment plaisir
+01:45:58  et ouais yes yes yes incroyable de ouf super life je voulais
+01:46:02  vraiment parler délivrabilité et moi en fait j'ai un lot
+01:46:05  ticket c'est-à-dire que le lot ticket c'est facile entre
+01:46:08  guillemets à délivrer mon business principal c'est voilà
+01:46:11  et là on voit vraiment derrière en back end de la monétisation
+01:46:15  et comment il gère en interne
+01:46:18  ses clients parce que avoir trois cent il a dit quand même
+01:46:21  trois cent trois cent cinquante clients high ticket à gérer
+01:46:24  c'est vraiment du travail et on a franchement je suis super
+01:46:27  content du live qu'on a eu vous avez posé des bonnes questions
+01:46:29  en plus après à Mathis c'est top les gars merci à chaque
+01:46:32  fois vous faites des bons invités
+01:46:35  vous faites des bons retours aux invités donc c'est vraiment
+01:46:36  cool Hugo 350 je suis dedans ça vaut le coup franchement
+01:46:40  c'est vrai que Mathis voilà il est bon quoi il est vraiment
+01:46:44  bon bah écoutez les gars merci à tous merci
+01:46:48  à tous bienvenue aux nouveaux et puis
+01:46:51  et puis on se dit à la semaine prochaine pour un nouveau live
+01:46:53  j'espère que vous avez kiffé je m'occupe mardi de
+01:46:58  répondre à toutes vos questions lundi donc demain ou
+01:47:00  après-demain au max de répondre à toutes vos questions dans l'onglet
+01:47:07  communauté donc les gars on s'y retrouve
+01:47:10  et puis posez-moi vos questions, c'est le moment.
+01:47:12  Prochain live sur quoi bien
+01:47:15  prochain live surprise, vous allez voir.
+01:47:19  Et dernière dernière question après j'y vais,
+01:47:20  Valérie la rediff du dix-sept,
+01:47:21  c'est pour quand J'essaye d'y faire le plus
+01:47:24  rapidement possible parce qu'on a un problème.
+01:47:26  En gros, on a,
+01:47:27  je ne sais pas si vous vous souvenez pendant l'âge du dix-sept,
+01:47:28  à un moment j'avais un léger problème de co et tout ce qu'il
+01:47:31  y a eu après,
+01:47:33  c'est full buggé.
+01:47:34  C'est-à-dire que des fois,
+01:47:35  il y a l'écran vert pendant dix minutes, des fois, il y a le,
+01:47:37  il n'y a plus de son et c'est vraiment full buggé et et voilà.
+01:47:43  Du coup on, c'est chiant, mais je vais essayer de,
+01:47:46  enfin on y travaille, on y travaille, vous inquiétez pas,
+01:47:49  on y travaille vraiment.
+01:47:50  Et ça me fait chier de de ne pas avoir le live.
+01:47:53  Bref sur ce, merci à tous les gars.
+01:47:55  On
+01:47:58  se retrouve semaine prochaine,
+01:47:59  j'espère que vous ça avance bien dans vos business,
+01:48:00  on a enchaîné invité plus live QNA donc voilà j'espère que
+01:48:04  tout va bien dans vos bises.
+01:48:05  On arrive bientôt sur la fin du mois,
+01:48:07  ah ouais vous savez quoi Attendez restez restez partez
+01:48:09  pas partez pas C'est pas fini le live,
+01:48:10  ok On arrive sur la fin du mois de février et on a fait déjà
+01:48:14  deux mois quasiment, enfin la prochaine, le prochain live,
+01:48:17  ce sera au mois de mars et on aura fait deux mois sur douze de l'année.
+01:48:24  Il presque combien Mathis là-bas On ne va pas prendre
+01:48:27  réserve un appel.
+01:48:27  Non mais bref, on a fait deux mois sur douze de l'année
+01:48:31  et ça m'a mis une clé là quand je me suis dit ça,
+01:48:34  c'est-à-dire on a fait quasiment dix-sept pour cent de
+01:48:37  l'année, ce qui est quand même énorme
+01:48:39  à la louche.
+01:48:40  Et le temps passe et il faut aller vite parce que
+01:48:43  deux-mille-vingt-cinq,
+01:48:43  on n'a pas envie de se retrouver comme à la fin
+01:48:45  deux-mille-vingt-quatre, on va dire quoi,
+01:48:47  c'est déjà la fin de l'année.
+01:48:48  Et non, on veut que cette année, on soit bien,
+01:48:51  on soit ready, on ait fait les choses bien.
+01:48:53  Donc il faut aller vite vite vite vite vite encore plus vite et je voulais,
+01:48:56  enfin moi je me suis pris une petite claque en mode quoi On
+01:48:58  est déjà en février, ça passe en mars,
+01:49:01  ça passe super super vite et le temps passe.
+01:49:04  Donc go go continuez.
+01:49:07  Bref, go allez encore plus vite.
+01:49:09  Bref, sur ce, à la semaine prochaine,
+01:49:10  c'était Valère et puis merci à Mathis encore une fois.
+01:49:13  Je vous, on met toutes les ressources,
+01:49:14  tout ce qu'il nous a partagé dans le prochain,
+01:49:19  dans la rediffusion.
+01:49:21  Bref, sur ce, à la prochaine. Salut à tous.

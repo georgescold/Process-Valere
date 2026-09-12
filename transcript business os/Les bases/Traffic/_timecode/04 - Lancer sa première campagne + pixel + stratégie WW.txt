@@ -1,0 +1,239 @@
+Lancer sa première campagne + pixel + stratégie WW
+==================================================
+Durée : 00:09:38  |  ~1 447 mots  |  source : YouTube
+Transcription automatique : erreurs de reconnaissance possibles.
+
+00:00:00  OK, aujourd'hui on va voir ensemble
+00:00:01  comment installer à Pixel de façon
+00:00:03  claire parce que de base ce n'est pas
+00:00:04  clair du tout quand je regarde sur
+00:00:07  internet en final c'est pas clair, c'est
+00:00:09  pas bien expliqué. OK, commençons sans
+00:00:11  plus tarder. Alors là, on se retrouve du
+00:00:12  coup sur un ad account que j'ai qui run
+00:00:15  pas mais que j'ai. On va créer donc une
+00:00:17  campagne de objectif vente. Booum
+00:00:22  euh manual. Booum.
+00:00:25  Je vais vous montrer aussi comment moi
+00:00:27  je m'en occupe. On va l'appeler
+00:00:29  business
+00:00:32  os. Donc le nom de l'offre, on va la
+00:00:34  target US A.
+00:00:37  Hop là, on met rien. Objectif ici vente.
+00:00:43  Advantage advantage plus budget, c'est
+00:00:45  pour gérer le budget directement dans la
+00:00:47  campagne. AB test, on touche à rien. Et
+00:00:49  voilà. Donc ça c'est la campagne. Ça
+00:00:50  sert pas à un million de choses non
+00:00:51  plus.
+00:00:53  Euh ensuite, on clique sur l'adset. On
+00:00:55  peut cliquer sur next ici. On va
+00:00:56  l'appeler celui-là, par exemple, Broad.
+00:00:59  Hop, website. Boouom. Euh, OK, donc là,
+00:01:04  on va mettre créer un nouveau pixel. Là,
+00:01:08  je vais l'appeler euh business OS, par
+00:01:11  exemple. Créate new pixel.
+00:01:16  OK.
+00:01:18  Là, on va mettre www.Valè
+00:01:21  valer.com par exemple. Hop, check.
+00:01:27  Next. Là, je mets écrire le code
+00:01:29  maintenant.
+00:01:30  Alors là, je vais vous montrer pour le
+00:01:31  Mapixel only. Hop, copier. Installe
+00:01:35  manuellement.
+00:01:38  OK.
+00:01:42  OK. Donc là, ça charge.
+00:01:46  Ça charge rapidement. OK. Donc là, je
+00:01:48  copie le code, très important. et je
+00:01:51  vais aller le coller juste mince juste
+00:01:54  ici. Donc là, on a notre petit code. OK,
+00:01:57  on reviendra dessus plus tard. Je vais
+00:01:58  juste vous montrer aussi comment finir
+00:01:59  la le paramétrage. Donc euh maximiser le
+00:02:02  nombre de conversions. Là, je
+00:02:04  sélectionne le pixel business OS et là
+00:02:07  je mets ce qu'on a parlé précédemment.
+00:02:08  Donc, soit initiate checkout, soit
+00:02:10  achat. Euh, on va mettre achat dans
+00:02:13  cette situation là. Donc, je vais pas la
+00:02:14  lancer. J'active dynamic creative.
+00:02:18  location. On va mettre on va mettre on
+00:02:22  va mettre c'est quoi ? Petite technique.
+00:02:25  Boom. World wild exclusion
+00:02:29  Taiwan.
+00:02:32  Merde On va exclure donc Taiwan
+00:02:37  et Hong Kong parce qu'on est obligé. On
+00:02:39  est obligé. Genre tu vois par exemple
+00:02:40  ici ils font chier euh Taiwan, ils font
+00:02:43  chier et Hong Kong.
+00:02:46  Hop, ça dégage. Hop, au revoir. Merci.
+00:02:49  Et ensuite, on va aller donc cibler.
+00:02:51  Moi, c'est un truc que je fais aussi des
+00:02:52  fois sur certaines de mes campagnes. Je
+00:02:54  vais cibler en anglais.
+00:02:57  English all. OK.
+00:03:00  Donc là, en gros, on va cibler la
+00:03:01  planète entière à partir de euh de de la
+00:03:07  langue. Tous ceux qui parlent anglais,
+00:03:08  on va aller les rich. Alors, on va
+00:03:10  target du coup par exemple les
+00:03:11  États-Unis, mais on peut target aussi,
+00:03:12  je sais pas, l'Australie, on peut target
+00:03:13  aussi euh l'Amérique latine, on peut
+00:03:15  target la France, on peut target mais en
+00:03:17  fait la planète entière, même la Russie
+00:03:19  si on veut euh du moment que la personne
+00:03:21  parle anglais, c'est un ciblage comme un
+00:03:23  autre, ça marche plutôt pas mal. C'est
+00:03:25  celui dont je vous avais parlé sur
+00:03:27  Telegram. Ensuite, next. Et euh voilà.
+00:03:30  Après, le reste, on s'en bat les
+00:03:31  couilles un petit peu. Je vais juste
+00:03:32  descendre, hop, pour vous montrer. Texte
+00:03:35  primaire. Voilà. Si je mets 1 2 3 ici 1
+00:03:39  2 3 et 1 2 je vais mettre comme ça vous
+00:03:42  voyez un peu à quoi ça ressemble 4 5 6 7
+00:03:45  8 9 on va mettre ww.com.
+00:03:51  Hop
+00:03:55  ! Normalement ça devrait me mettre une
+00:03:56  preview même si j'ai pas mis d'ads.
+00:04:03  Ouais voilà. Bon, on peut Ah ouais. Donc
+00:04:05  voilà, ça ressemble à ça. Donc ça c'est
+00:04:06  1 2 3, donc le primary text. Ensuite 4 5
+00:04:08  6 headline et 7 8 9 c'est la
+00:04:11  description. OK. Donc maintenant qu'on a
+00:04:13  notre pixel juste ici, je vous mettrai
+00:04:15  juste en description les types types
+00:04:17  d'événement pardon. Ici on a donc tout
+00:04:20  ce dont on a besoin et c'est très
+00:04:22  simple. Vous voyez en gros le pixel il
+00:04:24  se définit sous plusieurs parties. Ça
+00:04:27  c'est le numéro de mon pixel et ça c'est
+00:04:29  l'événement.
+00:04:30  OK ? Donc ce que je vais faire c'est
+00:04:32  très simple. Si je veux donc je vous
+00:04:34  rappelle donc là je vous ai mis un funel
+00:04:36  d'exemple facile. Une LP, une VSL, un
+00:04:38  bon de commande, une poche de
+00:04:39  remerciement. Ici ce qu'on veut c'est
+00:04:41  que le pixel comme je vous ai montré
+00:04:42  juste avant, hop,
+00:04:45  il est en mode achat, conversion event
+00:04:47  achat. Donc qu'est-ce qu'on va faire ?
+00:04:50  Je vais aller copiercoller ça. Hop, je
+00:04:52  vais le dupliquer. Boum. Et là, au lieu
+00:04:54  de mettre événement page vue, je vais
+00:04:57  mettre l'événement achat qui est juste
+00:05:01  ici.
+00:05:03  Hop, ça c'est l'événement achat.
+00:05:06  Attends, je juste remettre tout de la
+00:05:07  bonne police.
+00:05:10  Hop. Et là donc boum, j'ai mon événement
+00:05:12  achat. Je vais le mettre ensuite sur ma
+00:05:14  page de remerciement.
+00:05:16  Donc, j'ai rien fait. J'ai pris des
+00:05:18  templates systèm complètement au hasard.
+00:05:20  Boum boum. Et là, hop.
+00:05:25  enregistrer.
+00:05:27  J'enregistre,
+00:05:29  je quitte,
+00:05:31  je vois la page. Et là, quand je vois
+00:05:34  ici effectivement donc dans Mapixel
+00:05:36  Helper qui est une extension pour voir
+00:05:37  le pixel, on voit que effectivement la
+00:05:40  balise achat est bien paramétrée. Alors,
+00:05:42  il y a aucune conversion et c'est pas
+00:05:45  grave mais peu importe. En ce qu'on va
+00:05:47  faire, c'est ici mettre lead.
+00:05:52  On va mettre lead sur à la place de
+00:05:55  achat juste ici.
+00:05:58  Ah merde. Oubliez pas les la petite
+00:05:59  parenthèse, des fois on se fait avoir
+00:06:01  sur Google Doc.
+00:06:03  Hop lead.
+00:06:07  On va recopiercoller ça. Et évidemment
+00:06:10  quand est-ce qu'on veut un lead ? C'est
+00:06:11  juste après la LP. Donc sur la VSL ici
+00:06:14  ça correspond à que la personne elle a
+00:06:15  mis son email donc ça correspond au lead
+00:06:19  et donc Facebook qui va nous dire ah
+00:06:21  ceci est égal un lead.
+00:06:24  OK ? Et si par exemple ici maintenant je
+00:06:27  mets dans conversion event, je mets
+00:06:29  objectif
+00:06:31  lead par exemple, j'ai mis vente au
+00:06:33  début mais si je mettais lead bah ce
+00:06:35  serait en lead. Si je mets initiate
+00:06:36  checkout ici et ben ce sera initiate
+00:06:39  checkout. Et si on voit ici, ah faut que
+00:06:41  je refresh hop
+00:06:43  si maintenant j'observe la page la VSL,
+00:06:46  on voit que boum maintenant ça capture
+00:06:49  lead. Enfin on comprend que ici c'est
+00:06:51  lead. Maintenant ici, initiate checkout.
+00:06:53  Mince, je retourne ici. Initiate
+00:06:56  checkout ou add to importe en réalité.
+00:06:59  Euh initiate checkout.
+00:07:03  Où est-ce qu'il est ? Initiate,
+00:07:12  je copie.
+00:07:14  Je remplace par le juste remettre la
+00:07:17  bonne police parce que voilà,
+00:07:20  je copie.
+00:07:21  Donc initiate checkout, c'est sur le
+00:07:23  bond de commande. Je mets ici sur le
+00:07:26  bouton de commande.
+00:07:28  Boum ! Je saute pas de ligne. Boum !
+00:07:31  Boum ! Enregistrer !
+00:07:34  Enregistrer ! Boum ! Quitter
+00:07:38  et ensuite sur la mince ! Ensuite sur la
+00:07:40  LP, donc sur la landing page, je vais
+00:07:43  mettre le code sans rien.
+00:07:46  Bom !
+00:07:48  Donc le code page vue ici. Hop hop
+00:07:54  et hop. Aussi simplement que ça. Et
+00:07:57  ensuite c'est bon, mon pixel est enfin
+00:08:00  paramétré. Donc ce qui se passe, c'est
+00:08:02  que ici sur la LP, sur la VSL, sur le
+00:08:07  bon de commande et la page de
+00:08:08  remerciement sur la LP. Donc Facebook va
+00:08:10  traquer que la page a été vue. OK,
+00:08:12  super. sur la VSL. Donc ici, on a dit
+00:08:15  c'est la VSL. Euh Facebook va tracker un
+00:08:18  lead. Donc si la personne est arrivée
+00:08:20  là, c'est qu'elle est passée par la
+00:08:21  landing page. Donc que j'ai eu son lead,
+00:08:23  donc son son contact. Si on est ici et
+00:08:26  ben initiate checkout, Facebook va se
+00:08:28  dire "Ah bon bah c'est bon, on a initié
+00:08:31  un payement donc initier checkout. Donc
+00:08:34  initier un paiement en gros. Et une fois
+00:08:37  sur la page de remerciement boou achat.
+00:08:40  Et euh vu qu'ici on a mes objectif
+00:08:42  achat, une conversion, donc une
+00:08:44  conversion l'équivalent d'un résultat,
+00:08:45  ça va être un achat. Mais si je veux que
+00:08:47  un résultat ça soit un initiate
+00:08:49  checkout, bah sera un initiate checkout.
+00:08:50  Et Facebook va optimiser pour l'initiate
+00:08:54  checkout et ici va optimiser pour
+00:08:55  l'achat. Et comme je vous ai dit au
+00:08:56  début, si vous avez pas beaucoup de
+00:08:57  budget, vous mettez initiate checkout ou
+00:08:59  lead pour avoir 50 déclenchements à
+00:09:02  minima par semaine. Et si voilà, vous
+00:09:04  êtes un peu plus avancé, c'est pas la
+00:09:05  première fois que vous lancez des
+00:09:05  campagnes et que vous avez un peu de
+00:09:06  budget, au-dessus de 100 150 100 € par
+00:09:09  jour, vous mettez achat directement,
+00:09:10  vous prenez pas la tête. Euh et si vous
+00:09:13  faites du euh
+00:09:16  du comment s'appelle ?
+00:09:19  du col du call voilà des appels. Moi je
+00:09:23  mets compete registration registration.
+00:09:26  Ouais, c'est ça. Je prononce pas très
+00:09:27  bien les G en anglais, peu importe. Et
+00:09:29  voilà, c'est mon event de conversion.
+00:09:31  Euh voilà, si vous avez la moindre
+00:09:33  question euh n'hésitez pas. que
+00:09:35  normalement ça était plutôt clair.

@@ -1,0 +1,137 @@
+TRANSCRIPTS BUSINESSOS
+======================
+
+97 transcripts  |  91:29:18 de contenu  |  ~888 326 mots
+
+ORGANISATION
+  Chaque dossier contient les transcripts nettoyés,
+  et un sous-dossier _timecode avec la version horodatée.
+
+FORMAT
+  - Paragraphes par fenêtres de ~45 s
+  - Repères [ HH:MM:SS ] toutes les 5 min
+  - Nombres en chiffres, hésitations et répétitions supprimées
+
+LIMITES
+  - Transcription automatique : erreurs sur les anglicismes et noms propres.
+  - Les pistes Wistia sont souvent sans ponctuation (texte en flux).
+  - Rediffusion Live : "Live 13" et "Live 18 Part.2" pointent vers la
+    meme video dans Skool, les deux transcripts sont identiques.
+
+
+## Rediffusion Live
+   00:03:46     694 mots  Wistia   Commencez ici
+   03:12:00   32308 mots  YouTube  Live 1 - Q&A + Analyse
+   04:00:40   38353 mots  YouTube  Live 2 - Créatives FB ads
+   02:50:32   25728 mots  YouTube  Live 3 - Hooks - Leads (copywriting)
+   03:13:44   31439 mots  YouTube  Live 4 - Q&A + Analyse
+   02:30:23   35403 mots  YouTube  Live 5 - Closing
+   02:11:03   21129 mots  YouTube  Live 6 - Emailing
+   02:30:16   24514 mots  YouTube  Live 7 - Recrutement
+   03:42:52   34544 mots  YouTube  Live 8 - Productivité
+   02:35:08   22114 mots  YouTube  Live 9 - Q&A + Analyse
+   02:41:15   24659 mots  Wistia   Live 10 - Body (copywriting)
+   02:52:27   26498 mots  Wistia   Live 11 - Scaler de 100k à 300k par mois
+   01:58:54   19175 mots  Wistia   Live 12 - Low to High Ticket
+   02:32:20   22730 mots  Wistia   Live 13 - Q&A
+   02:34:02   25348 mots  Wistia   Live 14 - Bâtir une Offre
+   02:15:50   21428 mots  Wistia   Live 15 - Closing (copywriting)
+   02:23:28   25733 mots  Wistia   Live 16 - Stratégies Business
+   00:24:36    3621 mots  Wistia   Live 18 - Q&A - Part.1
+   02:32:20   22730 mots  Wistia   Live 18 - Q&A - Part.2 (DOUBLON du Live 13)
+   01:49:25   24800 mots  Wistia   Live 19 - Scaler sa délivrabilité
+   02:36:37   27037 mots  Wistia   Live 20 - Analyse de business ULTRA rentable
+   02:17:29   30315 mots  Wistia   Live 21 - Affiliation - VRAIMENT brasser
+   01:31:33   14135 mots  Wistia   Live 22 - Créatives statiques
+   02:11:19   21417 mots  Wistia   Live 23 - Structure de VSL Winners
+   02:35:38   21390 mots  YouTube  Live 24 - Q&A
+   01:24:00   13562 mots  Wistia   Live 24 - Upsells
+   01:45:58   13080 mots  Wistia   Live 25 - Process et automatisation
+   03:55:12   58891 mots  YouTube  Live 26 - Scaler un call funnel
+   02:47:28   27646 mots  Wistia   Live 27 - YouTube
+
+## Les bases
+   00:01:12     249 mots  YouTube  Overview (A REGARDER)
+   00:03:19     600 mots  YouTube  L'équation du Business
+
+## Les bases / Traffic
+   00:05:02     933 mots  YouTube  Les bases du traffic
+   00:12:58    2221 mots  YouTube  Publicité
+   00:24:24    4781 mots  Wistia   Gérer les bans Facebook
+   00:09:38    1447 mots  YouTube  Lancer sa première campagne + pixel + stratégie WW
+   00:26:37    4782 mots  YouTube  Organique
+   00:06:48    1282 mots  Wistia   Meta Andromeda - Les changements à faire
+
+## Les bases / Marketing
+   00:02:54     486 mots  YouTube  Overview
+   00:01:38     268 mots  YouTube  Le Marketing, c'est quoi
+   00:06:50    1334 mots  YouTube  Copywriting + Biais cognitif
+   00:18:41    3313 mots  YouTube  Les 10 biais cognitifs les plus utilisés
+   00:28:34    5916 mots  YouTube  VSL = 1M EUR (from YouTube)
+   00:07:37    1291 mots  YouTube  Avatar (from YouTube)
+   00:14:35    2732 mots  YouTube  (OPTIMISER) Les SECRETS d'un Funnel à 10 000 000 EUR
+   00:09:01    1941 mots  YouTube  Comment Vendre à du trafic chaud (from YouTube)
+
+## Les bases / Produit
+   00:02:54     554 mots  YouTube  10x
+   00:04:05     756 mots  YouTube  Vendre plus
+   00:03:35     719 mots  YouTube  Bonus Objection
+   00:06:08    1082 mots  YouTube  Problème VS Solution (important)
+   00:05:58    1335 mots  YouTube  DFY - DWY - DIY - Qu'est ce que ça implique
+   00:04:33     875 mots  YouTube  Le cheat code de la thune
+   00:06:29    1258 mots  YouTube  MVP
+
+## Atelier Organique
+   00:04:23     633 mots  Wistia   Overview
+   00:22:58    2083 mots  Wistia   La stratégie
+   00:52:27    3444 mots  Wistia   Le plan + to do list
+   00:36:50    1878 mots  Wistia   Création de l'offre
+   00:09:38    1681 mots  Wistia   Résumé du jour 1
+   00:27:03     876 mots  Wistia   Rédaction VSL
+   00:05:44    1054 mots  Wistia   Analyse de la VSL
+   00:03:01     550 mots  Wistia   Résumé du jour 2 et 3
+   00:02:08     427 mots  Wistia   Mails 18 et 21
+   00:13:39    1405 mots  Wistia   Sujet Telegram
+   00:35:52    2418 mots  Wistia   Rédaction mails 20 et 23
+   00:09:45    1822 mots  Wistia   Résumé Jour 4
+   00:11:41    2379 mots  Wistia   Résumé + fin du lancement
+
+## Marketing Tips
+   00:01:18     273 mots  YouTube  Overview
+   00:00:24      78 mots  YouTube  Bump Précoché
+   00:00:31     116 mots  YouTube  Upsell
+   00:02:32     462 mots  YouTube  Vendre du High Ticket comme des petits pains
+   00:02:22     485 mots  YouTube  Technique FB ads, 10k par mois easy
+   00:02:24     463 mots  YouTube  Espionne les gens qui te ciblent
+   00:43:23    3449 mots  YouTube  Bonus - Rédaction e-mail BusinessOS
+
+## Réponse à vos questions
+   00:32:21    4990 mots  Wistia   Q&A - 7 Janvier
+   00:33:17    3774 mots  Wistia   Q&A - 13 Janvier
+   00:50:39    6422 mots  YouTube  Q&A - 20 Janvier
+   00:50:40    5781 mots  Wistia   Q&A - 28 Janvier
+   00:57:08    7834 mots  Wistia   Q&A - 3 Février
+   00:34:48    4544 mots  Wistia   Q&A - 11 Février
+   00:42:52    5645 mots  Wistia   Q&A - 19 Février
+   00:53:15    7053 mots  Wistia   Q&A - 27 Février
+   01:55:48   14798 mots  Wistia   Q&A - 6 Mars 2025
+   00:26:06    3949 mots  YouTube  Q&A - 9 Décembre
+   00:39:55    4733 mots  YouTube  Q&A - 16 Décembre
+   00:30:09    4385 mots  Wistia   Q&A - 23 Décembre
+   00:17:47    2204 mots  Wistia   Q&A - 30 Décembre
+
+## Commencez ici
+   00:10:36    2109 mots  Wistia   Bienvenue !
+   00:06:13    1016 mots  YouTube  Les 9 niveaux
+   00:03:08     549 mots  YouTube  Se Présenter
+   00:04:38     895 mots  YouTube  Ma mission
+   00:05:06    1101 mots  YouTube  Les règles
+   00:01:56     389 mots  YouTube  Être sur la même longueur d'onde
+   00:02:36     481 mots  YouTube  Livre selon votre niveau
+   00:05:57    1234 mots  YouTube  Maximiser ses résultats
+
+## Bonus Membre Annuel
+   00:16:39    2611 mots  Wistia   How to Hire Creative Strategists
+   01:14:04   13606 mots  Wistia   Décontamination business et principes cachés
+   00:05:35    1003 mots  Wistia   Scaling +30 000 EUR par jour
+   01:05:29   10668 mots  Wistia   VSL +100 000 000 EUR par an - SOP

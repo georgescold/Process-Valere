@@ -1,0 +1,541 @@
+Gérer les bans Facebook
+=======================
+Durée : 00:24:24  |  ~4 781 mots  |  source : Wistia
+Transcription automatique : erreurs de reconnaissance possibles.
+
+00:00:01  Salut c'est Florian expert en blocage Facebook et aujourd'hui
+00:00:05  on va voir le Blueprint ultime pour gérer les bonnes Facebook
+00:00:08  une bonne fois pour toutes.
+00:00:10  Pouvez-vous vous identifier à cette situation Vous venez
+00:00:13  juste de vous faire bloquer sur Facebook.
+00:00:16  Vous faites appel et vous obtenez une réponse négative.
+00:00:22  Félicitations.
+00:00:24  Vous avez essayé au moins une de ces solutions,
+00:00:27  prier Zuckerberg de restaurer votre compte.
+00:00:31  Vous battre avec le support Facebook pour récupérer votre compte,
+00:00:35  faire chier tous vos amis et votre famille pour obtenir leurs profils,
+00:00:38  acheter des profils et des BM auprès de fournisseurs
+00:00:42  douteux, vous avez essayé de fermer des profilés des BM à partir de zéro,
+00:00:45  ou vous avez essayé de repartir de zéro en achetant un nouvel
+00:00:47  ordinateur, une nouvelle carte sim,
+00:00:49  une nouvelle carte de crédit, nouvelle adresse IP, et caetera,
+00:00:51  et caetera pour que Facebook ne fasse pas le lien avec ce qui a été banni.
+00:00:54  Tout ça pour le même résultat, banni à nouveau.
+00:00:58  On est aussi passé par là et c'est pourquoi nous avons dû
+00:01:01  créer un système que je partage avec vous aujourd'hui.
+00:01:04  Et ne vous inquiétez pas,
+00:01:05  ce n'est pas aussi compliqué compliqué que vous le pensez.
+00:01:09  Alors qu'est-ce qu'on va voir aujourd'hui Un,
+00:01:11  pourquoi l'algorithme de Facebook bloque-t-il
+00:01:13  Deux, présentation de la configuration idéale
+00:01:16  Trois, comment configurer un navigateur
+00:01:18  anti-détection Trois, comment configurer des
+00:01:22  proxys Cinq,
+00:01:24  comment configurer les profils de la bonne façon même chose
+00:01:27  pour les bm les adacomptes et les pages donc comment bien
+00:01:31  cette offre tout ça
+00:01:34  alors pourquoi l'algorithme de facebook bloque t-il donc dans
+00:01:36  le passé même maintenant ce qu'il faut savoir c'est qu'il y
+00:01:39  a beaucoup de scams de black rate,
+00:01:40  donc le black rate c'est des pubs qui ne sont pas très
+00:01:44  complètes avec les règles de Facebook et il y a aussi des
+00:01:47  histoires de piratage sur Facebook.
+00:01:48  Et du coup l'algorithme,
+00:01:50  il identifie des patterns et des activités suspectes potentielles.
+00:01:54  Et du coup si vous effectuez une série d'actions qui
+00:01:56  s'inscrivent dans ces schémas,
+00:01:57  vous pouvez vous faire restreindre.
+00:01:59  Alors que vous n'avez rien fait de mal dans le sens où vos pubs
+00:02:02  sont sont sont clean, c'est en règle avec la politique de
+00:02:06  Facebook et caetera et caetera et vous faites quand même bloquer.
+00:02:09  Pourquoi parce que par exemple il peut détecter plusieurs
+00:02:12  profils sous les mêmes cookies même adresse IP la même méthode
+00:02:15  de paiement utilisé sur plusieurs BM en même temps un
+00:02:18  nouveau profil qui tente de créer un BM immédiatement sur
+00:02:20  warm up un profil qui est connecté sur deux appareils
+00:02:23  dans deux pays différents en même temps
+00:02:25  aussi si vous augmentez votre aspect trop vite depuis un
+00:02:27  nouveau compte tout ça ça peut créer des restrictions il y a
+00:02:30  plein d'autres cases mais je vous ai donné juste quelques exemples
+00:02:34  donc les éléments pris en compte par l'algorithme alors
+00:02:36  il va prendre en compte la date de création du profil
+00:02:39  le le plus vieux le mieux le pays d'origine du profil donc
+00:02:42  si vous êtes dans un pays du du
+00:02:45  tiers one forcément c'est mieux donc c'est typiquement US
+00:02:49  Europe Australie alors que si vous utilisez des
+00:02:52  profils qui sont d'origine de l'inde ou d'Indonésie ou
+00:02:55  autre forcément ça sera moins il y aura
+00:02:59  chez Facebook après ça veut rien dire parce que si c'est un
+00:03:01  profil qui est ancien mais qui est indonésien par exemple ça
+00:03:04  peut très bien marcher alors qu'un tout nouveau profil
+00:03:07  qui a été créé en France il aura pas beaucoup de trust pays
+00:03:10  d'activité du profil donc là aussi de de là où vous utilisez
+00:03:13  le profil, l'activité du profil en en lui-même,
+00:03:16  donc est-ce que vous êtes plutôt actif ou ou pas du tout dessus
+00:03:20  La date de création du BM et de la page,
+00:03:23  l'adresse IP et l'adresse donc de l'appareil,
+00:03:26  que ce soit de votre ordinateur ou votre téléphone
+00:03:29  et bien d'autres choses encore c'est une grosse black box il
+00:03:32  prend vraiment plein de choses en compte pour pour prendre ses décisions
+00:03:36  donc le problème c'est quoi c'est comment prendre un
+00:03:38  nouveau départ avec les publicités Facebook sans être à
+00:03:41  nouveau limité constamment lorsque Facebook vous bannit tout le temps.
+00:03:46  Donc la configuration idéale,
+00:03:48  c'est un navigateur anti-détection ou
+00:03:50  anti-détection Brother avec trois sessions,
+00:03:51  une par profil et trois proxy résidant, c'est différent.
+00:03:54  On va rentrer dans les détails un peu plus tard.
+00:03:57  Trois profils, deux administrateurs, un employé.
+00:04:00  L'employé va être utilisé pour Runly ads.
+00:04:03  Un BM pour la diffusion des pubs et un option pour
+00:04:06  l'hébergement du pixel.
+00:04:09  Des comptes publicitaires agence.
+00:04:10  Soit vous avez des comptes publicitaires qui sont assez
+00:04:13  âgés avec de l'historique,
+00:04:14  ou alors si vous n'en avez pas et que vous repartez de zéro,
+00:04:17  c'est mieux d'utiliser des comptes publicitaires agence.
+00:04:20  Et un seul compte publicitaire par nom de domaine page pour
+00:04:23  éviter toute restriction.
+00:04:25  Et pareil pour les pages donc les plus vous avez des
+00:04:27  anciennes pages ou des pages qu'on appelle rien c'était on
+00:04:31  va en parler plus tard et bien mieux c'est
+00:04:33  donc là on va voir ça sous forme de schéma donc
+00:04:37  typiquement au départ vous avez votre navigateur anti détection
+00:04:41  sur et sur chaque session vous allez assigner des proxys
+00:04:44  résidentiels donc pour que en fait ce qui est ce qui va faire
+00:04:47  le navigateur anti détection c'est comme si vous vous
+00:04:49  pouviez vous connecter sur plusieurs machines virtuelles à la fois
+00:04:55  depuis depuis votre PC sans avoir à avoir trois machines
+00:04:59  réelles d'accord et sur chaque profil chaque profil aura en
+00:05:03  fait sa machine dédiée d'accord et vu que chaque machine on
+00:05:06  voit aussi attribuer un proxy propre c'est comme si
+00:05:10  chaque profil est vraiment indépendant l'un de l'autre
+00:05:13  donc on va avoir deux admins un employé qu'on va lier au BM
+00:05:17  principal pour faire les pubs les adjusds de serre d'accord
+00:05:19  vont être liés au BM principal et on va avoir un autre BM en
+00:05:23  option donc ça c'est pas pas obligatoire mais je leur
+00:05:26  recommande quand même donc d'avoir un autre BM juste pour
+00:05:27  qu'il héberge juste le pixel qu'on puisse le partager au BM
+00:05:30  principal de façon à ce que si le BM principal se fasse bannir
+00:05:33  se fasse bannir se fasse
+00:05:36  se fait ban quoi et ben on perd pas le pixel on peut le
+00:05:40  réutiliser derrière sur un autre BM et après pour la page
+00:05:42  Facebook si on va en parler de de ne pas la créer depuis le BM
+00:05:47  mais depuis un profil
+00:05:49  donc le navigateur anti détection donc c'est un
+00:05:52  logiciel comme je disais qui permet de se connecter à
+00:05:54  plusieurs profils Facebook depuis la même machine avec des
+00:05:56  empreintes digitales et des adresses IP indépendantes.
+00:06:01  Vous attribuez un profil et un proxy résidentiel à une session
+00:06:03  unique et vous pouvez importer
+00:06:05  beaucoup guise pour les profils qui sont déjà à partir d'autres
+00:06:08  machines donc des exemples de anti detek
+00:06:11  Brothers c'est multi login incognito as power dolphin anti
+00:06:15  gologuiin moi personnellement j'aime bien dolphin anti et
+00:06:17  incognito parce qu'ils sont gratuits jusqu'à dix
+00:06:21  et à savoir j'aime pas trop parce que c'est un peu lent
+00:06:24  j'avais testé c'était pas fou et multi c'est très bien mais
+00:06:27  c'est c'est à moi qu'ils aient changé mais c'était un plan payé en direct
+00:06:33  Donc les proxy, donc ça vous permet de géolocaliser l'adresse IP,
+00:06:38  d'utiliser une IP qui n'a jamais été utilisée auparavant.
+00:06:42  Pour revenir la géolocalisation,
+00:06:43  ça veut dire par exemple vous pouvez acheter une adresse IP,
+00:06:46  donc un proxy aux US et en fait où que vous soyez à partir de
+00:06:49  partout dans le monde que vous vous connectez du coup le à
+00:06:53  votre session sur l'entité de Browser,
+00:06:55  et bien vous serez toujours aux US à la même adresse IP et donc
+00:06:58  du coup il n'y a pas de changement suspect surtout si
+00:07:01  vous voyagez c'est c'est très très pratique donc il y a ça
+00:07:04  évite les risques de du coup de se faire ban.
+00:07:07  Et où est-ce que vous pouvez acheter des proxy fiables Alors
+00:07:09  il y a plusieurs sites Breit Data et Private proxy dot me.
+00:07:11  Enfin voilà, je vous les mets.
+00:07:13  Moi personnellement, j'aime bien Private proxy dot me.
+00:07:15  C'est cinq dollars par mois pour un proxy résidentiel
+00:07:18  et ça fait longtemps que j'utilise et pour l'instant pas
+00:07:20  tout si ça marche très très bien.
+00:07:24  Donc principaux avantages de l'utilisation de l'anti detek
+00:07:27  brothers a d b ou et plus les proxy.
+00:07:30  Où vous que vous soyez dans le monde facebook pour ça que vous
+00:07:32  vous connectez au profil sur le même appareil et à la même
+00:07:35  adresse ip à tout moment donc ça c'est super important c'est
+00:07:37  pour la stabilité
+00:07:39  très pratique pour l'utilisation en équipe parce
+00:07:41  que du coup si vous avez une équipe qui je sais pas vous
+00:07:43  avez des gens qui sont à Dubaï d'autres qui sont en France
+00:07:44  d'autres qui sont à Bali ou autre et bah en fait si vous
+00:07:47  vous connectez tous sur le même compte de l'antidothèque
+00:07:52  brothers et du coup la même session
+00:07:55  pour chaque profil et bah ça bouge pas ça sera toujours au
+00:07:58  même endroit et à la même adresse IP Enfin,
+00:08:00  même adresse IP, même appareil quoi aux yeux de Facebook.
+00:08:04  Très stable
+00:08:07  et c'est tout.
+00:08:08  Donc ensuite, au niveau des profils,
+00:08:10  donc la plus grande erreur que je vois et par pitié,
+00:08:12  si vous faites cette erreur là,
+00:08:15  vous allez faire une soit vous allez faire pause dans cette
+00:08:18  vidéo et vous allez tout de suite
+00:08:20  ajouter d'autres administrateurs sur votre BM ou
+00:08:23  soit vous attendez à la fin de la vidéo et vous le faites
+00:08:25  immédiatement parce que ça c'est une des plus gros erreurs
+00:08:27  que je vois pourquoi parce que
+00:08:30  en fait quand vous avez un seul administrateur sur un BM,
+00:08:33  si ce profil se fait bloquer,
+00:08:36  vous perdez accès à tout le BM quoi.
+00:08:38  Donc parce que ce profil là, vu qu'il est banni,
+00:08:40  il ne pourra pas ajouter des admin et tout.
+00:08:42  Alors que quand vous avez plusieurs administrateurs,
+00:08:44  donc je dis minimum deux administrateurs,
+00:08:46  mais si vous pouvez en mettre trois quatre, c'est même mieux.
+00:08:48  Parce que du coup, s'il y a un profil admin qui se fait ban,
+00:08:51  et bien ce n'est pas grave parce que vous avez d'autres
+00:08:52  profils admins et vous pouvez du coup réaccéder au BMPA via
+00:08:55  les autres profils et continuer à faire ce que vous avez à faire.
+00:09:00  Et un employé pour gérer les annonces, alors les ads,
+00:09:03  ça c'est l'erreur du traducteur parce qu'à là-bas c'était une
+00:09:06  présentation qui est en anglais et qui après j'ai traduit.
+00:09:09  Et
+00:09:11  donc là, oui, alors ça, c'est aussi c'est important.
+00:09:14  Évitez éviter autant que possible de diffuser les ads à
+00:09:17  partir des profils administrateurs.
+00:09:19  Pourquoi Parce qu'en fait ce que j'ai remarqué,
+00:09:20  c'est que quand vous revenez les ads depuis un profil qui
+00:09:24  est employé, si jamais il y a des soucis,
+00:09:27  il y a moins de risques de se faire sauter tout le BM.
+00:09:30  Tu vois, c'est un peu toi l'employé, c'est l'employé,
+00:09:32  il a fait une connerie.
+00:09:34  Ok, bon, ça ne fait pas sauter tout
+00:09:36  le tout le BM quoi.
+00:09:37  Et puis si l'employé se fait, il se fait bannir, c'est pas grave.
+00:09:40  Vous pouvez juste le retirer et rajouter un autre profil pour
+00:09:43  pour continuer à.
+00:09:47  Et ouais donc comme je disais c'est le profil de l'employé
+00:09:49  qui gère les publicités
+00:09:52  donc après si admettons que vous avez un problème sur le
+00:09:54  profil de l'employé, ce n'est pas grave.
+00:09:56  Utilisez les profils admin en attendant pour gérer les ads le
+00:09:59  temps que vous remplacez ce profil employé.
+00:10:02  Mais dans la mesure du possible,
+00:10:05  préférez utiliser un profil employé ou partiel accès,
+00:10:08  accès partiel pour gérer publicité.
+00:10:11  Et alors,
+00:10:12  pourquoi je dis ajouter le en tant qu'éditeur sur la page
+00:10:14  Facebook Parce qu'en fait, votre page Facebook, si
+00:10:18  elle appartient en BM et que derrière cette page Facebook se
+00:10:21  fait bannir ou un mauvais feedback ça va ça va détendre
+00:10:24  surtout votre BM et donc moi je pense que je préfère c'est
+00:10:27  utiliser une page Facebook qui appartient à un profil
+00:10:30  et ajouter directement sur cette page les profils qui vont
+00:10:34  faire de la pub sur mon BM.
+00:10:35  Et comme ça, si jamais il y a un profil sur la pas,
+00:10:37  un problème sur la page,
+00:10:38  vous pouvez faire sauter la page très facilement
+00:10:41  et sans que ça impacte tout votre BM.
+00:10:44  Donc comment obtenir des profils Alors le farming de
+00:10:47  faux profils ne fonctionne malheureusement plus Facebook
+00:10:49  les repères et les blocs immédiatement.
+00:10:52  Donc il y a deux solutions soit louer des profils à des
+00:10:54  personnes réelles ou obtenir ce qu'on appelle des profils rétablis ou.
+00:10:59  Et louer des profils à des personnes réelles,
+00:11:01  ça peut être très chiant et vous n'êtes pas propriétaire de profil.
+00:11:03  C'est pourquoi je recommande plutôt d'acheter des profils
+00:11:05  rétablis ou reynsaid.
+00:11:08  Et en fait, c'est quoi un profil insaid C'est un profil qui s'est déjà
+00:11:11  fait par Facebook et qui a été en ayant passé
+00:11:17  la vérification d'identité.
+00:11:19  Et du coup, il y a ce message qui va apparaître sur le profil dans
+00:11:21  la partie business from support dans le business manager.
+00:11:25  Et en gros ce ce message là veut dire que du coup vu qu'il
+00:11:29  a été déjà resté c'est un gage de qualité c'est un gage de
+00:11:32  solidité sur le profil
+00:11:38  donc maintenant on va voir les alors juste pour revenir sur
+00:11:41  les profits en reste et aide donc vous pouvez en trouver un
+00:11:44  peu partout sur le net même genre j'en fournis
+00:11:46  après faire attention parce qu'il ya des super qui sont peu
+00:11:48  douteux si vous avez des
+00:11:51  vous en voulez des des, vous en voulez des valeurs sûres,
+00:11:54  vous pouvez m'envoyer un message sur Telegram flowycom,
+00:11:56  je je mettrai le plus tard le dans la prestation
+00:12:00  de mon Telegram et on peut en discuter et je peux vous en faire.
+00:12:04  Alors comment configurer le business manager Donc à
+00:12:07  l'époque il était possible de donc ça c'est à l'époque quand
+00:12:09  je disais c'était en deux mille dix-sept quand j'avais commencé
+00:12:11  Facebook ads le dropshipping à l'époque donc il était possible
+00:12:13  de créer deux BM par profil et de lancer des pubs en
+00:12:16  conversion le jour même et ce temps est malheureusement révolu.
+00:12:18  Désormais il faut prendre son temps et se passer les actions
+00:12:18  importantes et passer par une phase de
+00:12:20  Désormais il faut prendre son temps,
+00:12:21  espacer les actions importantes et passer par une phase de warm up.
+00:12:24  À moins que vous n'achetiez un BM qui est déjà très solide ou
+00:12:28  que vous étiez déjà déjà des contingences
+00:12:31  qui sont solides.
+00:12:34  Et comme vous pouvez l'imaginer,
+00:12:35  si vous créez un BM dès la création d'un nouveau profil, vous
+00:12:40  allez vous allez vous faire ban direct.
+00:12:44  Donc il y a un autre truc aussi dont
+00:12:47  il faut que je parle ça s'appelle le High Batir le High
+00:12:49  Batir c'est quoi c'est le trust score interne de votre BM donc
+00:12:52  là je vous ai mis un screenshot qui vient qui provient
+00:12:55  d'un le qui provient de du système de Facebook en interne.
+00:13:00  Donc là, vous pouvez voir High Batiers silver
+00:13:03  et je vais expliquer ça.
+00:13:05  Donc il y a cinq tiers.
+00:13:07  Il y a inactive, bronze, silver,
+00:13:09  gold et platinium.
+00:13:11  Plus vous dépensez ces restrictions, plus ça augmente.
+00:13:13  Donc au départ, vous allez commencer par inactif,
+00:13:15  donc c'est un tout nouveau BM.
+00:13:16  Ensuite, vous allez passer à Bronze, puis Silver,
+00:13:19  puis Gold et alors Platinium, non ça, c'est plus compliqué.
+00:13:22  Platinium, c'est plus réservé aux grosses marques genre Nike, Adidas,
+00:13:26  vraiment des gros gros spender qui ont bulle de beaucoup de
+00:13:28  avec Facebook depuis des
+00:13:31  années.
+00:13:32  Et en fait, plus votre tiers est élevé,
+00:13:35  plus Facebook vous sera moins Facebook sera strict à vous.
+00:13:39  Donc ils vont, ils vont laisser passer quelques pubs
+00:13:43  sont plus agressifs,
+00:13:43  ils ne vont pas vous bloquer de de façon stupide enfin c'est
+00:13:47  c'est
+00:13:49  ouais c'est généralement la plupart des gens qui des gros
+00:13:51  spender que je connaisse sont en gold.
+00:13:53  Platium c'est moins très dur à obtenir et normalement si votre
+00:13:55  BM me gold c'est que vous devrez pas trop avoir de soucis
+00:13:58  en termes de de restriction, c'est plus avant.
+00:14:02  Et j'ai un service qui permet de de coller le haiba donc on
+00:14:05  peut vous sortir les screenshots en interne depuis
+00:14:07  votre BM et vous vous faire passer en gold si vous si vous
+00:14:09  si vous n'êtes pas gold si vous voulez du coup ce service
+00:14:13  envoyez-moi un message sur Telegram et on pourra en discuter.
+00:14:17  Donc comment configurer un BM correctement
+00:14:23  Donc il y a un truc que vous pouvez faire c'est pour éviter
+00:14:25  de faire de vous faire restreindre pour active
+00:14:27  suspecte vous devez faire correspondre le pays de
+00:14:29  résidence de votre profil avec le pays de votre carte de
+00:14:31  crédit donc par exemple si vous avez une carte de crédit
+00:14:33  américaine vous pouvez définir la la ville de votre profil aux
+00:14:36  États-Unis même si vous vivez dans notre pays donc par
+00:14:39  exemple là je vous pouvez vous allez dans les à bas haute là
+00:14:42  et puis vous cherchez vous dites juste que vous vivez je
+00:14:45  sais pas aux États-Unis et comme ça c'est c'est juste
+00:14:48  pour avoir un comment dire une une congruence au niveau du de
+00:14:51  la paiement de mes têtes et de votre profil.
+00:14:57  Ensuite aussi c'est mieux d'ajouter une méthode de
+00:14:59  paiement au niveau des mêmes plus que niveau du adacantt,
+00:15:03  évitez d'utiliser une carte qui qui est liée à d'autres comptes
+00:15:06  qui qui sont restreints parce que Facebook peut faire le lien
+00:15:09  et du coup bloquer ces ces comptes-là.
+00:15:11  C'est préférable
+00:15:13  d'avoir une méthode de paiement unique par BM.
+00:15:17  Vérifiez le BM si c'est possible.
+00:15:18  Parfois le la le l'option ne s'affiche pas dès le départ
+00:15:21  donc il faut se parler un petit peu avoir un peu d'historique
+00:15:23  et après là vous pouvez le vérifier
+00:15:25  et généralement moi j'attends au moins vingt-quatre heures
+00:15:27  après avoir rejoint un nouveau BM avant de faire des pubs
+00:15:30  parce que justement il y a il y a souvent il y a des fois il y
+00:15:33  a des hackers qui arrivent à s'infiltrer sur les BM Ils
+00:15:35  lancent des pubs directes et derrière, ça se fait flag.
+00:15:39  C'est ça qui, vu que c'est un comportement,
+00:15:42  les hackers font,
+00:15:43  c'est pour ça qu'il y a des risques que ça peut se faire flag.
+00:15:46  Après, vous pouvez aussi lancer des pubs directes.
+00:15:48  Il peut pas de soucis.
+00:15:49  Moi, par sécurité,
+00:15:50  je préfère tout moment vingt-quatre heures et après je je lance.
+00:15:54  Comment voir maps un BM Donc généralement j'aime bien
+00:15:58  lancer une campagne de type page like,
+00:16:00  dépenser cinq dollars et ensuite approuver manuellement
+00:16:02  le paiement dans la section facturation.
+00:16:05  Une fois cela fait,
+00:16:06  vous devez être en mesure de créer d'autres comptes publicitaires.
+00:16:08  Dans ce cas, créez-les.
+00:16:09  Généralement vous allez pouvoir passer de un à cinq,
+00:16:11  créer les les quatre supplémentaires.
+00:16:15  Et si vous utilisez des comptes publicitaires à agence,
+00:16:17  vous n'avez pas besoin de faire du tout de Word
+00:16:20  ou même pas du tout vous pouvez directement lancer vos pubs et
+00:16:22  normalement ils devraient pas avoir de soucis.
+00:16:26  Alors les comptes publicitaires d'agence parlons-en,
+00:16:28  donc les comptes publicitaires d'agence sont des comptes qui
+00:16:30  appartiennent à l'agence partenaire de Facebook.
+00:16:32  De ce fait, ils ont moins d'invités de bannis et leurs dépenses sont
+00:16:34  illimitées dès le premier jour.
+00:16:36  Alors soit c'est illimité dès le premier jour,
+00:16:38  soit ça devient illimité après un certain temps,
+00:16:40  mais très rapidement.
+00:16:43  Si le compte est bloqué,
+00:16:44  il peut être débloqué par une ligne directe avec un précédent
+00:16:46  Facebook parce que normalement les les infras sont en direct
+00:16:49  avec un raid de chez Facebook
+00:16:52  et il est également possible d'être plus agressif dans ses
+00:16:54  créatives mais pas toujours ça dépend des agences avec qui
+00:16:56  vous vous bossez il y a des agences qui vont vous dire
+00:16:58  ouais allez-y tu peux être un peu plus agressif un peu ils
+00:17:01  vont être un peu plus laxiste et vous permettre de faire des plus agressifs
+00:17:06  et aujourd'hui moi je ne connais pas beaucoup de big
+00:17:08  players qui font des publicités sans utiliser de de contagion
+00:17:11  donc c'est soit aussi des contagion soit vous avez déjà
+00:17:14  un BM avec beaucoup d'historique
+00:17:16  du coup vous pouvez beaucoup sans sans risque de vous faire
+00:17:18  bloquer ou alors si vous êtes en comme je parlais auparavant
+00:17:23  du coup ouais moins de chance de vous faire bloquer et vous
+00:17:26  pouvez se prendre sans souci de compte d'agence
+00:17:30  Si vous avez besoin de compte agence,
+00:17:31  vous pouvez vous recommander une bonne agence,
+00:17:34  mais vous devez dépenser au moins dix mille dollars par
+00:17:36  mois pour travailler avec eux.
+00:17:39  Donc les pages, alors Meta est devenu plus strict en matière de gestion de
+00:17:42  page qu'auparavant,
+00:17:44  à voir c'était vraiment freestyle on pouvait voilà une
+00:17:46  page qui saute ou un mauvais fils de bas score boom on
+00:17:48  remplace on relance et pas de souci maintenant mon facebook
+00:17:51  est un peu plus un peu plus strict
+00:17:53  donc les nouvelles pages là ils ont plus de chance de se faire
+00:17:56  restreindre par rapport aux pages qui tournent historique
+00:17:59  Donc plus votre page est essentielle, mieux c'est.
+00:18:01  Et les pages rien s t t donc c'est un peu la même idée que
+00:18:04  que les profils s t t t t t t t,
+00:18:05  elles ont été bannies et ensuite elles ont passé la la
+00:18:08  période d'identité et bah elles sont plus solides
+00:18:10  que les pages normales.
+00:18:11  Ça aussi je peux je peux en faire.
+00:18:13  Donc
+00:18:15  n'utilise pas de créer de pages créées dans le même BM donc
+00:18:18  comme je disais ne mettez pas les les autres dans le même
+00:18:20  panier moi je préfère utiliser des pages qui appartiennent à
+00:18:22  un profil plutôt qu'à au BM que je vais utiliser pour faire les
+00:18:25  pubs comme je disais si jamais la la page se fait la page se
+00:18:28  fait bannir ou un mauvais feedback score et ben ça va
+00:18:31  affecter tout votre BM alors que si elle appartient à un
+00:18:33  profil qui est indépendant de BM vous pouvez juste vous
+00:18:36  débarrasser de la page et relancer sur une nouvelle et pas de souci.
+00:18:40  Créer la page plutôt donc je disais à partir d'un problème
+00:18:42  indépendant de votre configuration et donc ajouter
+00:18:45  le profil de l'employeur en tant qu'éditeur.
+00:18:46  Donc en gros, c'est quoi C'est en fait chaque profil qui a
+00:18:50  ajouté en tant qu'éditeur sur une page peut faire des
+00:18:53  pubs en utilisant la cette page sans que cette page soit liée à votre BM.
+00:18:57  C'est un peu ça l'idée.
+00:19:01  Et donc de cette façon si la page des restreintes obtient un
+00:19:03  faible feedback score,
+00:19:04  ça affectera pas votre page et il sera facile de supprimer le
+00:19:07  profil de l'employé
+00:19:09  pardon
+00:19:11  de de juste de virer le la page
+00:19:14  de de ce profil et juste relancer sur une nouvelle page.
+00:19:20  Comment augmenter le trust d'une page Donc les
+00:19:22  recommandations suivantes ne sont pas obligatoires,
+00:19:24  mais si vous construisez une marque sur le long terme, faites-le.
+00:19:28  Donc remplissez toutes les informations dans l'arbre à
+00:19:30  propos de la page,
+00:19:31  particulier à partir relative aux mentions légales,
+00:19:33  la politique de
+00:19:35  confidentialité.
+00:19:36  En fait, vous vous montrez un peu patte blanche à Facebook.
+00:19:38  Vous dites que voilà, on est une marque,
+00:19:39  on est legit et voilà,
+00:19:41  on remplit bien donc photo de profil, photo de couverture,
+00:19:45  toutes les sections à propos bien remplie mentions légales
+00:19:49  info de la boîte vraiment tout propre pour voilà on est
+00:19:52  transparent avec vous Facebook on a envie de bosser à gauche
+00:19:54  long terme et donc du coup vous mettez toutes les infos là
+00:19:58  aussi si vous vouliez un compte Instagram à la page Facebook
+00:20:00  apparemment ça la rend plus solide
+00:20:04  publie du contenu du contenu organique régulièrement bon une
+00:20:07  fois par jour également après si vous faites ça deux trois
+00:20:09  quatre fois par semaine ça va aussi mais c'est juste pour
+00:20:11  montrer à Facebook voilà vous êtes actif
+00:20:14  et moi ce que j'aimerais faire avant lancer des pubs en
+00:20:17  conversion sur sur une toute nouvelle page c'est de lancer
+00:20:19  une campagne page like cinq à dix dollars par jour pendant au
+00:20:22  moins trois jours alors ça c'était un truc là j'ai
+00:20:24  remarqué que Facebook est quand même moins strict ces derniers
+00:20:26  temps là-dessus Donc vous pouvez avoir une nouvelle page,
+00:20:29  lancer direct des pubs en conversion et pas de risque de sur bannière.
+00:20:33  Mais bon, si vous voulez la jouer safe,
+00:20:35  faites une campagne de pêche là pour voir maintenant un peu le
+00:20:37  le compte et la page.
+00:20:38  Et puis ensuite, vous pouvez lancer les
+00:20:40  pubs en conversion.
+00:20:43  Donc autre chose à savoir donc même si vous faites tout
+00:20:45  correctement il est possible que vous soyez bloqué quelque
+00:20:47  part dans le processus et c'est pourquoi vous devez faire ce
+00:20:49  processus sur plusieurs BM et profil en même
+00:20:53  temps envisager de recruter un via qui un vieil qui s'occupera
+00:20:56  de tout de douze travail en back end et même si vous avez
+00:21:00  un BM stable, vous n'êtes jamais complètement en sécurité.
+00:21:02  N'oubliez pas d'avoir toujours un setup de secours à portée de main.
+00:21:05  Si jamais vous faites ban comme ça,
+00:21:06  vous pouvez relancer les pubs très rapidement.
+00:21:09  Et si vous avez plusieurs boutiques,
+00:21:10  envisager d'avoir une structure séparée pour chaque boutique.
+00:21:13  Donc encore ne mettez jamais tous vos yeux dans le même panier.
+00:21:15  Donc maintenant vous avez un business, je sais pas moi,
+00:21:17  Icom, un business d'infos produits,
+00:21:20  un sas et d'autres qui si vous mettez tout sur le même BM et
+00:21:23  que de votre bien mais saute vous aurez plus bougé pour
+00:21:26  pleurer comme dirait ma mère parce que voilà c'est dur vous
+00:21:30  avez tous vos business sur le même bm c'est chaud quoi donc
+00:21:32  vraiment essayer d'avoir un business par bm un visa
+00:21:34  différent par bm comme ça ça va pas affecter les autres
+00:21:39  comment récupérer un compte restreint donc généralement moi
+00:21:42  si je suis
+00:21:46  banni et que je peux faire appel je vais toujours choisir
+00:21:48  autre comme motif d'appel et je vais essayer d'expliquer
+00:21:52  pourquoi je pense que la page a été restreinte avec autant de
+00:21:55  enfin la page ou la page ou le compte a été restreinte avec
+00:21:58  autant de détails que possible
+00:22:00  et de cette façon vous avez plus de chance d'examiner par
+00:22:03  un humain et non par Léa et du coup et par contre si votre
+00:22:07  appel est négatif donc en gros votre compte est définitivement
+00:22:09  restreint moi j'ai des contacts qui peuvent récupérer votre
+00:22:11  compte donc c'est pas c'est pas cheap c'est un peu coûteux
+00:22:15  mais voilà si vous avez un acompte avec beaucoup d'historique
+00:22:19  et ça vaut le coup de le récupérer en vingt-quatre
+00:22:21  soixante-douze heures plutôt que de repartir zéro
+00:22:24  je peux récupérer ça.
+00:22:28  Donc vous ne voulez pas faire tout ça.
+00:22:29  Donc comme vous l'avez vu ce processus est peut être long et
+00:22:33  fastidieux à mettre en place et tout le monde n'a pas le temps
+00:22:35  à l'équipe pour pour le faire.
+00:22:37  Nous, il nous a fallu des mois pour tout optimiser avec des essais
+00:22:40  et des erreurs afin de créer ce processus et on continue
+00:22:44  d'améliorer en permanence.
+00:22:47  Et si vous voulez que moi et mon équipe ont mis en place ce
+00:22:49  système pour vous ou bien que vous avez besoin de compte
+00:22:52  agence ou de récupérer votre compagnie ou autre vous pouvez
+00:22:54  me contacter sur télégramme flow ecom
+00:22:58  de manière générale si vous n'avez pas avec meta ou
+00:23:00  d'autres plateformes je propose des services décideurs pour
+00:23:03  meta Facebook Instagram Google Tik Tok et d'autres plateformes
+00:23:07  donc je peux faire récupérer bloqué ou pirater du spag
+00:23:10  d'acompte fournir des comptes agences obtenir des crédits
+00:23:13  line des lignes de crédit pour ceux qui se prennent plus de
+00:23:15  deux cent cinquante cas par mois sur Facebook c'est en gros
+00:23:17  facebook vous avance une avant vous avance
+00:23:21  du adspen en avance et d'ailleurs vous pouvez le payer
+00:23:24  à trente jours au lieu d'être facturé tous les mille vous
+00:23:26  pouvez facturer tous les cinquante mille deux cent
+00:23:28  cinquante mille enfin ça dépend du montant que vous avez en
+00:23:31  ligne de crédit et puis il y a bien d'autres
+00:23:33  services encore vraiment de manière générale en fait si
+00:23:36  vous avez un problème quelconque
+00:23:38  un concurrent qui vous fait chier qui copie vos produits
+00:23:43  je sais pas moi vous êtes shadow ban quelque part vous
+00:23:45  avez n'importe quel problème vous avez besoin d'un
+00:23:48  pour régler le problème,
+00:23:50  vous m'envoyer un message sur Telegram et je peux
+00:23:53  certainement aider.
+00:23:54  Voilà, c'est Florian et voilà, n'hésitez pas aussi.
+00:23:56  Si cette prestation n'est pas très claire,
+00:23:58  n'hésitez pas à m'envoyer un message sur Telegram et avec plaisir,
+00:24:01  je réponds aux questions si vous souhaitez le mettre en
+00:24:04  place et voilà ou même dans le school parce que je pense que
+00:24:09  va mettre cette vidéo dans la section
+00:24:13  dans la section learning et n'hésitez
+00:24:16  pas à me taguer dans le school pour
+00:24:19  si jamais vous avez une question voilà voilà c'était
+00:24:21  Florian j'espère que vous avez plu

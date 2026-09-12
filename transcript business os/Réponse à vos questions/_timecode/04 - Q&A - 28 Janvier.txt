@@ -1,0 +1,745 @@
+Q&A - 28 Janvier
+================
+Durée : 00:50:40  |  ~5 781 mots  |  source : Wistia
+Transcription automatique : erreurs de reconnaissance possibles.
+
+00:00:00  Salut à tous bienvenue donc pour les la partie q n a de
+00:00:04  la semaine et puis on attaque directement je vais régler
+00:00:09  comme ça let's go alors on en était je vois qu'il y a
+00:00:12  beaucoup de questions et on est ready
+00:00:17  à attaquer.
+00:00:19  Je vais juste
+00:00:22  copier coller ça et let's go.
+00:00:24  Alors Pierre média buying live ou atelier prévu alors Yo
+00:00:29  j'ai fait tout ce que j'ai merci
+00:00:33  le contenu est vraiment lourd sur business merci beaucoup
+00:00:35  ceci dit je me pose pas mal de questions sur le média buying
+00:00:37  je me disais si j'étais le seul dans ce cas si ça pourrait
+00:00:40  faire un live sympa de voir différentes stats comme
+00:00:42  un produit lead de l'analyse de campagne de finale et caetera.
+00:00:45  Ok.
+00:00:48  Voici genre de questions que je peux me poser non exhaustif.
+00:00:51  Il faut tester tout le temps de nouvelles créa.
+00:00:53  Ouais on rajoute dans un qui tourne déjà où on crée un
+00:00:58  nouvel dans le même vu que tu es en ça change rien en fait
+00:01:02  que ouais c'est la même chose
+00:01:04  aussi bio broad c'est la même chose du coup donc Ad set ou
+00:01:07  pas même Ad set ça change pas grand chose.
+00:01:10  Mais du coup je recommande même Ad set mais je crois qu'il y a
+00:01:12  une limite enfin il y a une limite de créatif dans chez Ad set.
+00:01:16  Comment vous avez testé les landing pages
+00:01:18  un et deux par exemple pour une add Ah non
+00:01:21  tu n'avais test pas des
+00:01:25  l p par ads,
+00:01:26  tu avais test des l p plutôt par campagne ou par ciblage.
+00:01:28  Sinon
+00:01:30  tu dépasses jamais les sondages à jour quoi,
+00:01:32  il faut être réaliste.
+00:01:34  Est-ce que l'ajouter des créatifs dans un va toucher de
+00:01:37  nouvelles personnes donc c'est un bon moyen de scale oui
+00:01:42  oui effectivement
+00:01:44  en fait tu vas toucher des nouvelles personnes qui ont qui
+00:01:48  sont aware un nouvel angle marketing.
+00:01:50  Voilà si ça peut être utile.
+00:01:55  Ce sont des très bonnes questions mais je vais refaire
+00:01:58  un live média buying tu sais quoi
+00:02:01  ok
+00:02:07  un final à explorer bonjour à tous salut Martin je voulais
+00:02:10  savoir si dans le groupe il y avait un ancien il y avait un
+00:02:12  ancien final qui a pu tourner en hâte de partager non
+00:02:16  j'aimerais pouvoir analyser les données et voir ce que ça a pu
+00:02:20  générer sur une réelle même si ce n'est plus live j'ai suivi
+00:02:24  les vidéos de la section classement je n'ai pas vu de cas concret dans
+00:02:31  Ouais je suis pas, c'est pas vraiment enfin oui mais
+00:02:35  je suis pas trop fan
+00:02:39  de de partager mes funnels puisque remonte après tu peux
+00:02:42  remonter à une société tu peux remonter
+00:02:45  à des trucs que j'ai pas envie tu vois genre je suis bien
+00:02:49  quand même à être
+00:02:53  tranquillement sur le côté et à pas vraiment monter mes funnels.
+00:02:56  Mais pourquoi pas un jour quand j'arrêterai peut-être la forêt, j'en sais rien.
+00:03:00  Mais je suis pas trop fan de de partager mes funnels quoi.
+00:03:05  Tu vois dans le dans le c'est comme partager un sitcom c'est en mode
+00:03:12  tu vois s'il est ultra scale
+00:03:15  ouais non tu vois ça j'aime pas l'idée tu vois c'est j'aime pas
+00:03:18  l'idée tu vois c'est comme partager un sitcom en donnant
+00:03:21  le code business os je me suis donné une mission de partager
+00:03:23  une fois par jour quelque chose que j'ai appris petit à peu je
+00:03:26  suis actuellement au niveau trois.
+00:03:27  En ce moment, j'ai j'ai eu deux j'ai deux
+00:03:30  clients simultanés, le club des mamans, ok.
+00:03:39  J'ai appris un truc important avoir confiance de relire
+00:03:42  ouais c'est vrai ça j'ai visionné trois fois
+00:03:47  j'ai en fait à bien la Hawaï ça peut vous aider prenez ces questions
+00:03:52  Intéressant je vais dire ça. Répondez-y avec j g b t.
+00:03:55  D'ailleurs
+00:03:57  c'est lui qui m'a motivé à vous faire ce message ps,
+00:03:59  j'habite au Canada sous trente degrés ou force.
+00:04:03  J'aime pas trop Antoine,
+00:04:04  j'écris ce titre car je raconte ma vie comme lui.
+00:04:09  Dans ma force, c'est
+00:04:11  chaud, mais je ne savais pas que tu étais à moins trente.
+00:04:15  Écoute intéressant,
+00:04:16  il n'y n'y a pas de question mais intéressant.
+00:04:18  Je vais regarder ton doc après.
+00:04:20  Question et comme
+00:04:23  Enzo.
+00:04:23  Salut les gars, j'en suis la boutique avec je suis environ à dix pour le
+00:04:27  moment, mais toujours zéro vente.
+00:04:31  Ouais.
+00:04:31  Quelles sont cette correcte à viser et pourcentage du final
+00:04:34  J'ai un CP7 zéro vingt-deux ce qui est ok ce qui est plutôt
+00:04:37  bon je ne sais pas vingt semaines par jour et un ajout
+00:04:39  au panier à deux quarante pour info mon produit me coûte deux
+00:04:42  euros et je le vends vingt balles.
+00:04:48  Ouais, c'est ça.
+00:04:57  Il a raison Evan c'est exactement ce que j'aurais dit un peu peut
+00:05:01  perdre un peu plus celle-là page de paiement tu peux
+00:05:04  convertira plus dix pour cent mais
+00:05:10  avec moi de déclenche ah bah oui ça j'ai
+00:05:14  j'ai
+00:05:19  géré
+00:05:28  recrutement de manager ok je sais pas comment ça
+00:05:33  rencontre business en Asie du Sud
+00:05:38  C'est une bonne idée ça,
+00:05:39  mais je crois qu'il peut beaucoup dire en Asie du Sud.
+00:05:41  Le meilleur, la meilleure stratégie pour faire passer un prospect du
+00:05:44  pourquoi pas au.
+00:05:47  On a tous un des prospects en un.
+00:05:49  C'est quoi votre votre stratégie la plus efficace pour
+00:05:51  discuter de réfléchir ou let's go J'ai eu plusieurs approches
+00:05:54  à faire l'effet promo,
+00:05:55  témoignage social pour montrer que d'autres passent à l'action.
+00:06:03  La assurance garantie, remboursement
+00:06:07  faute, c'est la taxe sur le coût de l'inaction.
+00:06:10  Je t'invite à aller voir mon live,
+00:06:12  je t'invite à aller voir le live sur le le closing,
+00:06:15  tu étais déjà présent pendant le live sur le closing donc
+00:06:19  bonjour ah putain tu es dans la merde ah non
+00:06:24  attends bonjour je dans le doute
+00:06:32  nouvelle
+00:06:34  c'est une nouvelle créa dans l'adset.
+00:06:44  Une créa, une nouvelle
+00:06:47  créa.
+00:06:47  Boum boum boum ne plus se perdre sur YouTube,
+00:06:50  une extension qui permet,
+00:06:53  je vais voir ça.
+00:07:01  Hier je suis curieux d'avoir commenté dans votre business
+00:07:06  cinquante pour cent de toute maison des tâches complètes
+00:07:08  avec des prompts stratégies ouais moi surtout de
+00:07:11  la strate, de la
+00:07:14  traduction.
+00:07:22  Non je pense pas pour l'instant.
+00:07:25  Je pense que ok ouais enfin il va y avoir les deux humanités
+00:07:29  il faut juste être du bon côté à ce moment-là.
+00:07:34  Créer un OS téléphone entre une direction dopamine vraiment
+00:07:36  alors je suis en train de me chauffer pour créer un OS à
+00:07:39  partir d'Android mais où il est littéralement
+00:07:41  impossible d'à peine installer des réseaux
+00:07:44  sociaux bloqués ok de pas détox pour pousser au Mac juste
+00:07:48  bloqueur accès au
+00:07:53  Ah ok, oui sur Safari ok.
+00:07:55  Pour les personnes accro,
+00:07:57  qu'en pensez-vous si vous si vous ça vous intéresse,
+00:08:00  n'hésitez pas à me le faire savoir.
+00:08:05  Intéressant présentation je lis plus tard doc est transcrite du
+00:08:08  live quatorze ah let's go
+00:08:11  alors que disent les gens là
+00:08:19  Je vais lire ça aussi tiens.
+00:08:47  C'est
+00:08:50  trop intéressant
+00:09:18  Je dirai ça plus tard, je dirai ça plus tard,
+00:09:20  je screen et on reverra.
+00:09:28  Hop.
+00:09:30  Hello Zévala suite à mon premier inscription,
+00:09:32  je souhaite être jeune business à l'année,
+00:09:33  mais j'ai fait le con en laissant traîner,
+00:09:36  du coup je suis mon mensuel.
+00:09:41  Est-ce qu'il est possible d'obtenir un code prono Juste
+00:09:44  l'année elle commence à passer du
+00:09:47  deuxième mois donc au final ça change pas grand chose.
+00:09:55  Ouais voilà je savais tu vas dans
+00:09:58  settings upgrade et puis c'est rapide ou alors tu vas dans
+00:10:01  Classroom tu vas dans ici membre annuel
+00:10:04  et là tu peux directement
+00:10:07  mais sinon dans l'ensemble en fait tu peux en fait j'ai même
+00:10:10  pas les accès moi pour faire tout ça par exemple ici dans
+00:10:12  members genre dans membership
+00:10:15  je peux rien je peux je peux un toucher en fait je peux juste
+00:10:18  comme ça elle et rien faire d'autre donc c'est un peu,
+00:10:22  même moi je peux, je ne peux rien faire.
+00:10:29  Bien, il y en a encore de la question.
+00:10:38  Dix minutes comme ça.
+00:10:42  Alors, je l'ai sept jours et trois cent
+00:10:46  cinquante euros plus tard et comme panier moyen deux cent euros.
+00:10:49  Et là je suis break even,
+00:10:52  mais est-ce que vous coupez les ads Ah
+00:10:59  intéressant.
+00:11:00  Je ne sais pas zoomer ce que je pense.
+00:11:01  Ça c'est après avec
+00:11:05  avec
+00:11:07  avec des fois c'est que j'hésite à migrer autre parc
+00:11:10  sur school mais mais bon c'est pas
+00:11:19  Ok, j'étais de mauvaise langue,
+00:11:20  c'était ma qui n'était pas très bonne.
+00:11:24  Alors
+00:11:40  C'est vrai que dans un cas comme celui-là.
+00:11:56  En fait, tu as eu un problème d'ads, tu n'as pas assez d'ads,
+00:11:59  continue fait des nouvelles ads encore encore neuf c'est
+00:12:02  clairement pas assez en vrai enfin neuf c'est vraiment le
+00:12:06  strict strict minimum ok
+00:12:12  ouais moi je te dirais qu'est-ce que vous dites va
+00:12:14  leur dire de ne jamais couper oui l'algo va optimiser pour
+00:12:17  toi ouais qui a un c p a élevé et celle que les clients vont
+00:12:21  vous en premier exact
+00:12:27  ouais
+00:12:29  ouais c'est
+00:12:33  ça exactement
+00:12:35  ça
+00:12:37  ouais.
+00:12:38  DLC le VSR on a déjà vu c'est sur Google mais je recommande
+00:12:41  pas du tout effectivement à vie à bonne question ça.
+00:12:45  Je viens de rejoindre business os bienvenue à toi
+00:12:49  j'ai créé une un membership sur une niche spécifique anglophone
+00:12:52  à vingt-neuf dollars par mois les clients reçoivent des top
+00:12:54  plates plus des ok pour les aider tous les mois l'idée
+00:12:57  c'est de faire du volume j'ai également pensé à faire des sur
+00:13:01  le don for you pour des pricing pour des services agences
+00:13:06  mais pour que la gestion du projet
+00:13:08  pour que la gestion
+00:13:11  de produit, la gestion client soit
+00:13:14  vraiment pénible.
+00:13:15  D'accord Pour l'instant je suis break even sur mes ads mais pas
+00:13:18  rentable s'il ne reste qu'un seul mois.
+00:13:22  Ma question que pensez-vous du business model Je ne suis pas
+00:13:24  trop fan du business en abonnement mais je vais y
+00:13:26  revenir un peu plus tard.
+00:13:28  J'ai une newsletter et j'envoie des mails tous les lundis,
+00:13:31  est-ce que nous avons directement
+00:13:35  Est-ce que vous faire du pour la newsletter.
+00:13:47  Toi c'est très simple tu fais ads
+00:13:50  l p newsletter et ensuite tu envoies sur ta vidéo de vente.
+00:13:56  Comme
+00:13:58  ça tu fais les deux en même temps.
+00:14:00  Et c'est quoi ta LTV Il faut que tu connaisses ta LTV
+00:14:05  pour savoir que par exemple un client en moyenne il te
+00:14:08  rapporte quatre-vingt dollars.
+00:14:09  Imaginons ou soixante-sept virgule quarante-deux ok tu
+00:14:13  sais que tu peux dépenser jusqu'à soixante-sept dollars
+00:14:16  pour faire une vente d'accord sachant que après
+00:14:20  ce que tu veux c'est vendre en back-end sur ton
+00:14:24  sur ton high ticket ok enfin sur ton plutôt
+00:14:29  don't for you qui est d'ailleurs une très bonne idée
+00:14:32  ok donc tu vends un produit
+00:14:34  d'appel où tu montres vraiment à quel point tu es compétente
+00:14:37  et ensuite boom next
+00:14:39  tu vends du down for you tu vends du down for you high
+00:14:43  ticket et là tu fais rentrer vraiment du prospect
+00:14:47  tu fais vraiment de l'argent c'est là où tu fais là-dessus
+00:14:48  donc là tu es break even tu fais rentrer du lead dans tes
+00:14:51  newsletters et ensuite tu leur vends du down for you.
+00:14:53  Je t'envoie vers le le
+00:14:57  live, merde.
+00:14:59  Je t'envoie vers le live
+00:15:03  avec Olivier Clovis qui a qui serait une bonne introduction à
+00:15:06  la stratégie que je vais te partager.
+00:15:07  Alors,
+00:15:10  il
+00:15:12  faut
+00:15:19  que j'utilise.
+00:15:23  Pour l'instant.
+00:15:30  Ok bon je retrouve plus donc bon tant pis.
+00:15:33  Où est-ce que j'en étais Hop là.
+00:15:38  Ok
+00:15:42  donc l t v c'est time value c'est-à-dire comment te
+00:15:45  rapporte une vente en moyenne c'est-à-dire que aussi est-ce
+00:15:48  que tu pourrais pas rajouter des
+00:15:51  comme moi par exemple je peux faire à l'intérieur du school
+00:15:54  qui fait augmenter le le panier moyen.
+00:15:56  Pas de fou tu vois, mais enfin quand même en vrai.
+00:16:00  Qui fait augmenter entre guillemets le panier moyen.
+00:16:03  Deux fois la même vidéo dans
+00:16:05  l'onglet trois d action
+00:16:07  tu vois il y a deux fois la même vidéo dans l'onglet trois d action ah
+00:16:16  je screen
+00:16:21  merci du retour je check j'envoie mon assistant de ce pas
+00:16:26  ok merci j'ai envoyé à mon assistant
+00:16:30  hop
+00:16:39  next
+00:16:41  nouveau chiffre en retargeting YouTube je fais pas de
+00:16:44  retargeting YouTube enfin retargeting de chaîne YouTube
+00:16:47  les gars que d'avoir les ads, on va faire ça.
+00:16:59  Un outil pour du facewap,
+00:17:02  ouais exactement je recommande cette vidéo là qui était
+00:17:06  partagée par Zaki qui est vraiment pas mal j'ai
+00:17:09  envoyé un pote à moi en plus
+00:17:11  comment tu empêcherais de réussir quelqu'un dans ta vie
+00:17:14  c'est de la discussion c'est une question
+00:17:19  je le lirai après parce que j'ai l'impression que c'est pas des questions
+00:17:24  exactement
+00:17:27  je le dirai après ah putain j'ai vu ça
+00:17:31  ah ça c'est excellent mais ça c'est trop fort ça
+00:17:36  excellent
+00:17:37  excellent on s'écoute ou quoi allez on s'écoute très rapidement
+00:19:46  Magnifique,
+00:19:48  mec
+00:19:50  magnifique,
+00:19:52  magnifique.
+00:19:54  Mais
+00:19:57  je
+00:19:59  remets, je vais lapine quand même.
+00:20:02  Comment je fais déjà
+00:20:04  ça je vais la retirer non
+00:20:07  c'est qu'on va retirer ça magnifique
+00:20:11  j'ai adoré
+00:20:14  business ok je chante pas très
+00:20:16  bien
+00:20:18  franchement d'ailleurs rien à voir j'apprends
+00:20:37  C'était vraiment pas mal.
+00:20:41  Ok
+00:20:43  laisse grand reprendre reprendre.
+00:20:45  On on
+00:20:47  on feedback yes.
+00:20:52  On fait ça la fin
+00:20:55  ça va dans tous mes états cette cette musique
+00:20:58  les choses sérieuses commencent ah ça fait plaisir j'ai vendu
+00:21:01  six cent balles de formation avec trois cent vingt de budget
+00:21:02  en ads vingt balles par jour sur dix ads c'est jamais ok
+00:21:07  j'adore on me dit bip ok deux clients prennent trois
+00:21:11  abonnements vingt balles par mois attention
+00:21:16  les obscelets en abonnement c'est cool en vrai
+00:21:19  mais mon offre est un peu bancal mais je vais l'améliorer
+00:21:23  en cours de route pour augmenter la satisfaction de mes clients.
+00:21:33  Ça va, t'inquiète, comment tu as En vrai
+00:21:37  Tranquille.
+00:21:44  Ah mais ton accompagnement tu fais une page système I
+00:21:48  o, tu t'envoies juste le lien en email genre genre
+00:21:52  tu fais quand il y a un achat en automatisation envoyer le
+00:21:56  lien par mail et boum, là il y a les vidéos et tout,
+00:21:59  pas besoin de prendre un score à cent balles par
+00:22:04  mois.
+00:22:04  Mais en tout cas, c'est bien. Je suis très content pour toi.
+00:22:09  Et te prends pas, enfin, c'est le stress.
+00:22:11  Oui il faut d'aller voir le product,
+00:22:12  mais il est à combien ton product
+00:22:15  Je ne sais pas, il est à combien Je suppose qu'il est
+00:22:18  à, donc ça doit être le prix de ton s l l l l l l l l l l l l l
+00:22:20  l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+00:22:21  l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+00:22:21  l l l l l l
+00:22:24  l
+00:22:26  l
+00:22:42  ça manque de tiens
+00:22:46  tu dois ajouter un obscène
+00:22:50  ah il a 64 euros ton accompagnement ça va
+00:22:53  ça va tu ferais gaffe ah ouais non
+00:22:57  mais ça c'est le problème de bump ok ouais c'est le le code
+00:22:59  que je vous ai pas chez qui pré-coche le bump ça met les
+00:23:04  conversions mauvaises ça prend un bump comme une conversion
+00:23:06  bon c'est pas très bien, mais au moins il y a plus d'argent,
+00:23:09  donc ça fausse un peu des stats, mais dans l'ensemble, bon ça va.
+00:23:20  C'était mieux qui qui qui qui fonctionne pas très bien.
+00:23:28  C'est quoi les FR, c'est pas moi, il faut que je vois ça.
+00:23:32  C'est
+00:23:34  franc
+00:23:35  suisse peut-être je
+00:23:38  sais pas si c'est franc suisse
+00:23:42  essaie de tout avoir dans la même monnaie c'est quand même
+00:23:44  plus pratique pour la compta Excusez-moi.
+00:23:47  Nous, on, pour nous, c'est le bordel,
+00:23:51  dollars euros, des monnaies bizarres et tout,
+00:23:53  truc que je n'aurais jamais entendu parler sur,
+00:23:55  je reçois des des des de l'argent roumain,
+00:23:57  des je crois c'est de fuck
+00:24:01  genre
+00:24:03  et au final on compte tout un
+00:24:05  dollar quoi sinon c'est le bordel on convertit tout un
+00:24:07  dollar tous les jours là au cours de la journée
+00:24:16  Ouais rajoute un up sell,
+00:24:18  ne rajoute un à la limite un paiement en deux
+00:24:22  fois et tranquille te prends pas la tête pour ton même si
+00:24:24  soixante balles tu vois ça va c'est ok
+00:24:30  ce que je veux dire enfin délivre bien mais tu te sens
+00:24:34  vraiment stressé c'est le stress je dois me
+00:24:37  bouger tu dois me bouger le cul de ouf
+00:24:39  pour te donner deux vidéos par jour ça va
+00:24:43  tu vas faire tu vas devoir faire soixante vidéos.
+00:24:45  Je sais pas tu vois en vrai c'est soixante balles.
+00:24:47  On t'en veut pas t'inquiète.
+00:24:50  Les gens ils c'est des humains.
+00:24:53  En fait un un genre c'est un humain en gros.
+00:24:57  Alors m r r school là où ticket je me posais la question
+00:25:02  de valeur qui qui a réussi à faire alors je me posais la
+00:25:05  question par valeur qui a réussi à faire avec YouTube
+00:25:08  est-ce que vous avez des conseils à mettre en place
+00:25:12  Ouais j'ai réussi mais c'est bien mais en fait si tu veux
+00:25:14  j'aurais vendu une format plus cher j'aurais fait plus
+00:25:16  d'argent mais en fait ça dépend de la stratégie que tu veux.
+00:25:19  Moi un truc que j'ai fait en ce moment
+00:25:22  c'est
+00:25:26  que je max mon autorité en
+00:25:29  fait.
+00:25:29  Je suis vraiment en mode du max autorité,
+00:25:31  je donne à fond à fond à fond et
+00:25:35  c'est parce que je joue au game en mode long terme et je n'ai
+00:25:37  pas besoin d'argent à court terme tu vois.
+00:25:39  Mais si j'aurais besoin enfin besoin si j'avais envie de
+00:25:41  printer vraiment je ferais du du plus étiquette
+00:25:54  Non je te conseillerais vraiment pas du lot de ticket pour toi.
+00:25:57  Toi je te conseillerais du jeu étiquette appel de
+00:26:00  closing et boom un chip comme d'habitude.
+00:26:05  Si tu reviens
+00:26:08  et
+00:26:10  même on
+00:26:13  comme Cyrus stop sans school monde avec soixante-dix KMR.
+00:26:17  J'ai rencontré il est intéressant
+00:26:22  enfin bref je suis en fait j'étais tripote avec
+00:26:28  la vraie différence c'est le la différence pas juste le concept
+00:26:32  enfin marcher un coup l'autre ticket de façon trois éléments
+00:26:34  sont essentiels être clivant
+00:26:38  avoir un personnal branding puissant et faire évoluer ton
+00:26:41  offre en continu.
+00:26:42  Ouais et en vrai si tu regardes là donc moi je connais son taux
+00:26:46  de churn au mec dans l'o f m en France ok
+00:26:50  même Cyrus bref et en gros
+00:26:54  ils ont un taux de churn de faux genre ils ont cinquante
+00:26:56  pour cent de churn pas si eux personnellement je sais pas
+00:26:58  exactement lui combien il a mais je connais toute
+00:27:01  l'industrie ils ont tous cinquante pour cent de churn ok
+00:27:04  j'ai dix douze pour cent sur trois cents membres à cent
+00:27:07  balles par mois ok ce qui est très c'est parce que j'ai un
+00:27:10  bon produit ok mais eux ils s'adressent à des gaumont
+00:27:15  ou leurs produits enfin en Overole c'est pas vraiment
+00:27:19  quelque chose que je vais recommander un un un m r r
+00:27:22  l'autre ticket ça paraît beau sur le papier mais ok on va
+00:27:25  dire j'ai pris je sais pas cent mille tout
+00:27:28  depuis le début avec business ok Cent mille, on
+00:27:35  va dire sur une format ouais sur une format à
+00:27:39  à un cas c'est seulement cent,
+00:27:41  neuf cent quatre-vingt-dix-sept seulement cent ventes ok.
+00:27:45  J'aurais fait beaucoup plus sans m r r maintenant
+00:27:49  le m r c'est cool parce que du coup les gens qui veulent juste
+00:27:51  voir ils voient à quel point c'est bien the valeur ok et ça
+00:27:54  c'est cool pour moi
+00:27:56  donc toi je te dirais tu es dans une
+00:28:01  je sais pas d'où vient ton trafic mais
+00:28:04  si tu es dans le game long terme ouais je te conseillerais
+00:28:06  de plutôt faire du étiquette call de vente etc moi si
+00:28:10  vraiment c'était pas mon business ce que je joue sur le
+00:28:13  game de deux ans tu vois la business j'ai la vision sur
+00:28:16  deux ans c'est ça qui m'intéresse
+00:28:19  voilà à court terme je m'en fiche.
+00:28:25  Comment se faire comme on a envie de faire défoncer la l p
+00:28:28  ça LP hop là boum tu m'en occupes acte de productivité
+00:28:31  ultime alors du coup vraiment à trouver son miracle
+00:28:37  des branches internet
+00:29:04  j'écoute ça après j'écoute ça après ça m'a mis trop dans tous
+00:29:07  mes états notre musique
+00:29:10  de business.
+00:29:15  Alors p d v cagnotte dites-moi ce que vous en pensez, ça part.
+00:29:20  Je fais tout ça à la fin comme d'hab.
+00:29:24  Upsell e deux l zer tu as dit que
+00:29:28  l'endabilité de tes campagnes se faisait via les upsell up u
+00:29:31  p s e deux l s.
+00:29:35  Est-ce quelque chose qu'on peut faire aussi en affiliation
+00:29:39  comment faire par exemple utiliser sa base même sur
+00:29:41  d'autres offres complémentaires alors en gros bonne question
+00:29:46  je
+00:29:49  fais via les alors c'est même pas ce que je dis je dis que ça
+00:29:52  se fait via les
+00:29:54  enfin je suis break even avec les up celles compris ok mais
+00:29:57  c'est toi quand tu shootes par exemple en affiliation il y a
+00:29:59  des up celles donc un up celle c'est ouais tu sais ce que
+00:30:03  c'est un up celle et ce qu'on peut faire aussi en
+00:30:06  affiliation oui alors quand tu média buy on va dire tu vas
+00:30:09  mettre un euro en pub tu vas sortir
+00:30:12  quatre-vingt-dix centimes plus trois leads enfin tu mets tu
+00:30:15  mets dix euros en pub tu sors dix euros et cinq leads ok
+00:30:19  imaginons et bien c'est cinq leads t'as dépensé un euro tu
+00:30:23  as fait zéro donc au final tu as fait zéro et tu as gagné
+00:30:26  cinq leads gratuitement bien c'est leads là tu vas pouvoir
+00:30:29  les utiliser pour shooter vers des nouvelles offres en
+00:30:32  affiliation et là tu as mis un euro tu ressors un baisser cinq
+00:30:35  leads sur les cinq il y en a un il va te rapporter
+00:30:38  dix balles par exemple.
+00:30:39  Donc tu auras fait dix balles de bénef.
+00:30:40  Donc au final en une semaine tu auras fait roi x deux.
+00:30:43  Ok Et ça c'est intéressant. Là là c'est un vrai modèle.
+00:30:55  Du coup voilà
+00:31:04  let's go Martin
+00:31:08  ça régale, ça régale.
+00:31:10  Bravo champion, c'est dans Martin,
+00:31:16  Martin qui fait moins trente.
+00:31:19  Un petit
+00:31:24  emoji
+00:31:27  j'ai vu ça j'ai vu le titre ça m'a fait trop rire j'ai pas vu mais
+00:31:33  Thibault vingt-cinq ans à ses présentations
+00:31:42  Ok niveau négatif.
+00:31:48  Ok
+00:31:51  let's go bienvenue normalement je lis pas les je lis pas les
+00:31:54  présentations mais là problème de Facebook ads amis
+00:31:58  ah parce qu'on en avait
+00:32:00  déjà puisqu'il a pris un call avec moi du coup il a eu mon
+00:32:02  Whatsapp mais bref
+00:32:15  Non.
+00:32:22  On en a déjà parlé, mais ouais, on en a déjà parlé,
+00:32:24  on en a déjà parlé.
+00:32:26  Je t'ai je t'en ai parlé hier.
+00:32:27  Le meilleur moyen d'apprendre enseigner, ouais, je suis plutôt
+00:32:36  d'accord.
+00:33:24  Il me menace pour un remboursement, ah ouais,
+00:33:27  c'est la vie en vrai.
+00:33:32  Alors, ah ouais, il faut rembourser les gens.
+00:33:35  C'est comme ça qu'il se passe sur internet,
+00:33:36  c'est la vie en vrai.
+00:34:04  Franchement il a combien le produit
+00:34:12  Il est,
+00:34:14  hop,
+00:34:16  le
+00:34:18  produit.
+00:34:20  En vrai, la plupart du temps,
+00:34:22  il faut rembourser les gens.
+00:34:24  Sinon, en fait, il faut rembourser les gens.
+00:34:36  En plus ça va, c'est du dix, c'est du trente balles, tu vois.
+00:34:39  T'as tu
+00:34:41  as cru jamais en justice pour trente balles
+00:34:45  en fait
+00:34:49  remboursement c'est c'est normal
+00:34:54  J'en ai j'ai des milliers d'euros par jour de remboursement
+00:34:58  pas des milliers mais au moins un cadet de remboursement moi c'est sûr.
+00:35:02  C'est normal c'est le game enfin genre tu vends il y a des
+00:35:05  gens qui sont pas satisfaits
+00:35:08  qui aimeraient
+00:35:12  enfin c'est normal en fait c'est game genre même Apple ils
+00:35:15  ont des remboursements tout en gros tout le monde a des
+00:35:17  remboursements c'est normal même le mec il est
+00:35:20  satisfait votre demande un remboursement en info prendre
+00:35:22  rien c'est un grand classique
+00:35:36  Moi je recommande qui, ah c'est
+00:35:39  c'est, je recommande eux moi.
+00:35:43  Ah ouais ouais, c'est des pirates, c'est deux pirates ça.
+00:35:51  Non
+00:35:54  pas spécialement, moi c'est pas moi qui gère,
+00:35:56  moi je gère pas la structure.
+00:35:59  À cette méthode,
+00:36:03  personnellement je ne sais pas du tout.
+00:36:05  J'ai pas envie de te dire de la merde, je sais pas.
+00:36:09  C'est pas moi qui gère.
+00:36:10  Il lui demandait à mon associé et on achète sur quoi Il m'a
+00:36:13  dit, c'est vrai qu'il y en a des assets putain.
+00:36:16  Il m'a dit on achète sur ça,
+00:36:17  mais je crois qu'il y a un forum.
+00:36:23  Ok, il y a un forum, maman.
+00:36:33  C'est vraiment, c'est vraiment ancien.
+00:36:37  C'est un truc genre là, si je sais.
+00:36:48  Je sais plus où c'est.
+00:36:50  Franchement je saurais pas te dire désolé.
+00:37:03  Produit minimum viable ouais c'est bizarre en français
+00:37:07  il a débuté de bosser six mois sur un produit avant d'autres
+00:37:08  sites non mais oui évidemment
+00:37:12  quel est le m v p simple que vous ayez annoncé Quelle
+00:37:14  métrique je suis Ah bah non mais c'est pas six mois un m v
+00:37:18  p, un m v p c'est
+00:37:21  un m v p c'est
+00:37:24  une c'est un mois max.
+00:37:25  Ça dépend à quelle fois à quel point tu veux faire un truc big mais bon
+00:37:36  voilà ouais c'est ça
+00:37:40  Comment tu as validé avant d'aller aux lignes
+00:37:43  Après, l'infoprenariat, ça me connaît.
+00:37:47  Tu vois, je sais ce que marché a besoin.
+00:37:50  Je connais ces problématiques.
+00:37:52  Je connais l'infoprenariat, je sais commander,
+00:37:55  je n'ai pas besoin de, enfin voilà.
+00:37:58  Maintenant pour un vrai MVP, si tu parles de vrai MVP, tu
+00:38:05  prends une fille tu prends le problème tu résout tu le résout
+00:38:09  mais et tu le résout quand même et tu vois surtout
+00:38:14  comment tu le vends et tu testes le projet facilement exemple
+00:38:24  mais attention parce qu'il est trop tôt parce que j'en parlais
+00:38:27  avec un pote à moi qui est dans les hier.
+00:38:30  Il me dit ouais la plupart des gens et tout ils skaient leur sas trop tôt,
+00:38:34  ils comprennent pas qu'il faut d'abord bulle le bon enfin nous
+00:38:37  on a fait combien on est en mode on met un euro en machine
+00:38:39  on en sort trois bon bah go on scale tu vois et eux ils sont
+00:38:43  en mode non faut d'abord finir de bien faire le product après
+00:38:46  scale comme ça tu as une rétention et c'est le bon pricing machin
+00:38:52  donc ouais un MVP c'est rapide c'est vraiment un mois max
+00:38:57  ça dépend si on parle en tech moi business os ça m'a pris
+00:39:01  quatre cinq jours avant
+00:39:06  de avant de
+00:39:14  avant de
+00:39:15  j'ai fait commencer ici les bases et après le reste ça
+00:39:20  s'est fait au fur et à mesure rediffusion
+00:39:22  live atelier ads marketing tips
+00:39:25  réponse à vos questions ça ça se fait ça s'est fait au fur et
+00:39:28  à mesure tout ça.
+00:39:30  Ce qu'on a fait en amont en revanche c'est commencé ici,
+00:39:34  boom, ce que j'ai fait en amont, puis les bases,
+00:39:38  ça effectivement ça peut-être c'est plus l'onglet
+00:39:40  productivité effectivement,
+00:39:42  ça qui a pris un petit peu de temps quoi
+00:39:50  mais
+00:39:54  ouais sinon pas besoin de se prendre la tête
+00:39:59  enfin pas besoin de se prendre la tête prend juste une feature
+00:40:01  et défonce la quoi swake file
+00:40:05  en français
+00:40:53  Ah
+00:40:56  non, c'est un texte de merde, tu vois, je suis pas trop fan.
+00:41:01  Ah ouais lui aussi.
+00:41:10  Ah bah ouais
+00:41:12  santé nature et innovation ceni.
+00:41:16  C'est les suisses, ça passe bien.
+00:41:25  Tu gagnes
+00:41:32  ok intéressant
+00:41:35  ok bon allez on
+00:41:38  attaque
+00:41:48  Je ne sais pas.
+00:41:50  Alors, oh là là, c'est quoi ce,
+00:41:51  c'est quoi ce cette image
+00:41:54  Je sais quoi cette image Je ne suis vraiment pas fan.
+00:42:11  Ok je reprends alors en fait le truc c'est que c'est trop
+00:42:22  c'est un peu de la merde tu vois.
+00:42:27  Genre c'est pas pro si c'est en mode ouais,
+00:42:30  c'est une entreprise ou c'est une tu vois
+00:42:35  Tu vois ça ça non tu
+00:42:38  vois
+00:42:40  En
+00:42:43  fait, en fait je ne sais même pas dans quoi je donne,
+00:42:44  genre je comprends pas assez ça manque
+00:42:49  de c'est pas clair en fait genre je te fais un don à toi en fait
+00:43:23  Je suis vraiment pas fan.
+00:43:26  Il vient d'où le trafic
+00:43:39  je suis
+00:43:47  vraiment pas fan
+00:43:53  ouais
+00:43:56  en fait ça manque de ça manque d'émotion en fait ça manque d'émotion
+00:44:01  ça faut que tu montes des gens qui qui meurent en fait
+00:44:07  demande des
+00:44:12  enfants qui souffrent.
+00:44:22  Déjà c'est beaucoup mieux là.
+00:44:24  Ah c'est plaisir, c'est déjà plus de deux,
+00:44:26  j'étais quinze mille euros par mois.
+00:44:29  C'est déjà vraiment mieux.
+00:44:37  Nous sommes légalement
+00:44:39  une agence qui fait plus de cinq ans et une agence qui fait
+00:44:42  plus de cinq ans par mois et si vous ne pouvez pas générer plus
+00:44:45  de vingt à soixante dix appels ultra qualifiés convertisables
+00:44:48  en neuf sous titres.
+00:44:49  Magic chaque jour pour votre offrir grâce à nos systèmes intelligents,
+00:44:53  je vous aide personnellement à atteindre quinze à trente cas
+00:44:55  par mois minimum d'ici les quatre-vingt-sept prochains
+00:44:57  jours grâce à Global Acquisition où nous sommes
+00:45:00  légalement tenus de vous accompagner jusqu'au résultat
+00:45:03  sans vous poser des questions et de vous remettre une
+00:45:05  compensation de mille euros en d'autres
+00:45:07  termes si après avoir mis en place étape par étape global
+00:45:11  acquisition vous n'arrivez pas à générer le numéro quinze cas
+00:45:13  par mois de chiffre d'affaires en automatique alors mon équipe
+00:45:16  et moi-même sommes légalement que nous vous accompagnons
+00:45:19  gratuitement jusqu'au résultat et vous donnons la somme mille
+00:45:22  euros pour le temps perdu maintenant si vous vous
+00:45:24  demandez sûrement pourquoi est-ce que je peux faire une
+00:45:26  affirmation aussi audacieuse c'est parce que je sais que ça
+00:45:29  peut sembler C'est tellement mieux.
+00:45:32  Merci Karl. Enfin, enfin quelque chose de sérieux.
+00:45:36  Je l'attendais ce moment Karl.
+00:45:44  Mais oui
+00:45:47  mais mais oui c'est très bien ça ça peut être
+00:45:51  amélioré évidemment mais on revient de loin on
+00:45:55  revient de loin Carl là je mettrais peut-être un petit
+00:45:57  ouais non en fait c'est bon ok ouais
+00:46:01  c'est c'est
+00:46:04  magnifique félicitations
+00:46:09  Très bien.
+00:46:10  Si vous ne pouvez pas générer.
+00:46:12  Je te révélerai un peu moi sur le,
+00:46:14  c'est du détail mais franchement c'est très bien.
+00:46:21  Pour le temps perdu grâce à global acquisition que nos
+00:46:24  apprenants ont pu changer leur vie et celle de leur business.
+00:46:29  Je crois aussi que tu pourrais essayer de faire un peu plus
+00:46:31  pro dans le background en fait vu que tu vends du high ticket
+00:46:35  c'est important d'avoir l'air pro et corporate parce que
+00:46:40  ouais faut donner envie aux gens que tu fais que tu fais
+00:46:42  attention aux détails en fait
+00:46:46  voilà mais sinon le site en lui-même vraiment mieux.
+00:46:55  Stop si vous êtes une agence dans l'IA et que vous en avez
+00:46:58  assez de ne pas trouver d'offres qui conviennent à
+00:47:00  votre marché submergé par l'autre Ok il faut mettre des
+00:47:02  sous titres déjà.
+00:47:05  Stop. Mets-moi un montage, mets-moi le stop.
+00:47:08  Si vous êtes une agence dans l'IA et que vous en avez assez
+00:47:10  de ne pas trouver d'offres qui convient à votre marché
+00:47:13  submergé par l'opérationnel Sublimez pas à l'opérationnel,
+00:47:15  je ne suis pas je ne suis pas trop fan.
+00:47:16  Et qu'en plus de ça vous avez du mal à générer plus de delips
+00:47:19  par mois alors écoutez ça.
+00:47:21  Barillon vous garantit personnellement de générer
+00:47:23  entre quinze et trente mille euros par mois supplémentaires
+00:47:26  à votre activité.
+00:47:27  Si jamais ce n'est pas le cas on travaillera avec vous
+00:47:30  gratuitement jusqu'à l'obtention de vos résultats et
+00:47:32  en plus de ça on vous offrira mille euros de compensation
+00:47:35  pour le temps que vous Trop long la garantie.
+00:47:37  Vous avez perdu alors perdez pas de temps cliquez sur le
+00:47:40  lien en deux Je ne suis pas trop fan t'explique pas le
+00:47:42  mécanisme je te crois pas
+00:47:44  je ne suis pas trop fan de la pub on va voir ça plus tard ah tiens c'est
+00:47:49  intéressant
+00:47:51  et
+00:47:53  bon on est good
+00:47:55  salut à tous et bien alors déjà je pourrais retirer ça vu dans
+00:47:58  cette vidéo de Brisler l'extension.
+00:48:00  Non ça pas du tout.
+00:48:01  Son qui te permettra d'arrêter de dévier lorsque tu vas sur
+00:48:03  YouTube à des fins éducatives Et au professionnel.
+00:48:04  Et aux professionnels.
+00:48:06  Pour installer l'extension il te suffit d'aller sur le Chrome
+00:48:08  web store ou sur celui de Firefox elle est également
+00:48:11  disponible sur Firefox.
+00:48:12  Tu pourras du coup l'installer en cliquant sur ce bouton.
+00:48:15  Mais en tout cas intéressant.
+00:48:17  Et alors ça sera installé.
+00:48:18  Tu présentes bien en tout cas.
+00:48:20  Tu me tu me fixes un peu le fond rapidement,
+00:48:23  tu me mets derrière un fond blanc ou tu retournes ton ordi
+00:48:25  ou un truc comme ça.
+00:48:27  Tu pourras cliquer accéder ici dans tes extensions et cliquer
+00:48:29  sur le petit le petit icône,
+00:48:31  il te sera demandé de souscrire à un plan pour accéder aux
+00:48:34  fonctionnalités de l'extension et lorsque ceci sera fait,
+00:48:36  tu recevras un mail de confirmation avec une clé de
+00:48:39  licence qui te servira à te connecter.
+00:48:41  Lorsque tu arrives sur la page ici tu peux cliquer sur login
+00:48:43  et rentrer copier coller ton la clé de licence afin de te
+00:48:46  connecter lorsque ceci est fait comme tu
+00:48:48  peux le voir ici tu peux fermer ces pages et
+00:48:52  tu accèdes au pop-up ici pour mettre tes paramètres il y a
+00:48:55  deux types de sessions tu peux soit lancer une session spontanée,
+00:48:57  imaginons que tu veux faire un de quarante-cinq minutes et où tu peux lancer,
+00:49:01  tu peux paramétrer des sessions hebdomadaires qui se lanceront
+00:49:03  à des heures précises quotidiennement dans la semaine
+00:49:06  selon les paramètres que tu vas rentrer ici.
+00:49:08  Imaginons que je veux faire un de quarante-cinq minutes et que
+00:49:11  je lance celui-ci et que je décide d'aller sur YouTube afin
+00:49:14  de m'informer sur le marketing pour les
+00:49:17  sas je rentre ici ce que je veux regarder sas marketing
+00:49:20  vidéo et voilà
+00:49:25  fais ma petite
+00:49:28  recherche ok
+00:49:31  bon bah disons que je regardais cette vidéo tranquillement
+00:49:40  Je regarde la vie,
+00:49:41  mais imaginons que hop un petit trigger qui est je veux aller
+00:49:44  prendre mon shoot de dopamine,
+00:49:45  un trigger par par ici ou non si elle est cachée par si cette
+00:49:49  section est passée par une extension qui peut nous mais je
+00:49:51  peux aller juste à une recherche disons et que je vais
+00:49:53  avoir mon shoot de dopamine et que je vais aller regarder le
+00:49:55  numéro de Mister Beast et que je clique juste ici vidéo
+00:50:00  bloquée tout simplement parce qu'elle ne correspond pas au
+00:50:04  type de vidéo que j'ai dit que je voulais regarder on peut
+00:50:06  aller essayer de cliquer sur une vidéo
+00:50:08  imaginons j'étais trigger par une vidéo
+00:50:12  sur le tronc d'accueil
+00:50:14  bloquer tout simplement parce qu'elle ne correspond pas à ce
+00:50:16  que j'ai dit que j'allais faire voilà comment ça
+00:50:24  marche.
+00:50:37  Intéressant. Bon écoutez merci à tous.
