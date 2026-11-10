@@ -1,0 +1,5 @@
+# Cheveux et texte V4
+
+Mode : retouche avec génération d’images intégrée.
+
+Edit supplied advertisement in exactly TWO areas. (1) Main seated woman's HAIR ONLY: replace the tangled synthetic wiry hair with believable ordinary shoulder-length brown hair, softly brushed, simple natural side part, falling in coherent soft locks under gravity. Slightly straighter, less volume and much fewer flyaways. Matte subtle highlights matching window light, no glowing strands, no overly sharp individual hairs, no repeated spaghetti filaments, no wig-like clumps, no salon blowout. It should look like an unretouched everyday camera photograph. Preserve woman's face, identity, expression, pose, skin, clothes, hands and age unchanged. (2) Replace ONLY the white supporting sentence above orange CTA with this EXACT French sentence, including accent: 'Quelle part de votre héritage va revenir à l’État ?'. Preserve font, color, placement and readable scale. Keep everything else unchanged: top headline, orange CTA wording, room, keys, paperwork, square crop, and especially framed photo of woman with her elderly parents. No other text or object modifications.

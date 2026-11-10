@@ -1,0 +1,5 @@
+# Format TV couleurs marque
+
+Mode : retouche via génération d’images intégrée.
+
+Precise edit of supplied square French broadcast-style ad. Change only graphic palette and advertising label treatment. Replace royal blue headline rectangle and top-left SUCCESSION box with brand deep navy #12365E. Replace yellow secondary strip and small yellow accent beside SUCCESSION with brand orange #E8730C. Keep headline white, secondary strip text dark navy #12365E, footer white with navy text/chevron. Replace large top-right white PUBLICITÉ cartouche with a smaller understated but clearly readable 'Publicité' label, regular white sans-serif on a small translucent dark navy rectangular backing, approximately half previous label width, enough contrast and margin, not hidden or microscopic. Keep it top right. Preserve all other copy verbatim, photo identities/poses/scene/lighting, typography sizes, main band layout, square crop. No new words, no logos, no BFM branding, no faux live indicator, no decorative text. Flat sober professional rectangles, no glows or gradients. Do not alter faces or hands.
