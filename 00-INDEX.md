@@ -1,11 +1,12 @@
 # INDEX — Où trouver quoi
 
-> 54 fichiers, ~131 000 mots. Tout vient de **Business OS (The Valere)**.
+> 89 fichiers, ~350 000 mots. Deux sources : **Business OS (The Valere)**, dossiers `01` à `10`,
+> et **TUGAN maxi (Tugan)**, dossier `11-tugan/`. Toutes les bases d'un business.
 > Si tu ne sais pas où chercher, pars d'ici. Si tu as une question fermée, pars de
 > `09-faq/arbitrages.md`.
 
 ## Je veux créer un funnel de zéro
-→ `06-process/PROCESS-MAITRE.md` (le pipeline complet, 5 phases)
+→ `06-process/PROCESS-MAITRE.md` (le pipeline complet, 6 phases)
 → L'ordre de départ en 7 étapes : `09-faq/arbitrages.md` § L'ordre de départ
 
 ---
@@ -180,10 +181,23 @@ avatar, payer sa communauté en affiliation.
 | Doc de travail Avatar + Offre | `07-templates/doc-travail-avatar-offre.md` |
 | Livres, outils, fournisseurs, marchés | `02-acquisition/ressources-fournisseurs.md` |
 
-## Je cherche les connaissances de Tugan
-| Référence | Fichier |
+## Je cherche les connaissances de Tugan (`11-tugan/`)
+| Je veux… | Fiche |
 |---|---|
-| Les 32 fiches par module et le sommaire | `11-tugan/README.md` |
+| Le sommaire et la méthode de traitement | `11-tugan/README.md` |
+| Copywriting : persuasion, avatar, mécanisme, closes, structures | `01` à `08`, `27`, `28` |
+| E-mailing : bases, séquences, remplir sa liste, tunnel | `09`, `10`, `11`, `26` |
+| Copywriter Pro, offre irrésistible, manuel du prestataire | `12` à `14` |
+| Profits Mimétiques (quoi imiter) et e-commerce | `15` |
+| Édition d'ebook et d'infoproduit | `16`, `17` |
+| Fiscalité, affiliation, Facebook Ads, Twitter | `18` |
+| Méthode et état d'esprit (Tugan Feed) | `19` |
+| MVG : le personnage public minimal, abonnement, rétention | `20`, `21` |
+| Tech, IA, no-code, automatisation | `22` |
+| Crypto et web3 (en grande partie périmé) | `23`, `24` |
+| Founders : closers, actifs revendables, modèle léger | `25` |
+| Lancement en 28 jours | `29`, `30`, `31` |
+| Conversion, closing, SaaS, preuves, storytelling, bumps | `32` |
 
 ---
 
@@ -214,7 +228,7 @@ transcription automatique de la formation. Versionnées pour archive uniquement.
 ❌ **On ne répond jamais à une question depuis ces fichiers.** La transcription est
 truffée d'erreurs (« la vaisselle » = la VSL, « obsel » = upsell, « mediaabying » =
 media buying, « l'ticket » = low ticket…). Tout ce qui valait d'être retenu a déjà
-été décodé et réécrit dans les 10 dossiers numérotés ci-dessus.
+été décodé et réécrit dans les dossiers numérotés ci-dessus.
 
 ✅ On n'y revient que pour vérifier une citation ou retrouver un chiffre exact.
 → Détail et table des erreurs : `transcript business os/README.md`

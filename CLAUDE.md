@@ -1,14 +1,22 @@
-# Process Infoproduit — Base de connaissance
+# Process Valère — Les bases du business
 
 ## Ce que c'est
 
-Base de connaissance issue de **Business OS (The Valere)**, structurée pour permettre
-la **création automatisée de funnels infoproduit** — de l'ad copy jusqu'à l'offre.
+Base de connaissance qui couvre **toutes les bases d'un business** : stratégie, offre et produit,
+copywriting, e-mailing, acquisition, funnel, vente par appel, lancement, fidélisation, équipe,
+fiscalité, tech et IA. Elle réunit deux sources :
 
-Source : formation Business OS — **la totalité** des transcripts : modules « Les
-bases », les 27 lives, l'Atelier Organique, les Marketing Tips, les bonus membre
-annuel et les 13 sessions de Q&A. Un praticien qui a spend 5-6M€ sur ses propres
-funnels et dépassé 100M€ de CA sur un business.
+- **Business OS (The Valere)**, dossiers `01` à `10` : la méthode de référence, organisée par étape
+  du funnel. Source : **la totalité** des transcripts (modules « Les bases », les 27 lives,
+  l'Atelier Organique, les Marketing Tips, les bonus membre annuel et les 13 sessions de Q&A).
+  Un praticien qui a dépensé 5-6 M€ sur ses propres funnels et dépassé 100 M€ de CA sur un business.
+- **TUGAN maxi (Tugan)**, dossier `11-tugan/` : 32 fiches de synthèse par module (copywriting,
+  e-mailing, lancement en 28 jours, fiscalité, IA, vente). Reformulées, jamais recopiées.
+
+**Infoproduit d'abord, business pour tout.** Le gros de Valère est pensé pour l'infoproduit
+(funnels, VSL, upsells, low vers high ticket) ; les principes (4 lois, structure CEO, One Belief,
+copy, closing, équipe) valent pour tout business qui vend. Pour ce qui sort du funnel
+(fiscalité, tech, IA, e-mailing de fond), aller dans `11-tugan/`.
 
 ⚠️ Le dossier `transcript business os/` contient les **sources brutes non traitées**
 (195 fichiers, ~888 000 mots de transcription automatique). Il est versionné pour
@@ -27,7 +35,8 @@ Voir `transcript business os/README.md`.
 
 1. **Toujours répondre en français**, ton direct, pas de langue de bois.
 2. **Chercher d'abord dans les fichiers de ce dossier** avant de répondre de mémoire.
-   La connaissance ici prime sur les généralités marketing.
+   La connaissance ici prime sur les généralités marketing. Valère est la référence ;
+   Tugan (`11-tugan/`) la complète. Quand ils divergent, le dire et donner les deux.
 3. Si la question porte sur **un process** → `06-process/PROCESS-MAITRE.md`
    → pour **écrire** un process (déléguer, automatiser, sortir le fondateur de la
    boucle) : `06-process/creer-un-process.md`
@@ -58,6 +67,10 @@ Voir `transcript business os/README.md`.
    `06-process/lancement-organique.md`
 12. Si la question porte sur **le low ticket vers le high ticket** →
    `04-produit/low-to-high-ticket.md`
+13. Si la question porte sur **la fiscalité, le juridique, la tech, l'IA, l'e-mailing de fond,
+   le lancement en 28 jours, l'édition d'ebook ou le copywriting détaillé** → `11-tugan/README.md`
+   (le tableau dit quelle fiche, de 01 à 32). Chiffres de Tugan non vérifiés, contexte 2019-2023 :
+   chaque fiche a sa section « Ce qui a vieilli ».
 
 ## Les 4 lois non négociables
 
@@ -75,7 +88,7 @@ Ces règles écrasent toute autre considération. Si une réponse les viole, ell
 
 ## Carte du dossier
 
-54 fichiers, ~131 000 mots.
+89 fichiers, ~350 000 mots (hors transcripts bruts).
 
 | Dossier | Contenu |
 |---|---|
@@ -89,6 +102,7 @@ Ces règles écrasent toute autre considération. Si une réponse les viole, ell
 | `08-scaling/` | Passer de 100k à 300k, ⭐ **recrutement (système complet)**, équipe & rémunération, structure, expatriation, ⭐ **CSM / délivrabilité produit**, ⭐ **creative strategist**, ⭐ **productivité** |
 | `09-faq/` | Arbitrages tranchés (~9 500 mots, 5 parties) — les questions récurrentes, déjà décidées |
 | `10-closing/` | **Vente par appel** — principes premiers, script en 16 parties, objections, garantie, setting, closers, ⭐ **construire et scaler un call funnel** |
+| `11-tugan/` | **Formation TUGAN maxi** : 32 fiches par module (copywriting, e-mailing, lancement en 28 jours, Profits Mimétiques, MVG, fiscalité, Facebook Ads, IA, vente) et leur sommaire |
 
 Point d'entrée narratif : `00-INDEX.md`
 
