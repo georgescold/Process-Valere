@@ -1,8 +1,0 @@
-{
-  "source": "v2/assembly.mp4",
-  "method": "Fixed white balance, monotonic luminance curve and global chroma adjustment per take",
-  "segmentation": false,
-  "local_exposure_masks": false,
-  "background_blur": false,
-  "face_geometry_processing": false
-}

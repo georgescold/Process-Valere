@@ -1,4 +1,0 @@
-0.75-5.61  Cette solution repose sur un levier que les architectes exploitent encore très peu, c'est la publicité locale.
-5.99-9.39  Et si vous doutez que ça fonctionne pour votre métier, vous n'êtes pas obligé de me croire sur parole.
-10.05-14.15  En fait, Meta est obligé de rendre public les publicités qui sont diffusées sur Facebook et Instagram,
-14.41-18.31  donc tout ce que je vais vous dire là par la suite, vous pourrez directement aller le vérifier par vous-même.

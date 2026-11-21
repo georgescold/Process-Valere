@@ -1,6 +1,6 @@
-# Architectes — Essort et base Valère
+# Base Valère et connaissances de Tugan
 
-**Projet actuel :** [Essort — guide, VSL, offre, cible et avatar](10-projets/architectes-france/README.md).
+**Connaissances de Tugan :** [fiches par module](11-tugan/README.md).
 
 Les sections ci-dessous décrivent la base méthodologique Valère conservée pour le copywriting.
 

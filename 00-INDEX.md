@@ -180,15 +180,10 @@ avatar, payer sa communauté en affiliation.
 | Doc de travail Avatar + Offre | `07-templates/doc-travail-avatar-offre.md` |
 | Livres, outils, fournisseurs, marchés | `02-acquisition/ressources-fournisseurs.md` |
 
-## Je travaille sur le projet Essort
+## Je cherche les connaissances de Tugan
 | Référence | Fichier |
 |---|---|
-| Point d’entrée actuel | `10-projets/architectes-france/README.md` |
-| Offre Meta 999 € et accompagnement global sur mesure | `10-projets/architectes-france/strategie/offre-actuelle.md` |
-| Cible et avatar, indépendants et équipes 1–5 | `10-projets/architectes-france/strategie/cible-avatar.md` |
-| Recherche marché détaillée | `10-projets/architectes-france/strategie/marche-et-cible.md` |
-| Lead magnet final, 57 pages | `10-projets/architectes-france/leadmagnet/guide-acquisition-marketing-architectes-2026.pdf` |
-| VSL V11 et fichiers de lecture | `10-projets/architectes-france/vsl/v11/LIRE-MOI-V11.md` |
+| Les 32 fiches par module et le sommaire | `11-tugan/README.md` |
 
 ---
 
